@@ -1,5 +1,4 @@
 import type { Metadata } from 'next'
-import Script from 'next/script'
 import './globals.css'
 
 const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
@@ -44,22 +43,20 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* WebSite Schema */}
-        <Script
-          id="website-schema"
+        {/* WebSite Schema - SSR rendered */}
+        <script
           type="application/ld+json"
-          strategy="beforeInteractive"
-        >
-          {JSON.stringify(websiteSchema)}
-        </Script>
-        {/* Organization Schema */}
-        <Script
-          id="organization-schema"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(websiteSchema),
+          }}
+        />
+        {/* Organization Schema - SSR rendered */}
+        <script
           type="application/ld+json"
-          strategy="beforeInteractive"
-        >
-          {JSON.stringify(organizationSchema)}
-        </Script>
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationSchema),
+          }}
+        />
       </head>
       <body className="antialiased">
         <main className="min-h-screen bg-gray-50">
