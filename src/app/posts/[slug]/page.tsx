@@ -87,8 +87,6 @@ export default async function PostPage({ params }: PageProps) {
     wordCount: page.content?.split(/\s+/).length || 0,
   }
 
-  const sections = page.content.split('\n\n').filter(Boolean)
-
   return (
     <>
       <script
@@ -136,61 +134,7 @@ export default async function PostPage({ params }: PageProps) {
         </header>
 
         <article className="prose prose-gray max-w-none">
-          {sections.map((section, index) => {
-            if (section.startsWith('## ')) {
-              return (
-                <h2
-                  key={index}
-                  className="text-2xl font-semibold text-gray-800 mt-8 mb-4"
-                >
-                  {section.replace('## ', '')}
-                </h2>
-              )
-            }
-            if (section.startsWith('# ')) {
-              return (
-                <h1
-                  key={index}
-                  className="text-3xl font-bold text-gray-900 mt-8 mb-4"
-                >
-                  {section.replace('# ', '')}
-                </h1>
-              )
-            }
-
-            if (section.includes('\n- ') || section.includes('\n1. ')) {
-              const lines = section.split('\n')
-              const isNumbered = lines.some((l) => /^\d+\./.test(l))
-
-              return isNumbered ? (
-                <ol key={index} className="list-decimal pl-6 my-4 space-y-2">
-                  {lines
-                    .filter((l) => /^\d+\./.test(l))
-                    .map((line, i) => (
-                      <li key={i} className="text-gray-700">
-                        {line.replace(/^\d+\.\s*/, '')}
-                      </li>
-                    ))}
-                </ol>
-              ) : (
-                <ul key={index} className="list-disc pl-6 my-4 space-y-2">
-                  {lines
-                    .filter((l) => l.startsWith('- '))
-                    .map((line, i) => (
-                      <li key={i} className="text-gray-700">
-                        {line.replace('- ', '')}
-                      </li>
-                    ))}
-                </ul>
-              )
-            }
-
-            return (
-              <p key={index} className="text-gray-700 mb-4 leading-relaxed">
-                {section}
-              </p>
-            )
-          })}
+          <div dangerouslySetInnerHTML={{ __html: page.content }} />
         </article>
       </div>
     </>
