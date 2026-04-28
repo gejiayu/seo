@@ -1,8 +1,10 @@
 import { Metadata } from 'next'
+import Script from 'next/script'
 import { notFound } from 'next/navigation'
 import { getPageByCategoryAndSlug, getAllPagePaths } from '@/lib/data-loader'
 
-// Force dynamic rendering for development
+// Force Node.js runtime for fs access
+export const runtime = 'nodejs'
 export const dynamic = 'force-dynamic'
 export const dynamicParams = true
 
@@ -61,11 +63,49 @@ export default async function ContentPage({ params }: PageProps) {
     notFound()
   }
 
+  // Generate Article Schema JSON-LD
+  const siteUrl = process.env.SITE_URL || 'https://example.com'
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: page.title,
+    description: page.description,
+    url: `${siteUrl}/${category}/${slug}`,
+    datePublished: page.published_at,
+    dateModified: page.published_at,
+    author: {
+      '@type': 'Person',
+      name: page.author || 'SEO Content Team',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'SEO Content Hub',
+      url: siteUrl,
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${siteUrl}/${category}/${slug}`,
+    },
+    keywords: page.seo_keywords?.join(', ') || '',
+    articleSection: category,
+    wordCount: page.content?.split(/\s+/).length || 0,
+  }
+
   // Parse content into sections (simple markdown-like parsing)
   const sections = page.content.split('\n\n').filter(Boolean)
 
   return (
-    <div className="container mx-auto px-4 py-8 max-w-4xl">
+    <>
+      {/* JSON-LD Structured Data */}
+      <Script
+        id="article-schema"
+        type="application/ld+json"
+        strategy="beforeInteractive"
+      >
+        {JSON.stringify(articleSchema)}
+      </Script>
+
+      <div className="container mx-auto px-4 py-8 max-w-4xl">
       {/* Header */}
       <header className="mb-8">
         <div className="mb-4">
@@ -167,5 +207,6 @@ export default async function ContentPage({ params }: PageProps) {
         })}
       </article>
     </div>
+    </>
   )
 }

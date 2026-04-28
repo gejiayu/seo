@@ -2,6 +2,9 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { getAllPages, getAllCategories } from '@/lib/data-loader'
 
+// Force Node.js runtime for fs access
+export const runtime = 'nodejs'
+
 export async function generateMetadata(): Promise<Metadata> {
   return {
     title: 'SEO Content Hub',
