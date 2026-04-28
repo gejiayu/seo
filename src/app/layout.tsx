@@ -2,20 +2,22 @@ import type { Metadata } from 'next'
 import Script from 'next/script'
 import './globals.css'
 
+const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
+
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: {
-    default: 'SEO Content Hub',
-    template: '%s | SEO Content Hub',
+    default: 'HouseCar',
+    template: '%s | HouseCar',
   },
   description: 'Programmatic SEO content pages generated from structured data',
 }
 
 // WebSite Schema for entire site
-const siteUrl = process.env.SITE_URL || 'https://example.com'
 const websiteSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: 'SEO Content Hub',
+  name: 'HouseCar',
   url: siteUrl,
   description: 'Programmatic SEO content pages generated from structured data',
   potentialAction: {
@@ -29,7 +31,7 @@ const websiteSchema = {
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
-  name: 'SEO Content Hub',
+  name: 'HouseCar',
   url: siteUrl,
   logo: `${siteUrl}/logo.png`,
 }

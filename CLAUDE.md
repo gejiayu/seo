@@ -40,28 +40,42 @@ The project uses a **data-first architecture**:
 
 3. **Routing** (`src/app/[category]/[slug]/page.tsx`)
    - Dynamic route segments: `/[category]/[slug]`
-   - `generateStaticParams()` pre-generates all pages at build time (SSG)
+   - `generateStaticParams()` pre-generates all pages at build time
    - `generateMetadata()` creates SEO metadata per page (title, description, keywords, OpenGraph, Twitter cards)
+   - Includes JSON-LD Article schema for structured data
    - Returns 404 if page data not found
 
 4. **Homepage** (`src/app/page.tsx`)
    - Lists all available pages with category badges, titles, descriptions
    - Shows keyword tags for each page
 
+### Runtime Configuration
+
+Both pages use Node.js runtime for filesystem access:
+```typescript
+export const runtime = 'nodejs'
+```
+
+The dynamic page also has:
+```typescript
+export const dynamic = 'force-dynamic'
+export const dynamicParams = true
+```
+
 ### SEO Features
 
 - **Metadata**: Full SEO metadata per page including OpenGraph/Twitter cards
+- **JSON-LD**: Article schema structured data for search engines
 - **Sitemap**: Auto-generated via `next-sitemap` in `postbuild` script
 - **Robots.txt**: Auto-generated with `/api/*` exclusion
 - **Canonical URLs**: Set in metadata for each page
-- **Static Generation**: All pages pre-rendered at build time
 
 ### Key Files
 
 | Path | Purpose |
 |------|---------|
 | `src/lib/data-loader.ts` | Recursive JSON data loader with filesystem traversal |
-| `src/app/[category]/[slug]/page.tsx` | Dynamic page component with SEO metadata |
+| `src/app/[category]/[slug]/page.tsx` | Dynamic page component with SEO metadata and JSON-LD |
 | `src/app/page.tsx` | Homepage listing all pages |
 | `next-sitemap.config.js` | Sitemap/robots.txt configuration |
 
@@ -92,11 +106,13 @@ The `content` field supports simple markdown-like syntax:
 - `## Heading 2` → `<h2>`
 - `- List item` → `<ul><li>`
 - `1. Numbered item` → `<ol><li>`
-- Plain text → `<p>`
+- Plain text separated by `\n\n` → `<p>`
 
 ## Environment Variables
 
-Set `SITE_URL` in production to configure the sitemap base URL:
+Set `SITE_URL` in production to configure the sitemap base URL and JSON-LD URLs:
 ```bash
 SITE_URL=https://your-domain.com npm run build
 ```
+
+Defaults to `https://example.com` if not set.
