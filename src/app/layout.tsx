@@ -43,6 +43,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Google AdSense Ownership Verification */}
+        <meta name="google-adsense-account" content="ca-pub-9920271435480805" />
         {/* Google AdSense */}
         <script
           async
