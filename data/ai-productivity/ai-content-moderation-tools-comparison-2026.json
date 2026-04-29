@@ -2,7 +2,13 @@
   "title": "AI内容审核工具评测：AWS Rekognition vs Google Vision vs Azure Content Moderator",
   "description": "评测AWS Rekognition、Google Cloud Vision、Azure Content Moderator等AI内容审核工具的图像文字审核能力，帮你找到最适合远程团队的合规审查方案。",
   "content": "<h2>远程团队的内容合规挑战</h2><p>远程团队处理用户上传内容（图片、视频、文字）时，需要自动审核合规性。AI内容审核工具能检测敏感内容、暴力元素、违规文字，保护平台安全。</p><h2>核心功能对比</h2><table><tr><th>功能</th><th>AWS Rekognition</th><th>Google Vision</th><th>Azure Moderator</th><th>Clarifai</th></tr><tr><td>图像审核</th><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>文字审核</th><td>❌</td><td>✅</td><td>✅</td><td>❌</td></tr><tr><td>视频审核</th><td>✅</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td>自定义模型</th><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>价格</th><td>$1/1000图</th><td>$1.5/1000图</th><td>$1/1000图</th><td>免费试用</td></tr></table><h2>AWS Rekognition详解</h2><p>AWS的图像/视频审核工具，能检测面部、物体、敏感内容。</p><ul><li><strong>核心能力：</strong>图像审核、视频审核、面部检测、自定义标签</li><li><strong>优势：</strong>视频审核独特、AWS生态集成、自定义能力强</li><li><strong>劣势：</strong>无文字审核、API调用复杂</li><li><strong>价格：</strong>$1/1000图，视频$0.1/分钟</li></ul><h2>Google Cloud Vision详解</h2><p>Google的Vision API能审核图像文字，检测敏感内容。</p><ul><li><strong>核心能力：</strong>SafeSearch审核、OCR文字识别、Logo检测</li><li><strong>优势：</strong>OCR最强、文字审核、Google生态</li><li><strong>劣势：</strong>无视频审核、价格稍高</li><li><strong>价格：</strong>$1.5/1000图，SafeSearch免费额度</li></ul><h2>Azure Content Moderator详解</h2><p>微软的内容审核工具，能审核图像和文字内容。</p><ul><li><strong>核心能力：</strong>图像审核、文字审核、自定义规则</li><li><strong>优势：</strong>文字审核专业、Azure生态集成</li><li><strong>劣势：</strong>无视频审核、API调用复杂</li><li><strong>价格：</strong>$1/1000图，文字$0.25/1000条</li></ul><h2>Clarifai详解</h2><p>Clarifai提供图像/视频AI审核，自定义模型能力强。</p><ul><li><strong>核心能力：</strong>图像/视频审核、自定义模型、预训练模型</li><li><strong>优势：</strong>免费试用、自定义模型易用</li><li><strong>劣势：</strong>无文字审核、企业版价格高</li><li><strong>价格：</strong>免费5000图/月，Pro $20/月</li></ul><h2>对比总结</h2><table><tr><th>工具</th><th>图像</th><th>视频</th><th>文字</th><th>价格</th></tr><tr><td>AWS</td><td>✅</td><td>✅</td><td>无</td><td>$1</td></tr><tr><td>Google</td><td>✅</td><td>无</td><td>✅</td><td>$1.5</td></tr><tr><td>Azure</td><td>✅</td><td>无</td><td>✅</td><td>$1</td></tr><tr><td>Clarifai</td><td>✅</td><td>✅</td><td>无</td><td>免费试用</td></tr></table><h2>选择建议</h2><p>视频审核选AWS或Clarifai，文字审核选Google或Azure，预算有限先用Clarifai免费试用。建议组合：AWS视频+Google文字OCR，覆盖全部审核需求。</p>",
-  "seo_keywords": ["AI content moderation", "AWS Rekognition review", "image moderation API", "text content filter", "platform compliance tools"],
+  "seo_keywords": [
+    "AI content moderation",
+    "AWS Rekognition review",
+    "image moderation API",
+    "text content filter",
+    "platform compliance tools"
+  ],
   "slug": "ai-content-moderation-tools-comparison-2026",
   "published_at": "2026-05-16",
   "author": "Platform Safety Analyst"

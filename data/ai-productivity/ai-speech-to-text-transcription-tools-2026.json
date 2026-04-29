@@ -2,7 +2,13 @@
   "title": "AI语音转文字工具评测：Whisper vs Otter vs Google Speech远程办公实测",
   "description": "评测OpenAI Whisper、Otter.ai、Google Speech-to-Text等AI语音转录工具的准确率和性价比，帮你找到最适合远程团队的语音转文字方案。",
   "content": "<h2>AI语音转文字：远程沟通的效率倍增器</h2><p>远程团队大量使用语音沟通：会议记录、视频字幕、语音笔记、客户电话。AI语音转文字工具能将所有语音内容自动转录为文字，大幅提升信息留存效率。</p><h2>评测维度</h2><table><tr><th>维度</th><th>权重</th><th>测试方法</th></tr><tr><td>转录准确率</th><td>40%</td><td>100段混合语料测试</td></tr><tr><td>多语言支持</th><td>20%</td><td>中英日韩混合场景</td></tr><tr><td>实时转录</th><td>15%</td><td>实时会议测试延迟</td></tr><tr><td>价格</th><td>15%</td><td>每小时成本对比</td></tr><tr><td>API可用性</th><td>10%</td><td>开发者集成难度</td></tr></table><h2>OpenAI Whisper评测</h2><p>Whisper是目前开源语音识别准确率最高的模型，支持99种语言。</p><ul><li><strong>准确率：</strong>中文96%，英文98%（实测最高）</li><li><strong>优势：</strong>开源免费、多语言最强、准确率最高</li><li><strong>劣势：</strong>需技术能力部署、无实时转录</li><li><strong>价格：</strong>开源免费，API $0.006/分钟</li></ul><h3>部署方案</h3><p>本地GPU部署完全免费，CPU部署速度较慢。API使用简单：`openai.Audio.transcribe()`。</p><h2>Otter.ai评测</h2><p>商业化会议转录工具，实时转录+会议管理一体。</p><ul><li><strong>准确率：</strong>英文95%，中文60%</li><li><strong>优势：</strong>实时转录、发言人识别、会议管理</li><li><strong>劣势：</strong>中文支持弱、价格较高</li><li><strong>价格：</strong>免费600分钟/月，Pro $16.99/月</li></ul><h2>Google Speech-to-Text评测</h2><p>Google Cloud的语音API，企业级稳定性和准确率。</p><ul><li><strong>准确率：</strong>英文95%，中文90%</li><li><strong>优势：</strong>实时转录、API稳定、多语言</li><li><strong>劣势：</strong>按秒计费价格高、需Google Cloud账号</li><li><strong>价格：</strong>$0.006/15秒（$0.024/分钟）</li></ul><h2>Microsoft Azure Speech评测</h2><p>微软的语音服务，与Teams深度集成。</p><ul><li><strong>准确率：</strong>英文94%，中文88%</li><li><strong>优势：</strong>Teams集成、实时字幕、企业级</li><li><strong>劣势：</strong>价格复杂、需Azure账号</li><li><strong>价格：</strong>标准版$1/小时</li></ul><h2>对比总结</h2><table><tr><th>工具</th><th>准确率</th><th>中文</th><th>实时</th><th>价格/小时</th></tr><tr><td>Whisper</td><td>98%</td><td>96%</td><td>否</td><td>免费/API $0.36</td></tr><tr><td>Otter</td><td>95%</td><td>60%</td><td>是</td><td>$1.02</td></tr><tr><td>Google</td><td>95%</td><td>90%</td><td>是</td><td>$1.44</td></tr><tr><td>Azure</td><td>94%</td><td>88%</td><td>是</td><td>$1.00</td></tr></table><h2>选择建议</h2><p>追求准确率选Whisper（本地部署免费），中文团队选Google Speech，实时需求选Otter（英文）或Azure（中文）。技术团队建议Whisper开源部署，商业团队选现成服务。</p>",
-  "seo_keywords": ["AI speech to text", "Whisper vs Otter", "voice transcription accuracy", "Google Speech API", "audio to text converter"],
+  "seo_keywords": [
+    "AI speech to text",
+    "Whisper vs Otter",
+    "voice transcription accuracy",
+    "Google Speech API",
+    "audio to text converter"
+  ],
   "slug": "ai-speech-to-text-transcription-tools-2026",
   "published_at": "2026-04-25",
   "author": "Voice Technology Analyst"

@@ -2,7 +2,13 @@
   "title": "AI招聘工具评测：HireVue vs Pymetrics vs Eightfold远程HR对比",
   "description": "评测HireVue、Pymetrics、Eightfold等AI招聘工具的智能筛选和候选人评估功能，帮你找到最适合远程团队的人才招聘方案。",
   "content": "<h2>远程招聘的AI工具需求</h2><p>远程招聘无法面对面面试，需要AI辅助筛选简历、评估候选人、预测匹配度。AI招聘工具能自动分析简历、进行视频面试评估、推荐最佳候选人。</p><h2>核心功能对比</h2><table><tr><th>功能</th><th>HireVue</th><th>Pymetrics</th><th>Eightfold</th><th>LinkedIn Talent</th></tr><tr><td>AI视频面试</th><td>✅</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>简历筛选</th><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>匹配预测</th><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>内部流动</th><td>❌</td><td>❌</td><td>✅</td><td>❌</td></tr><tr><td>合规争议</th><td>有</td><td>有</td><td>低</td><td>无</td></tr></table><h2>HireVue详解</h2><p>HireVue的AI视频面试能分析候选人表情、语调、回答内容，自动评分。但存在伦理争议。</p><ul><li><strong>核心能力：</strong>AI视频面试分析、自动评分、简历筛选</li><li><strong>优势：</strong>视频分析最成熟、大规模招聘适用</li><li><strong>劣势：</strong>伦理争议（表情分析）、价格高、被部分州禁止</li><li><strong>价格：</td>企业定制定价</li></ul><h2>Pymetrics详解</h2><p>Pymetrics通过认知和性格游戏评估候选人，AI预测职位匹配度。</p><ul><li><strong>核心能力：</strong>游戏化评估、AI匹配预测、无偏见算法</li><li><strong>优势：</strong>无偏见设计、游戏化体验好</li><li><strong>劣势：</strong>评估维度有限、适用职位范围窄</li><li><strong>价格：</strong>企业定制定价</li></ul><h2>Eightfold详解</h2><p>Eightfold专注人才匹配，能分析简历、推荐内部流动、预测离职风险。</p><ul><li><strong>核心能力：</strong>简历智能解析、内部人才流动、离职预测</li><li><strong>优势：</strong>人才库最强、内部流动独特、伦理争议少</li><li><strong>劣势：</strong>价格高、无视频面试</li><li><strong>价格：</strong>企业定制定价</li></ul><h2>LinkedIn Talent Solutions详解</h2><p>LinkedIn的AI能推荐候选人、筛选简历、预测匹配。</p><ul><li><strong>核心能力：</strong>候选人推荐、简历筛选、InMail优化</li><li><strong>优势：</strong>候选人库最大、LinkedIn生态、合规无争议</li><li><strong>劣势：</strong>功能较基础、无视频面试分析</li><li><strong>价格：</strong>Recruiter $8.99/月，企业版需询价</li></ul><h2>对比总结</h2><table><tr><th>工具</th><th>视频AI</th><th>匹配</th><th>伦理风险</th><th>最佳场景</th></tr><tr><td>HireVue</td><td>最强</td><td>中</td><td>高</td><td>大规模视频面试</td></tr><tr><td>Pymetrics</td><td>无</td><td>中</td><td>中</td><td>性格/认知评估</td></tr><tr><td>Eightfold</td><td>无</td><td>最强</td><td>低</td><td>人才匹配+内部流动</td></tr><tr><td>LinkedIn</td><td>无</td><td>中</td><td>无</td><td>候选人来源</td></tr></table><h2>选择建议</h2><p>候选人来源首选LinkedIn，人才匹配+内部流动选Eightfold，视频面试需谨慎使用HireVue（注意合规），性格评估选Pymetrics。建议组合：LinkedIn来源+Eightfold匹配。</p>",
-  "seo_keywords": ["AI recruiting tools", "HireVue review", "candidate screening AI", "remote hiring platform", "talent matching tools"],
+  "seo_keywords": [
+    "AI recruiting tools",
+    "HireVue review",
+    "candidate screening AI",
+    "remote hiring platform",
+    "talent matching tools"
+  ],
   "slug": "ai-recruitment-hiring-tools-comparison-2026",
   "published_at": "2026-05-07",
   "author": "HR Technology Analyst"

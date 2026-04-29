@@ -2,7 +2,13 @@
   "title": "AI时间追踪工具评测：Timing AI vs RescueTime vs Timely远程办公效率对比",
   "description": "评测Timing、RescueTime、Timely等AI时间追踪工具的自动记录和效率分析功能，帮你找到最适合远程工作者的时间管理方案。",
   "content": "<h2>远程工作的时间追踪挑战</h2><p>远程工作者容易陷入时间黑洞：刷社交媒体、被通知打断、时间分配不清晰。AI时间追踪工具能自动记录活动、分析效率、提供改进建议。</p><h2>核心功能对比</h2><table><tr><th>功能</th><th>Timing</th><th>RescueTime</th><th>Timely</th><th>ActivityWatch</th></tr><tr><td>自动记录</th><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>AI分类</th><td>✅</td><td>❌</td><td>✅</td><td>❌</td></tr><tr><td>效率分析</th><td>✅</td><td>✅</td><td>✅</td><td>基础</td></tr><tr><td>团队版</th><td>无</td><td>有</td><td>有</td><td>无</td></tr><tr><td>隐私控制</th><td>高</td><td>中</td><td>中</td><td>最高</td></tr></table><h2>Timing详解</h2><p>Timing是Mac专属的时间追踪工具，AI能自动将活动分类到项目，无需手动标注。</p><ul><li><strong>核心能力：</strong>自动分类项目、详细时间报告、Mac深度集成</li><li><strong>优势：</strong>AI分类最智能、Mac体验完美、隐私本地</li><li><strong>劣势：</strong>仅Mac、无团队版</li><li><strong>价格：</strong>免费版有限，Pro $8/月，Lifetime $99</li></ul><h2>RescueTime详解</h2><p>RescueTime自动记录电脑活动，分析效率分数，提供专注时间功能。</p><ul><li><strong>核心能力：</strong>自动记录、效率分数、FocusTime阻止干扰</li><li><strong>优势：</strong>跨平台、团队版可用、效率分数直观</li><li><strong>劣势：</strong>分类需手动调整、隐私云端</li><li><strong>价格：</strong>免费版基础，Premium $12/月</li></ul><h2>Timely详解</h2><p>Timely的AI Memory能自动记录活动并记忆每日时间分配，适合团队使用。</p><ul><li><strong>核心能力：</strong>AI Memory自动记录、团队协作、项目预算</li><li><strong>优势：</strong>团队版完善、项目预算追踪</li><li><strong>劣势：</strong>价格较高、隐私云端</li><li><strong>价格：</strong>$9/用户/月</li></ul><h2>ActivityWatch详解</h2><p>开源免费的时间追踪工具，完全本地运行，隐私最高。</p><ul><li><strong>核心能力：</strong>自动记录、开源免费、本地运行</li><li><strong>优势：</strong>完全免费、隐私最高、可定制</li><li><strong>劣势：</strong>无AI分类、功能基础、需技术配置</li><li><strong>价格：</strong>完全免费开源</li></ul><h2>对比总结</h2><table><tr><th>工具</th><th>AI分类</th><th>隐私</th><th>价格</th><th>最佳场景</th></tr><tr><td>Timing</td><td>最强</td><td>高</td><td>$8</td><td>Mac个人用户</td></tr><tr><td>RescueTime</td><td>无</td><td>中</td><td>$12</td><td>跨平台效率分析</td></tr><tr><td>Timely</td><td>强</td><td>中</td><td>$9</td><td>团队时间追踪</td></tr><tr><td>ActivityWatch</td><td>无</td><td>最高</td><td>免费</td><td>隐私/预算有限</td></tr></table><h2>选择建议</h2><p>Mac用户选Timing（AI分类最强），团队选Timely，跨平台选RescueTime，隐私/预算有限选ActivityWatch开源版。个人建议Timing+ActivityWatch组合测试。</p>",
-  "seo_keywords": ["AI time tracking", "Timing vs RescueTime", "automatic time logger", "remote work productivity", "time management tools"],
+  "seo_keywords": [
+    "AI time tracking",
+    "Timing vs RescueTime",
+    "automatic time logger",
+    "remote work productivity",
+    "time management tools"
+  ],
   "slug": "ai-time-tracking-tools-comparison-2026",
   "published_at": "2026-05-08",
   "author": "Productivity Tools Analyst"
