@@ -71,9 +71,9 @@ export default function RootLayout({
         <footer className="bg-gray-100 border-t border-gray-200 py-8 mt-12">
           <div className="max-w-4xl mx-auto px-6">
             <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-600">
-              <a href="/posts/about-us" className="hover:text-gray-900 transition-colors">About Us</a>
-              <a href="/posts/privacy-policy" className="hover:text-gray-900 transition-colors">Privacy Policy</a>
-              <a href="/posts/terms-of-service" className="hover:text-gray-900 transition-colors">Terms of Service</a>
+              <a href="/about-us" className="hover:text-gray-900 transition-colors">About Us</a>
+              <a href="/privacy-policy" className="hover:text-gray-900 transition-colors">Privacy Policy</a>
+              <a href="/terms-of-service" className="hover:text-gray-900 transition-colors">Terms of Service</a>
             </div>
             <div className="text-center text-gray-500 text-xs mt-4">
               © 2026 housecar.life - Remote Work Tools & Productivity Research
