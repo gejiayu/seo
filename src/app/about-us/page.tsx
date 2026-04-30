@@ -23,6 +23,8 @@ function getAboutUsData(): PageData | null {
   }
 }
 
+const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
+
 export async function generateMetadata(): Promise<Metadata> {
   const data = getAboutUsData()
 
@@ -34,10 +36,14 @@ export async function generateMetadata(): Promise<Metadata> {
     title: data.title,
     description: data.description,
     keywords: data.seo_keywords,
+    alternates: {
+      canonical: `${siteUrl}/about-us`, // 绝对URL
+    },
     openGraph: {
       title: data.title,
       description: data.description,
       type: 'article',
+      url: `${currentSiteUrl}/about-us`,
     },
     twitter: {
       card: 'summary_large_image',
@@ -49,6 +55,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function AboutUsPage() {
   const data = getAboutUsData()
+  const currentSiteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 
   if (!data) {
     return (
@@ -59,13 +66,12 @@ export default function AboutUsPage() {
     )
   }
 
-  const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: data.title,
     description: data.description,
-    url: `${siteUrl}/about-us`,
+    url: `${currentSiteUrl}/about-us`,
     datePublished: data.published_at,
     dateModified: data.published_at,
     author: {

@@ -23,6 +23,8 @@ function getPrivacyPolicyData(): PageData | null {
   }
 }
 
+const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
+
 export async function generateMetadata(): Promise<Metadata> {
   const data = getPrivacyPolicyData()
 
@@ -34,10 +36,14 @@ export async function generateMetadata(): Promise<Metadata> {
     title: data.title,
     description: data.description,
     keywords: data.seo_keywords,
+    alternates: {
+      canonical: `${siteUrl}/privacy-policy`, // 绝对URL
+    },
     openGraph: {
       title: data.title,
       description: data.description,
       type: 'article',
+      url: `${currentSiteUrl}/privacy-policy`,
     },
     twitter: {
       card: 'summary_large_image',
@@ -49,6 +55,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function PrivacyPolicyPage() {
   const data = getPrivacyPolicyData()
+  const currentSiteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 
   if (!data) {
     return (
@@ -59,13 +66,12 @@ export default function PrivacyPolicyPage() {
     )
   }
 
-  const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: data.title,
     description: data.description,
-    url: `${siteUrl}/privacy-policy`,
+    url: `${currentSiteUrl}/privacy-policy`,
     datePublished: data.published_at,
     dateModified: data.published_at,
     author: {
