@@ -30,6 +30,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     return { title: 'Page Not Found' }
   }
 
+  const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
+
   return {
     title: page.title,
     description: page.description,
@@ -40,6 +42,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       type: 'article',
       publishedTime: page.published_at,
       authors: page.author ? [page.author] : undefined,
+      url: `${siteUrl}/posts/${slug}`,
     },
     twitter: {
       card: 'summary_large_image',
@@ -47,7 +50,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: page.description,
     },
     alternates: {
-      canonical: `/posts/${slug}`,
+      canonical: `${siteUrl}/posts/${slug}`, // 绝对URL，明确告诉Google"正主"是谁
     },
   }
 }

@@ -4,10 +4,22 @@ import { ArticleList } from '@/components/ArticleList'
 
 export const runtime = 'nodejs'
 
+const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
+
 export async function generateMetadata(): Promise<Metadata> {
   return {
     title: 'HouseCar - Remote Work Tools & Productivity Guides',
     description: 'Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.',
+    alternates: {
+      canonical: siteUrl, // 首页canonical指向绝对URL
+    },
+    openGraph: {
+      title: 'HouseCar - Remote Work Tools & Productivity Guides',
+      description: 'Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.',
+      url: siteUrl,
+      type: 'website',
+      siteName: 'HouseCar',
+    },
   }
 }
 
