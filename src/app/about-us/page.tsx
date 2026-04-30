@@ -43,7 +43,7 @@ export async function generateMetadata(): Promise<Metadata> {
       title: data.title,
       description: data.description,
       type: 'article',
-      url: `${currentSiteUrl}/about-us`,
+      url: `${siteUrl}/about-us`,
     },
     twitter: {
       card: 'summary_large_image',
