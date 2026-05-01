@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Script from 'next/script'
 import fs from 'fs'
 import path from 'path'
 
@@ -91,12 +92,13 @@ export default function AboutUsPage() {
 
   return (
     <>
-      <script
+      <Script
+        id="about-us-schema"
         type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(articleSchema),
-        }}
-      />
+        strategy="beforeInteractive"
+      >
+        {JSON.stringify(articleSchema)}
+      </Script>
 
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <header className="mb-8">

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Script from 'next/script'
 import './globals.css'
 
 const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
@@ -45,28 +46,31 @@ export default function RootLayout({
       <head>
         {/* Google AdSense Ownership Verification */}
         <meta name="google-adsense-account" content="ca-pub-9920271435480805" />
+      </head>
+      <body className="antialiased">
         {/* Google AdSense */}
-        <script
+        <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9920271435480805"
           crossOrigin="anonymous"
+          strategy="afterInteractive"
         />
-        {/* WebSite Schema - SSR rendered */}
-        <script
+        {/* WebSite Schema */}
+        <Script
+          id="website-schema"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(websiteSchema),
-          }}
-        />
-        {/* Organization Schema - SSR rendered */}
-        <script
+          strategy="beforeInteractive"
+        >
+          {JSON.stringify(websiteSchema)}
+        </Script>
+        {/* Organization Schema */}
+        <Script
+          id="organization-schema"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(organizationSchema),
-          }}
-        />
-      </head>
-      <body className="antialiased">
+          strategy="beforeInteractive"
+        >
+          {JSON.stringify(organizationSchema)}
+        </Script>
         <main className="min-h-screen bg-gray-50">
           {children}
         </main>

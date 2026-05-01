@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Script from 'next/script'
 import { notFound } from 'next/navigation'
 import { getAllPages, getAllPagePaths } from '@/lib/data-loader'
 
@@ -92,12 +93,13 @@ export default async function PostPage({ params }: PageProps) {
 
   return (
     <>
-      <script
+      <Script
+        id="article-schema"
         type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(articleSchema),
-        }}
-      />
+        strategy="beforeInteractive"
+      >
+        {JSON.stringify(articleSchema)}
+      </Script>
 
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <header className="mb-8">
