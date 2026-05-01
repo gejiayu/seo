@@ -2,20 +2,10 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-
-interface PageData {
-  title: string
-  description: string
-  content: string
-  seo_keywords: string[]
-  slug: string
-  published_at?: string
-  author?: string
-  category: string
-}
+import type { PageListItem } from '@/lib/data-loader'
 
 interface ArticleListProps {
-  pages: Array<{ slug: string; data: PageData }>
+  pages: PageListItem[]
   categories: string[]
 }
 
@@ -23,7 +13,7 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
 
   const filteredPages = selectedCategory
-    ? pages.filter((page) => page.data.category === selectedCategory)
+    ? pages.filter((page) => page.category === selectedCategory)
     : pages
 
   return (
@@ -65,26 +55,26 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
             : `All Articles (${pages.length})`}
         </h2>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-          {filteredPages.map(({ slug, data }) => (
+          {filteredPages.map((page) => (
             <Link
-              key={slug}
-              href={`/posts/${slug}`}
+              key={page.slug}
+              href={`/posts/${page.slug}`}
               className="block p-6 bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-200 border border-gray-100 hover:border-blue-200"
             >
               <div className="mb-3">
                 <span className="text-xs font-semibold text-blue-600 uppercase tracking-wide">
-                  {data.category}
+                  {page.category}
                 </span>
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-3 line-clamp-2 hover:text-blue-600 transition-colors">
-                {data.title}
+                {page.title}
               </h3>
               <p className="text-gray-600 text-sm line-clamp-3 mb-4">
-                {data.description}
+                {page.description}
               </p>
-              {data.seo_keywords && data.seo_keywords.length > 0 && (
+              {page.seo_keywords && page.seo_keywords.length > 0 && (
                 <div className="flex flex-wrap gap-1.5">
-                  {data.seo_keywords.slice(0, 3).map((keyword) => (
+                  {page.seo_keywords.slice(0, 3).map((keyword) => (
                     <span
                       key={keyword}
                       className="px-2 py-1 bg-gray-50 text-gray-500 text-xs rounded-md"

@@ -1,15 +1,19 @@
 import fs from 'fs'
 import path from 'path'
 
-export interface PageData {
+// Lightweight interface for list display (excludes heavy content field)
+export interface PageListItem {
   title: string
   description: string
-  content: string
   seo_keywords: string[]
   category: string
   slug: string
   published_at?: string
   author?: string
+}
+
+export interface PageData extends PageListItem {
+  content: string
 }
 
 interface PageInfo {
@@ -65,6 +69,20 @@ export function getAllPages(): PageInfo[] {
   const pages: PageInfo[] = []
   walkDirectory(dataDirectory, pages)
   return pages
+}
+
+// Lightweight version for list display - excludes heavy content field
+export function getAllPagesList(): PageListItem[] {
+  const pages = getAllPages()
+  return pages.map((p) => ({
+    title: p.data.title,
+    description: p.data.description,
+    seo_keywords: p.data.seo_keywords,
+    category: p.data.category,
+    slug: p.data.slug,
+    published_at: p.data.published_at,
+    author: p.data.author,
+  }))
 }
 
 export function getPageByCategoryAndSlug(category: string, slug: string): PageData | null {

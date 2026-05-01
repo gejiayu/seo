@@ -1,5 +1,5 @@
 import { Metadata } from 'next'
-import { getAllPages, getAllCategories } from '@/lib/data-loader'
+import { getAllPagesList, getAllCategories } from '@/lib/data-loader'
 import { ArticleList } from '@/components/ArticleList'
 
 export const runtime = 'nodejs'
@@ -24,7 +24,7 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default function HomePage() {
-  const pages = getAllPages()
+  const pages = getAllPagesList() // Lightweight version without content field
   const categories = getAllCategories()
 
   return (
