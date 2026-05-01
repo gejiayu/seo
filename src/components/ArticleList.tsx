@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import Link from 'next/link'
 import type { PageListItem } from '@/lib/data-loader'
 
@@ -9,9 +9,45 @@ interface ArticleListProps {
   categories: string[]
 }
 
+// 单个卡片组件
+function ArticleCard({ page }: { page: PageListItem }) {
+  return (
+    <Link
+      href={`/posts/${page.slug}`}
+      className="block p-6 bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-200 border border-gray-100 hover:border-blue-200"
+    >
+      <div className="mb-3">
+        <span className="text-xs font-semibold text-blue-600 uppercase tracking-wide">
+          {page.category}
+        </span>
+      </div>
+      <h3 className="text-lg font-semibold text-gray-900 mb-3 line-clamp-2 hover:text-blue-600 transition-colors">
+        {page.title}
+      </h3>
+      <p className="text-gray-600 text-sm line-clamp-3 mb-4">
+        {page.description}
+      </p>
+      {page.seo_keywords && page.seo_keywords.length > 0 && (
+        <div className="flex flex-wrap gap-1.5">
+          {page.seo_keywords.slice(0, 3).map((keyword) => (
+            <span
+              key={keyword}
+              className="px-2 py-1 bg-gray-50 text-gray-500 text-xs rounded-md"
+            >
+              {keyword}
+            </span>
+          ))}
+        </div>
+      )}
+    </Link>
+  )
+}
+
 export function ArticleList({ pages, categories }: ArticleListProps) {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
   const [showAllCategories, setShowAllCategories] = useState(false)
+  const [visibleCount, setVisibleCount] = useState(50) // 首屏显示50篇
+  const [isLoading, setIsLoading] = useState(false)
 
   // 默认显示前20个分类
   const visibleCategories = showAllCategories ? categories : categories.slice(0, 20)
@@ -22,6 +58,26 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
       ? pages.filter((page) => page.category === selectedCategory)
       : pages
   }, [pages, selectedCategory])
+
+  // 当前显示的文章
+  const displayedPages = filteredPages.slice(0, visibleCount)
+  const hasMore = visibleCount < filteredPages.length
+
+  // 加载更多
+  const loadMore = () => {
+    if (isLoading || !hasMore) return
+    setIsLoading(true)
+    // 模拟异步加载（实际是同步，但给用户视觉反馈）
+    setTimeout(() => {
+      setVisibleCount(prev => Math.min(prev + 50, filteredPages.length))
+      setIsLoading(false)
+    }, 100)
+  }
+
+  // 重置显示数量当筛选改变
+  useEffect(() => {
+    setVisibleCount(50)
+  }, [selectedCategory])
 
   return (
     <>
@@ -69,41 +125,29 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
             ? `${selectedCategory} Articles (${filteredPages.length})`
             : `All Articles (${pages.length})`}
         </h2>
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-          {filteredPages.map((page) => (
-            <Link
-              key={page.slug}
-              href={`/posts/${page.slug}`}
-              className="block p-6 bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-200 border border-gray-100 hover:border-blue-200"
-            >
-              <div className="mb-3">
-                <span className="text-xs font-semibold text-blue-600 uppercase tracking-wide">
-                  {page.category}
-                </span>
-              </div>
-              <h3 className="text-lg font-semibold text-gray-900 mb-3 line-clamp-2 hover:text-blue-600 transition-colors">
-                {page.title}
-              </h3>
-              <p className="text-gray-600 text-sm line-clamp-3 mb-4">
-                {page.description}
-              </p>
-              {page.seo_keywords && page.seo_keywords.length > 0 && (
-                <div className="flex flex-wrap gap-1.5">
-                  {page.seo_keywords.slice(0, 3).map((keyword) => (
-                    <span
-                      key={keyword}
-                      className="px-2 py-1 bg-gray-50 text-gray-500 text-xs rounded-md"
-                    >
-                      {keyword}
-                    </span>
-                  ))}
-                </div>
-              )}
-            </Link>
-          ))}
-        </div>
 
-        {filteredPages.length === 0 && selectedCategory && (
+        {displayedPages.length > 0 ? (
+          <>
+            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+              {displayedPages.map((page) => (
+                <ArticleCard key={page.slug} page={page} />
+              ))}
+            </div>
+
+            {/* Load More Button */}
+            {hasMore && (
+              <div className="mt-8 text-center">
+                <button
+                  onClick={loadMore}
+                  disabled={isLoading}
+                  className="px-6 py-3 rounded-lg text-sm font-medium bg-blue-600 text-white hover:bg-blue-700 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
+                >
+                  {isLoading ? 'Loading...' : `Load More (${filteredPages.length - visibleCount} remaining)`}
+                </button>
+              </div>
+            )}
+          </>
+        ) : (
           <div className="text-center py-12">
             <p className="text-gray-500">
               No articles found in this category.
