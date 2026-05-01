@@ -11,6 +11,10 @@ interface ArticleListProps {
 
 export function ArticleList({ pages, categories }: ArticleListProps) {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+  const [showAllCategories, setShowAllCategories] = useState(false)
+
+  // 默认显示前20个分类
+  const visibleCategories = showAllCategories ? categories : categories.slice(0, 20)
 
   const filteredPages = selectedCategory
     ? pages.filter((page) => page.category === selectedCategory)
@@ -23,8 +27,8 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
           Categories ({categories.length})
         </h2>
-        <div className="flex flex-wrap gap-2">
-          {categories.map((category) => (
+        <div className="flex flex-wrap gap-2 mb-4">
+          {visibleCategories.map((category) => (
             <button
               key={category}
               onClick={() =>
@@ -45,6 +49,16 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
             </button>
           ))}
         </div>
+
+        {/* Show More/Less Button */}
+        {categories.length > 20 && (
+          <button
+            onClick={() => setShowAllCategories(!showAllCategories)}
+            className="px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 transition-all duration-200 cursor-pointer"
+          >
+            {showAllCategories ? 'Show Less' : `Show All (${categories.length - 20} more)`}
+          </button>
+        )}
       </section>
 
       {/* All Pages Listing */}
