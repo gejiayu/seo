@@ -1,0 +1,9 @@
+{
+  "title": "经销商客户账户管理工具评测：AccountHub vs ProfileManager对比",
+  "description": "深度评测经销商客户账户管理软件，对比账户创建、信息管理、权限控制功能。帮助经销商管理客户在线账户。",
+  "content": "<h2>账户管理价值</h2><p>客户在线账户管理购车历史、偏好、收藏车型。账户管理工具创建账户、管理信息、控制权限。</p><h2>AccountHub核心功能</h2><ul><li>账户创建：客户在线创建账户</li><li>信息管理：客户信息管理、更新</li><li>收藏管理：收藏车型、对比记录</li><li>购车历史：账户购车历史记录</li><li>账户安全：账户安全验证、密码管理</li></ul><h2>ProfileManager核心功能</h2><ul><li>账户审核：账户审核、防止虚假</li><li>信息同步：账户信息同步到CRM</li><li>权限控制：账户权限控制、限制访问</li><li>账户统计：账户活跃度统计</li><li>账户合并：重复账户合并</li></ul><h2>对比分析</h2><table><tr><th>维度</th><th>AccountHub</th><th>ProfileManager</th></tr><tr><td>账户创建</td><td>在线创建</td><td>审核创建</td></tr><tr><td>权限控制</td><td>无</td><td>权限管理</td></tr><tr><td>信息同步</td><td>无</td><td>CRM同步</td></tr><tr><td>账户合并</td><td>无</td><td>支持合并</td></tr></table><h2>价格方案</h2><p>AccountHub按账户数收费，$0.02/账户/月。ProfileManager按店铺订阅，$99/月。账户量大选前者，管理需求选后者。</p><h2>账户建议</h2><p>鼓励客户创建账户、收集信息。账户信息同步CRM、统一管理。权限控制、保护隐私。</p>",
+  "seo_keywords": ["客户账户管理", "AccountHub评测", "ProfileManager对比", "账户创建工具", "信息管理平台", "权限控制软件", "账户安全系统", "经销商账户"],
+  "slug": "customer-account-management-2026",
+  "published_at": "2026-05-02",
+  "author": "汽车行业专家"
+}
