@@ -1,0 +1,9 @@
+{
+  "title": "经销商物流追踪系统评测：LogisticsTrack vs DeliveryManager对比",
+  "description": "深度评测经销商物流追踪软件，对比车辆交付、物流调度、客户通知功能。帮助经销商优化交付体验。",
+  "content": "<h2>物流追踪痛点</h2><p>新车交付、配件配送、二手车调拨涉及物流追踪。客户期待实时了解车辆位置、预计到达时间。</p><h2>LogisticsTrack核心功能</h2><ul><li>实时追踪：GPS追踪车辆位置、实时更新</li><li>交付调度：调度交付车辆、安排司机</li><li>客户通知：自动通知客户车辆位置、预计到达</li><li>签收确认：电子签收、交付确认</li><li>物流报表：交付时效、延误分析</li></ul><h2>DeliveryManager核心功能</h2><ul><li>交付预约：客户预约交付时间、地点</li><li>交付准备：交付前检查清单、准备工作</li><li>多车调度：批量车辆调度优化</li><li>交付文档：交付文档生成、签署</li><li>客户反馈：交付满意度调查</li></ul><h2>对比分析</h2><table><tr><th>维度</th><th>LogisticsTrack</th><th>DeliveryManager</th></tr><tr><td>实时追踪</td><td>GPS追踪</td><td>无</td></tr><tr><td>调度优化</td><td>单车调度</td><td>批量调度</td></tr><tr><td>客户通知</td><td>自动通知</td><td>预约通知</td></tr><tr><td>交付文档</td><td>基础支持</td><td>完整文档</td></tr></table><h2>价格方案</h2><p>LogisticsTrack按交付次数收费，每次$5。DeliveryManager按店铺订阅，$199/月。交付量大选前者，流程规范选后者。</p><h2>交付建议</h2><p>设置标准交付流程、检查清单。实时通知客户车辆位置、提升体验。分析交付时效、优化路线。</p>",
+  "seo_keywords": ["物流追踪系统", "LogisticsTrack评测", "DeliveryManager对比", "车辆交付工具", "物流调度软件", "客户通知平台", "签收确认系统", "经销商物流"],
+  "slug": "logistics-tracking-system-2026",
+  "published_at": "2026-05-02",
+  "author": "汽车行业专家"
+}

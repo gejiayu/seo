@@ -1,0 +1,9 @@
+{
+  "title": "理赔流程自动化工具评测：AutoClaim与WorkflowPro对比",
+  "description": "评测理赔流程自动化工具，对比AutoClaim与WorkflowPro的审批流转、任务分配、进度追踪能力，实现理赔流程智能化管理。",
+  "content": "<h2>流程自动化价值</h2><p>理赔流程自动化工具可减少人工干预，提升理赔效率，降低处理成本。</p><h2>AutoClaim特色</h2><ul><li>智能审批路由：根据理赔类型自动分配审批人</li><li>任务自动提醒：逾期案件自动催办</li><li>进度实时可视化：客户可查看理赔进度</li><li>异常预警机制：自动识别异常理赔案件</li></ul><h2>WorkflowPro特色</h2><ul><li>固定审批流程：预设审批节点</li><li>人工任务分配：管理员手动分配</li><li>邮件进度通知：定期发送进度邮件</li><li>人工异常识别：依赖人工筛查</li></ul><h2>效率对比</h2><p>AutoClaim平均理赔周期10天，WorkflowPro需18天。自动化程度显著影响理赔效率。</p><h2>成本分析</h2><p>AutoClaim自动化可节省30%人工成本，WorkflowPro人工成本较高。</p><h2>推荐方案</h2><p>大型保险公司推荐AutoClaim，追求流程标准化和效率提升。</p>",
+  "seo_keywords": ["理赔流程自动化", "理赔审批流转", "理赔任务分配", "理赔进度追踪", "理赔智能化管理"],
+  "slug": "claims-workflow-automation-tool-2026",
+  "published_at": "2026-05-02",
+  "author": "保险科技专家"
+}

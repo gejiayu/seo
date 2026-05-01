@@ -1,0 +1,9 @@
+{
+  "title": "电子签名与合同管理系统评测：DocuSign vs Adobe Sign 2026",
+  "description": "对比评测DocuSign与Adobe Sign电子签名及合同管理系统，分析签署功能、合同管理、合规认证、定价模式，为企业电子签署解决方案提供选购建议。",
+  "content": "<h2>电子签名系统概述</h2><p>电子签名系统是合同管理的重要组成部分。2026年DocuSign和Adobe Sign是两大主流产品，本文对比评测签署功能与合同管理能力。</p><h2>签署功能对比</h2><table><tr><th>签署功能</th><th>DocuSign</th><th>Adobe Sign</th></tr><tr><td>签署类型</td><td>电子签、数字签、远程签</td><td>电子签、数字签</td></tr><tr><td>签署流程</td><td>顺序签、并行签、混合签</td><td>顺序签、并行签</td></tr><tr><td>身份验证</td><td>多种验证方式</td><td>基础身份验证</td></tr><tr><td>签署记录</td><td>完整审计链</td><td>基础记录</td></tr><tr><td>批量签署</td><td>支持批量发送</td><td>支持批量</td></tr></table><h2>合同管理能力</h2><p>DocuSign CLM模块提供合同创建、审批、归档全流程；Adobe Sign合同管理功能基础，需配合其他系统。需要完整CLM的企业推荐DocuSign。</p><h2>合规认证</h2><p>DocuSign符合ESIGN、UETA、eIDAS等多项国际合规认证；Adobe Sign合规认证覆盖基础。跨国签署需求推荐DocuSign的广泛合规认证。</p><h2>集成生态</h2><p>DocuSign集成350+应用，包括Salesforce、Microsoft、Google；Adobe Sign集成Adobe生态及主流CRM。集成需求广泛的推荐DocuSign。</p><h2>定价对比</h2><p>DocuSign专业版月费40美元/用户，企业版年费约12万元；Adobe Sign专业版月费35美元/用户，企业版年费约10万元。Adobe Sign性价比略高。</p><h2>选购建议</h2><p>大型企业、跨国签署、完整CLM需求推荐DocuSign。中型企业、Adobe生态用户、预算敏感推荐Adobe Sign。建议试用后根据实际体验决策。</p>",
+  "seo_keywords": ["电子签名系统", "合同签署平台", "DocuSign评测", "Adobe Sign对比", "电子合同签署"],
+  "slug": "docusign-vs-adobe-sign-2026",
+  "published_at": "2026-05-02",
+  "author": "电子签名顾问"
+}

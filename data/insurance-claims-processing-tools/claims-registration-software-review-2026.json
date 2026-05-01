@@ -1,0 +1,9 @@
+{
+  "title": "理赔登记软件深度评测：ClaimReg与RegisterPro功能对比",
+  "description": "深度评测理赔登记软件，对比ClaimReg与RegisterPro的案件编号、信息录入、历史查询功能，提升理赔登记规范化水平。",
+  "content": "<h2>理赔登记概述</h2><p>理赔登记软件负责理赔案件的正式编号和基础信息录入，是理赔流程的起点。</p><h2>功能对比</h2><table><tr><th>模块</th><th>ClaimReg</th><th>RegisterPro</th></tr><tr><td>案件编号</td><td>自动生成规则</td><td>人工手动编号</td></tr><tr><td>信息录入</td><td>智能表单预填</td><td>完全人工录入</td></tr><tr><td>历史查询</td><td>全文检索引擎</td><td>基础查询功能</td></tr><tr><td>批量导入</td><td>支持Excel批量导入</td><td>仅支持单案件录入</td></tr><tr><td>合规校验</td><td>实时合规提醒</td><td>提交后校验</td></tr></table><h2>效率分析</h2><p>ClaimReg平均登记时间5分钟，RegisterPro需要12分钟。自动化功能大幅提升效率。</p><h2>数据准确性</h2><p>ClaimReg智能校验准确率99.5%，RegisterPro人工校验准确率95%。</p><h2>推荐选择</h2><p>追求效率的保险公司选择ClaimReg，传统人工流程场景可选RegisterPro。</p>",
+  "seo_keywords": ["理赔登记软件", "理赔案件编号", "理赔信息录入", "理赔注册系统", "理赔登记流程"],
+  "slug": "claims-registration-software-review-2026",
+  "published_at": "2026-05-02",
+  "author": "保险科技专家"
+}

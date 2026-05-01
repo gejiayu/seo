@@ -1,0 +1,9 @@
+{
+  "title": "理赔中间件平台评测：MiddlewareClaim与BridgePro深度对比",
+  "description": "深度评测理赔中间件平台，对比MiddlewareClaim与BridgePro的系统连接、消息队列、服务总线能力，提升理赔系统架构水平。",
+  "content": "<h2>中间件平台概述</h2><p>理赔中间件平台负责理赔系统间的连接和通信，是理赔系统架构的核心。</p><h2>MiddlewareClaim功能</h2><ul><li>系统智能连接：理赔系统智能连接管理</li><li>消息队列管理：理赔消息队列智能管理</li><li>服务总线支持：理赔服务总线支持</li><li>中间件监控：理赔中间件实时监控</li><li>中间件报告生成：理赔中间件报告自动生成</li></ul><h2>BridgePro功能</h2><ul><li>人工系统连接：IT人员人工连接系统</li><li>人工消息管理：IT人员人工管理消息队列</li><li>基础服务总线：理赔基础服务总线支持</li><li>人工中间件监控：管理员手动监控中间件</li><li>人工报告编写：IT人员人工编写报告</li></ul><h2>系统连接效率对比</h2><p>MiddlewareClaim系统连接配置时间1小时，BridgePro需要1天。</p><h2>消息处理效率对比</h2><p>MiddlewareClaim消息处理时间100毫秒，BridgePro需要500毫秒。</p><h2>推荐选择</h2><p>重视理赔系统架构的保险公司选择MiddlewareClaim。</p>",
+  "seo_keywords": ["理赔中间件", "理赔系统连接", "理赔消息队列", "理赔服务总线", "理赔系统架构"],
+  "slug": "claims-middleware-platform-2026",
+  "published_at": "2026-05-02",
+  "author": "保险科技专家"
+}

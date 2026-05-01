@@ -1,0 +1,9 @@
+{
+  "title": "理赔支付系统评测：PayClaim与PaymentPro深度对比",
+  "description": "深度评测理赔支付系统，对比PayClaim与PaymentPro的支付通道、结算效率、资金安全能力，优化理赔赔付流程。",
+  "content": "<h2>支付系统概述</h2><p>理赔支付系统是理赔流程的最后一环，支付效率和安全性直接影响客户满意度。</p><h2>PayClaim功能</h2><ul><li>多通道支付：银行转账、微信、支付宝</li><li>实时结算：T+0支付到账</li><li>批量支付：支持批量赔付处理</li><li>资金安全：多重身份验证保障</li><li>支付状态：实时推送支付通知</li></ul><h2>PaymentPro功能</h2><ul><li>银行转账：仅支持银行转账</li><li>延迟结算：T+3支付到账</li><li>单笔支付：逐个赔付处理</li><li>基础验证：密码验证</li><li>邮件通知：邮件发送支付通知</li></ul><h2>支付效率对比</h2><p>PayClaim平均支付时间1小时，PaymentPro需要3个工作日。</p><h2>资金安全</h2><p>PayClaim多重验证安全等级高，PaymentPro基础验证安全性较低。</p><h2>推荐选择</h2><p>追求快速理赔的保险公司选择PayClaim，提升客户支付体验。</p>",
+  "seo_keywords": ["理赔支付系统", "理赔赔付平台", "理赔资金结算", "理赔支付通道", "理赔快速赔付"],
+  "slug": "claims-payment-system-review-2026",
+  "published_at": "2026-05-02",
+  "author": "保险科技专家"
+}
