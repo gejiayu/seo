@@ -1,9 +1,0 @@
-{
-  "title": "经销商库存预警系统评测：InventoryAlert vs StockWarning对比",
-  "description": "深度评测经销商库存预警软件，对比低库存预警、滞销预警、采购建议功能。帮助经销商及时处理库存问题。",
-  "content": "<h2>库存预警价值</h2><p>低库存导致缺货、滞销占用资金。库存预警系统及时发现问题、预警提醒、建议处理。</p><h2>InventoryAlert核心功能</h2><ul><li>低库存预警：库存低于阈值自动预警</li><li>滞销预警：库存滞销预警、销售缓慢提醒</li><li>采购建议：库存不足采购建议</li><li>预警通知：预警通知推送、及时处理</li><li>预警报告：预警统计报告、问题分析</li></ul><h2>StockWarning核心功能</h2><ul><li>预警规则：自定义预警规则、灵活设置</li><li>多级预警：预警分级、优先处理</li><li>处理追踪：预警问题处理追踪</li><li>预警分析：预警原因分析、问题根源</li><li>预警历史：预警历史记录、复盘分析</li></ul><h2>对比分析</h2><table><tr><th>维度</th><th>InventoryAlert</th><th>StockWarning</th></tr><tr><td>预警类型</td><td>低库存+滞销</td><td>自定义预警</td></tr><tr><td>采购建议</td><td>自动建议</td><td>无</td></tr><tr><td>处理追踪</td><td>无</td><td>问题追踪</td></tr><tr><td>预警分析</td><td>基础分析</td><td>深度分析</td></tr></table><h2>价格对比</h2><p>InventoryAlert按库存量收费，$0.1/车/月。StockWarning按店铺订阅，$99/月。库存量大选前者，自定义需求选后者。</p><h2>预警建议</h2><p>设置合理预警阈值、及时发现问题。预警及时处理、避免缺货滞销。分析预警原因、优化库存管理。</p>",
-  "seo_keywords": ["库存预警系统", "InventoryAlert评测", "StockWarning对比", "低库存预警工具", "滞销预警软件", "采购建议平台", "预警通知系统", "经销商库存预警"],
-  "slug": "inventory-alert-system-2026",
-  "published_at": "2026-05-02",
-  "author": "汽车行业专家"
-}

@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 import Link from 'next/link'
 import type { PageListItem } from '@/lib/data-loader'
 
@@ -16,9 +16,12 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
   // 默认显示前20个分类
   const visibleCategories = showAllCategories ? categories : categories.slice(0, 20)
 
-  const filteredPages = selectedCategory
-    ? pages.filter((page) => page.category === selectedCategory)
-    : pages
+  // 使用 useMemo 优化筛选性能
+  const filteredPages = useMemo(() => {
+    return selectedCategory
+      ? pages.filter((page) => page.category === selectedCategory)
+      : pages
+  }, [pages, selectedCategory])
 
   return (
     <>
@@ -31,11 +34,9 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
           {visibleCategories.map((category) => (
             <button
               key={category}
-              onClick={() =>
-                setSelectedCategory(
+              onClick={() => setSelectedCategory(
                   selectedCategory === category ? null : category
-                )
-              }
+                )}
               className={`px-4 py-2 rounded-full text-sm font-medium capitalize transition-all duration-200 cursor-pointer ${
                 selectedCategory === category
                   ? 'bg-blue-600 text-white shadow-md'
