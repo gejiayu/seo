@@ -41,5 +41,11 @@
       "question": "How does B2B pricing differ from B2C pricing on e-commerce platforms?",
       "answer": "B2B pricing differs through custom pricing tiers per customer or customer group (wholesale, distributor, retail), negotiated contract pricing stored in the platform, volume-based price breaks (higher quantity = lower price), price hiding requiring login before viewing, showing list price alongside customer's discounted price, and multi-tier markup structures. B2C uses single public pricing for all customers. B2B platforms manage complex price lists for different customer relationships, often synchronized from ERP contract data."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-b2b-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-b2b-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-b2b-platforms-tools-2026"
+  }
 }

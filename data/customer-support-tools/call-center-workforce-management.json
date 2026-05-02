@@ -42,5 +42,11 @@
       "question": "What agent self-service features do workforce management platforms offer?",
       "answer": "Workforce management platforms offer agent self-service features including shift preference submission, shift swapping with other agents, time-off requests, and mobile schedule viewing. Five9 and Genesys enable agent-initiated shift exchanges without supervisor approval within defined rules. These features reduce administrative workload while improving agent schedule satisfaction."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-call-center-workforce-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-call-center-workforce-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-call-center-workforce-management-tools-2026"
+  }
 }

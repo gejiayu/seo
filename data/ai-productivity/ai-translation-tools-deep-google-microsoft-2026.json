@@ -1,7 +1,7 @@
 {
-  "title": "AI翻译工具评测：DeepL vs Google Translate vs Microsoft Translator远程沟通对比 - 2026 Review",
-  "description": "评测DeepL、Google Translate、Microsoft Translator等AI翻译工具的翻译质量和实时功能，帮你找到最适合远程团队的跨语言沟通方案。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "<h2>远程团队的跨语言沟通挑战</h2><p>远程团队跨语言协作：文档翻译、实时沟通、客户交流。AI翻译工具能快速翻译、实时对话、文档处理。</p><h2>核心功能对比</h2><table><tr><th>功能</th><th>DeepL</th><th>Google Translate</th><th>Microsoft Translator</th><th>Amazon Translate</th></tr><tr><td>翻译质量</th><td>最高</td><td>强</td><td>强</td><td>中</td></tr><tr><td>语言数量</th><td>31</td><td>130+</td><td>70+</td><td>75</td></tr><tr><td>实时对话</th><td>有限</td><td>✅</td><td>✅</td><td>有限</td></tr><tr><td>文档翻译</th><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>价格</th><td>$10.99</td><td>免费</td><td>免费</td><td>$15/百万</td></tr></table><h2>DeepL详解</h2><p>DeepL翻译质量最高，专业翻译，文档处理。</p><ul><li><strong>核心能力：</strong>高质量翻译、文档翻译、专业翻译</li><li><strong>优势：</strong>翻译质量最高、专业准确、文档处理</li><li><strong>劣势：</strong>语言数量少、实时对话弱</li><li><strong>价格：</span>免费版可用，Pro $10.99/月</li></ul><h2>Google Translate详解</h2><p>Google Translate语言最多，免费使用，实时对话。</p><ul><li><strong>核心能力：</strong>多语言翻译、实时对话、免费使用</li><li><strong>优势：</strong>语言最多、完全免费、实时对话好</li><li><strong>劣势：</strong>翻译质量不如DeepL、专业翻译弱</li><li><strong>价格：</span>完全免费</li></ul><h2>Microsoft Translator详解</h2><p>Microsoft Translator实时对话，Office集成，免费使用。</p><ul><li><strong>核心能力：</strong>多语言翻译、实时对话、Office集成</li><li><strong>优势：</strong>实时对话好、Office集成、免费</li><li><strong>劣势：</strong>翻译质量不如DeepL、语言少于Google</li><li><strong>价格：</span>完全免费</li></ul><h2>Amazon Translate详解</h2><p>Amazon Translate AWS翻译，企业API，按量计费。</p><ul><li><strong>核心能力：</strong>API翻译、批量翻译、AWS集成</li><li><strong>优势：</strong>企业API、AWS集成、批量翻译</li><li><strong>劣势：</strong>翻译质量中等、无实时对话</li><li><strong>价格：</span>$15/百万字符</li></ul><h2>对比总结</h2><table><tr><th>工具</th><th>质量</th><th>语言</th><th>价格</th><th>最佳场景</th></tr><tr><td>DeepL</td><td>最高</td><td>31</td><td>$11</td><td>专业翻译</td></tr><tr><td>Google Translate</td><td>强</td><td>130+</td><td>免费</td><td>多语言</td></tr><tr><td>Microsoft Translator</td><td>强</td><td>70+</td><td>免费</td><td>实时对话</td></tr><tr><td>Amazon Translate</td><td>中</td><td>75</td><td>$15</td><td>企业API</td></tr></table><h2>选择建议</h2><p>专业翻译选DeepL，多语言免费选Google，实时对话选Microsoft，企业API选Amazon。建议DeepL专业翻译+Google多语言，组合最优。</p>",
+  "title": "AI Translation Tool Review: DeepL vs Google Translate vs Microsoft Translator Remote Communication Comparison - 2026 Review",
+  "description": "Evaluate the translation quality and real-time functions of AI translation tools such as DeepL, Google Translate, and Microsoft Translator to help you find the most suitable cross-language communication solution for remote teams. ",
+  "content": "\\u003ch2\\u003eCross-language communication challenges for remote teams\\u003c/h2\\u003e\\u003cp\\u003eCross-language collaboration for remote teams: document translation, real-time communication, customer communication. AI translation tools can fast translation, real-time dialogue, and document processing.\\u003c/p\\u003e\\u003ch2\\u003eCore Features comparison\\u003c/h2\\u003e\\u003ctable\\u003e\\u003ctr\\u003e\\u003cth\\u003efunction\\u003c/th\\u003e\\u003cth\\u003eDeepL\\u003c/th\\u003e\\u003cth\\u003eGoogle Translate\\u003c/th\\u003e\\u003cth\\u003eMicrosoft Translator\\u003c/th\\u003e\\u003cth\\u003eAmazon ",
   "seo_keywords": [
     "AI translation tools",
     "DeepL vs Google Translate",
@@ -11,5 +11,11 @@
   ],
   "slug": "ai-translation-tools-deep-google-microsoft-2026",
   "published_at": "2026-05-02",
-  "author": "Translation Technology Analyst"
+  "author": "Translation Technology Analyst",
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ai-translation-tools-deep-google-microsoft-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ai-translation-tools-deep-google-microsoft-2026",
+    "zh-CN": "https://www.housecar.life/posts/zh/ai-translation-tools-deep-google-microsoft-2026"
+  }
 }

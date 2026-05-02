@@ -41,5 +41,12 @@
       "question": "How frequently should recruitment reports be distributed?",
       "answer": "Operational reports warrant weekly distribution for workflow management. Quality reports benefit from monthly delivery for trend analysis. Executive summaries suit quarterly frequency for strategic review. Real-time dashboards enable continuous monitoring for critical metrics."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-reporting-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-reporting-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-reporting-software"
+  },
+  "category": "hr-recruitment-tools"
 }

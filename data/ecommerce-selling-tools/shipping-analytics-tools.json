@@ -41,5 +41,11 @@
       "question": "Can shipping analytics tools integrate data from multiple shipping platforms?",
       "answer": "Yes, platforms like Convey and TransImpact aggregate data from multiple shipping platforms, carriers, and business systems through API integration. This multi-platform aggregation enables comprehensive analysis across all shipping operations regardless of which platforms process individual shipments."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-shipping-analytics-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-shipping-analytics-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-shipping-analytics-tools"
+  }
 }

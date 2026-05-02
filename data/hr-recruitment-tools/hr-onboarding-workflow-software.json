@@ -41,5 +41,12 @@
       "question": "What triggers initiate onboarding workflow automation?",
       "answer": "Onboarding workflow automation triggers include event-based triggers from ATS hiring decisions, completion-based triggers advancing workflow when prior steps finish, timing-based triggers scheduling communications and check-ins at intervals, and integration-based triggers from connected systems like HRIS updates. Effective trigger design maintains process momentum without overwhelming new hires."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/hr-onboarding-workflow-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/hr-onboarding-workflow-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/hr-onboarding-workflow-software"
+  },
+  "category": "hr-recruitment-tools"
 }

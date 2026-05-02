@@ -42,5 +42,11 @@
       "question": "Can outbound platforms call cell phone numbers legally?",
       "answer": "Outbound platforms can call cell phone numbers but face stricter regulations than landline calling. TCPA requires prior express consent for auto-dialing or prerecorded messages to mobile numbers. Manual dialing by agents without auto-dialer assistance faces fewer restrictions. Businesses should verify consent status before mobile calling campaigns."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-outbound-call-center-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-outbound-call-center-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-outbound-call-center-platforms-tools-2026"
+  }
 }

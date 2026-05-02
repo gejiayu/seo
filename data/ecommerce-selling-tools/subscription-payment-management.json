@@ -41,5 +41,11 @@
       "question": "What is merchant of record and why does it matter?",
       "answer": "Merchant of record handles legal responsibilities for transactions including tax collection, remittance, and compliance. Platforms like Paddle operate as merchant of record, simplifying international software sales by handling global tax obligations. This eliminates complex compliance requirements for sellers."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-subscription-payment-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-subscription-payment-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-subscription-payment-management-tools-2026"
+  }
 }

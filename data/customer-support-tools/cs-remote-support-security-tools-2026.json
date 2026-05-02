@@ -39,5 +39,11 @@
       "question": "What FedRAMP authorization level is required for government remote support?",
       "answer": "Federal agencies require FedRAMP authorization at appropriate impact level (Low, Moderate, or High) based on data sensitivity. Most support scenarios require Moderate impact level authorization. Defense-related support may require High impact level. Government contractors should verify contract-specific FedRAMP requirements."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-remote-support-security-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-remote-support-security-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-remote-support-security-tools-2026"
+  }
 }

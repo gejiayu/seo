@@ -39,5 +39,11 @@
       "question": "How do organizations train technicians for live guidance?",
       "answer": "Training should cover platform tool operation (drawing, highlighting, annotation), visual communication techniques (directing attention visually), patient instruction methods (waiting for customer actions, confirming understanding), guidance workflow procedures (step-by-step instruction), and customer engagement maintenance (encouragement, adaptation, verification)."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-live-guidance-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-live-guidance-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-live-guidance-platforms-2026"
+  }
 }

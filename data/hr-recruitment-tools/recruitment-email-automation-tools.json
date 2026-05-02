@@ -42,5 +42,11 @@
       "question": "What personalization depth levels are available in modern platforms?",
       "answer": "Platforms range from basic field insertion replacing names and job titles, through behavior-based content adaptation, to AI-generated personalized content. Advanced personalization using machine learning delivers 50-60% engagement improvements."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-email-automation-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-email-automation-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-email-automation-tools"
+  }
 }

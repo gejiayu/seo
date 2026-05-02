@@ -41,5 +41,11 @@
       "question": "How do tracking platforms handle delivery exceptions?",
       "answer": "Tracking platforms detect exception statuses like delivery failed, address issues, or customs delays. They send proactive notifications to customers explaining issues and providing resolution options. Some platforms enable customers to report problems directly from tracking pages."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-order-tracking-systems-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-order-tracking-systems-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-order-tracking-systems-2026"
+  }
 }

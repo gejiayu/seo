@@ -41,5 +41,12 @@
       "question": "What happens when verification reveals discrepancies with candidate claims?",
       "answer": "Verification tools flag discrepancies between claimed and verified employment information for hiring manager evaluation. Common discrepancies include date variations, title exaggerations, and responsibility inflation. Minor discrepancies may reflect simple errors, while systematic patterns may indicate intentional misrepresentation. FCRA-compliant services enable candidate dispute processes when candidates believe verified information contains errors, investigating disputes through additional verification attempts."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/employment-history-verification-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/employment-history-verification-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/employment-history-verification-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

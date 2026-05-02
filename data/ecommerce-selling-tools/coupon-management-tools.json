@@ -41,5 +41,11 @@
       "question": "What distribution channels provide lowest abuse risk for coupon promotions?",
       "answer": "Channels with direct personal delivery provide lowest abuse risk: SMS delivery to verified phone numbers, in-app distribution to authenticated users, printed packaging inserts that cannot be digitally shared, and member dashboard distribution requiring account login. These channels prevent code spreading beyond intended recipients through mechanisms that require personal identification for code access."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-coupon-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-coupon-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-coupon-management-tools-2026"
+  }
 }

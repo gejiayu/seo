@@ -2,23 +2,27 @@
 
 import { useState, useMemo, useEffect } from 'react'
 import Link from 'next/link'
-import type { PageListItem } from '@/lib/data-loader'
+import type { PageListItem, Language } from '@/lib/data-loader'
+import { getCategoryName } from '@/lib/category-translations'
 
 interface ArticleListProps {
   pages: PageListItem[]
   categories: string[]
+  language?: Language
 }
 
 // 单个卡片组件
-function ArticleCard({ page }: { page: PageListItem }) {
+function ArticleCard({ page, language }: { page: PageListItem; language: Language }) {
+  const href = language === 'zh-CN' ? `/zh/posts/${page.slug}` : `/posts/${page.slug}`
+
   return (
     <Link
-      href={`/posts/${page.slug}`}
+      href={href}
       className="block p-6 bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-200 border border-gray-100 hover:border-blue-200"
     >
       <div className="mb-3">
         <span className="text-xs font-semibold text-blue-600 uppercase tracking-wide">
-          {page.category}
+          {getCategoryName(page.category, language)}
         </span>
       </div>
       <h3 className="text-lg font-semibold text-gray-900 mb-3 line-clamp-2 hover:text-blue-600 transition-colors">
@@ -43,7 +47,7 @@ function ArticleCard({ page }: { page: PageListItem }) {
   )
 }
 
-export function ArticleList({ pages, categories }: ArticleListProps) {
+export function ArticleList({ pages, categories, language = 'en-US' }: ArticleListProps) {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
   const [showAllCategories, setShowAllCategories] = useState(false)
   const [visibleCount, setVisibleCount] = useState(50) // 首屏显示50篇
@@ -79,12 +83,39 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
     setVisibleCount(50)
   }, [selectedCategory])
 
+  // 文本基于语言
+  const texts = language === 'zh-CN'
+    ? {
+        categories: '分类',
+        articles: '文章',
+        allArticles: '全部文章',
+        showAll: '显示全部',
+        showLess: '显示较少',
+        more: '更多',
+        loadMore: '加载更多',
+        remaining: '剩余',
+        loading: '加载中...',
+        noArticles: '该分类暂无文章',
+      }
+    : {
+        categories: 'Categories',
+        articles: 'Articles',
+        allArticles: 'All Articles',
+        showAll: 'Show All',
+        showLess: 'Show Less',
+        more: 'more',
+        loadMore: 'Load More',
+        remaining: 'remaining',
+        loading: 'Loading...',
+        noArticles: 'No articles found in this category',
+      }
+
   return (
     <>
       {/* Categories Filter */}
       <section className="mb-10">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
-          Categories ({categories.length})
+          {texts.categories} ({categories.length})
         </h2>
         <div className="flex flex-wrap gap-2 mb-4">
           {visibleCategories.map((category) => (
@@ -99,9 +130,9 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
                   : 'bg-blue-100 text-blue-800 hover:bg-blue-200'
               }`}
             >
-              {category}
+              {getCategoryName(category, language)}
               {selectedCategory === category && (
-                <span className="ml-2 opacity-80">✕</span>
+                <span className="ml-2 opacity-80">x</span>
               )}
             </button>
           ))}
@@ -113,7 +144,7 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
             onClick={() => setShowAllCategories(!showAllCategories)}
             className="px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 transition-all duration-200 cursor-pointer"
           >
-            {showAllCategories ? 'Show Less' : `Show All (${categories.length - 20} more)`}
+            {showAllCategories ? texts.showLess : `${texts.showAll} (${categories.length - 20} ${texts.more})`}
           </button>
         )}
       </section>
@@ -122,15 +153,15 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
       <section>
         <h2 className="text-2xl font-semibold text-gray-800 mb-6">
           {selectedCategory
-            ? `${selectedCategory} Articles (${filteredPages.length})`
-            : `All Articles (${pages.length})`}
+            ? `${getCategoryName(selectedCategory, language)} ${texts.articles} (${filteredPages.length})`
+            : `${texts.allArticles} (${pages.length})`}
         </h2>
 
         {displayedPages.length > 0 ? (
           <>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               {displayedPages.map((page) => (
-                <ArticleCard key={page.slug} page={page} />
+                <ArticleCard key={page.slug} page={page} language={language} />
               ))}
             </div>
 
@@ -142,7 +173,7 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
                   disabled={isLoading}
                   className="px-6 py-3 rounded-lg text-sm font-medium bg-blue-600 text-white hover:bg-blue-700 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
                 >
-                  {isLoading ? 'Loading...' : `Load More (${filteredPages.length - visibleCount} remaining)`}
+                  {isLoading ? texts.loading : `${texts.loadMore} (${filteredPages.length - visibleCount} ${texts.remaining})`}
                 </button>
               </div>
             )}
@@ -150,7 +181,7 @@ export function ArticleList({ pages, categories }: ArticleListProps) {
         ) : (
           <div className="text-center py-12">
             <p className="text-gray-500">
-              No articles found in this category.
+              {texts.noArticles}
             </p>
           </div>
         )}

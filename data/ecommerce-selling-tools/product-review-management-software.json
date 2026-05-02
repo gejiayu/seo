@@ -41,5 +41,11 @@
       "question": "How does AI sentiment analysis work for reviews?",
       "answer": "AI sentiment analysis uses natural language processing to identify positive, negative, and neutral themes in review text. Machine learning models categorize feedback by topic and sentiment intensity. Keyword extraction identifies frequently mentioned aspects. Trend analysis tracks sentiment changes over time. Analysis enables product improvement prioritization."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-product-review-management-software-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-product-review-management-software-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-product-review-management-software-tools-2026"
+  }
 }

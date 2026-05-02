@@ -41,5 +41,11 @@
       "question": "What customer self-service options do exception platforms provide?",
       "answer": "Self-service portals enable customers to update delivery addresses, specify delivery preferences like safe drop locations, initiate return requests for failed deliveries, request reshipping of lost packages, submit refund requests, and view complete exception history for their orders."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-order-exception-management-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-order-exception-management-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-order-exception-management-software-2026"
+  }
 }

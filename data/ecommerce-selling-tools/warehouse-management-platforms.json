@@ -41,5 +41,11 @@
       "question": "Can warehouse management systems integrate with robots?",
       "answer": "Yes, enterprise WMS platforms like SAP EWM, Oracle WMS, and Manhattan SCALE support integration with autonomous mobile robots, automated storage systems, and conveyor automation. Cloud solutions increasingly add robotics integration capabilities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-warehouse-management-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-warehouse-management-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-warehouse-management-platforms-tools-2026"
+  }
 }

@@ -41,5 +41,11 @@
       "question": "Which open-source platform is easiest for beginners?",
       "answer": "WooCommerce is easiest for beginners, especially those familiar with WordPress. The plugin integrates seamlessly with WordPress, benefits from WordPress's intuitive admin interface, and has massive community resources providing abundant help. OpenCart offers simplicity but with smaller community. PrestaShop and Magento require more technical expertise. If completely new to self-hosted commerce, consider WooCommerce on managed WordPress hosting ($30-50/month) to reduce technical burden."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-open-source-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-open-source-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-open-source-platforms-tools-2026"
+  }
 }

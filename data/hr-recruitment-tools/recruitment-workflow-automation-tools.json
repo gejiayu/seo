@@ -42,5 +42,11 @@
       "question": "What triggers commonly initiate recruitment automation sequences?",
       "answer": "Popular trigger events include candidate application submission, interview completion, approval requests, offer creation, stage transitions, and time-based intervals. Advanced platforms offer 15-25 different trigger types for comprehensive automation coverage."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-workflow-automation-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-workflow-automation-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-workflow-automation-tools"
+  }
 }

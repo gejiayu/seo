@@ -1,0 +1,22 @@
+{
+  "title": "[待翻译] 理赔审核系统评测：ReviewMaster与ClaimAudit深度对比｜2026年评测",
+  "description": "[需要翻译] 深度评测理赔审核系统，对比ReviewMaster与ClaimAudit的审核规则、权限管理、异常识别能力，提升理赔审核质量和效率。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
+  "content": "[需要翻译]\n<h2>审核系统重要性</h2><p>理赔审核系统是理赔流程的核心环节，直接影响理赔准确性和风险控制。</p><h2>核心功能对比</h2><table><tr><th>功能</th><th>ReviewMaster</th><th>ClaimAudit</th></tr><tr><td>审核规则配置</td><td>可视化规则引擎</td><td>代码配置规则</td></tr><tr><td>多级审批</td><td>支持自定义审批层级</td><td>固定三级审批</td></tr><tr><td>权限管理</td><td>细粒度权限控制</td><td>角色基础权限</td></tr><tr><td>异常识别</td><td>AI欺诈预警</td><td>人工异常标记</td></tr><tr><td>审核效率</td><td>批量审核支持</td><td>单案件审核</td></tr></table><h2>审核效率数据</h2><p>ReviewMaster平均审核时间20分钟，ClaimAudit需45分钟。批量审核功能显著提升效率。</p><h2>欺诈识别率</h2><p>ReviewMasterAI识别准确率92%，ClaimAudit人工识别准确率85%。</p><h2>系统灵活性</h2><p>ReviewMaster规则引擎支持业务人员自主配置，ClaimAudit需IT人员修改代码。</p><h2>推荐选择</h2><p>追求审核效率和灵活性的保险公司选择ReviewMaster。</p>",
+  "seo_keywords": [
+    "理赔审核系统",
+    "理赔审批流程",
+    "理赔规则引擎",
+    "理赔权限管理",
+    "理赔异常识别"
+  ],
+  "slug": "claims-review-system-evaluation-2026",
+  "published_at": "2026-05-02",
+  "author": "保险科技专家",
+  "language": "zh-CN",
+  "canonical_link": "https://www.housecar.life/posts/claims-review-system-evaluation-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/claims-review-system-evaluation-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/claims-review-system-evaluation-2026"
+  },
+  "category": "insurance-claims-processing-tools"
+}

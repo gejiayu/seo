@@ -41,5 +41,12 @@
       "question": "Can onboarding task management tools support role-specific workflows?",
       "answer": "Yes, advanced onboarding task management tools support role-specific workflows through conditional task assignment, parallel paths, and customized sequences based on employee attributes including role, department, location, and employment type. This customization ensures each new hire receives appropriate tasks while maintaining consistent compliance requirements across all employees."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/onboarding-task-management-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/onboarding-task-management-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/onboarding-task-management-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

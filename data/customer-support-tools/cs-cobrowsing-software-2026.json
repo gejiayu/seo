@@ -39,5 +39,11 @@
       "question": "What compliance advantages does cobrowsing offer over screen sharing?",
       "answer": "Cobrowsing's restricted visibility to web content only means technicians never see customer desktops, files, or applications beyond the support session purpose. This isolation reduces GDPR data exposure, maintains HIPAA compliance by avoiding patient record visibility, and meets PCI DSS requirements through payment field masking."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-cobrowsing-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-cobrowsing-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-cobrowsing-software-2026"
+  }
 }

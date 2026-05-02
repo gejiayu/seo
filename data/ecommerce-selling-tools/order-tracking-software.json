@@ -41,5 +41,11 @@
       "question": "What notification frequency is appropriate for customer tracking updates?",
       "answer": "Most customers prefer 3-5 notifications per shipment: shipment confirmation, in-transit update, out for delivery, and delivery confirmation. Avoid excessive notifications during transit. Allow customers to adjust preferences. Exception alerts should trigger immediately when problems occur."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-order-tracking-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-order-tracking-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-order-tracking-software"
+  }
 }

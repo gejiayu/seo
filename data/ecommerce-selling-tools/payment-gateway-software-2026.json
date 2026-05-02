@@ -41,5 +41,11 @@
       "question": "Do payment gateways handle PCI compliance for merchants?",
       "answer": "Yes, most leading payment gateways including Stripe, PayPal, and Square maintain PCI Level 1 compliance and handle compliance requirements on behalf of merchants. This significantly reduces your compliance burden while ensuring customer payment data security."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-payment-gateway-software-2026-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-payment-gateway-software-2026-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-payment-gateway-software-2026-tools-2026"
+  }
 }

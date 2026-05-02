@@ -41,5 +41,12 @@
       "question": "Can predictive hiring analytics integrate with existing ATS without replacement?",
       "answer": "Most predictive platforms operate as overlay systems enhancing existing ATS investments. Integration architecture ranges from ATS connectors to comprehensive multi-system integration. Organizations should evaluate integration requirements based on prediction depth needs."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/predictive-hiring-analytics-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/predictive-hiring-analytics-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/predictive-hiring-analytics-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

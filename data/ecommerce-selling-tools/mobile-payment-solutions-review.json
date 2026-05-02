@@ -41,5 +41,11 @@
       "question": "What payment types do mobile POS systems accept?",
       "answer": "Modern mobile POS systems accept credit cards, debit cards, contactless payments, and digital wallets. Supported payment methods include EMV chip cards, NFC contactless cards, Apple Pay, Google Pay, and Samsung Pay. Some platforms also accept gift cards, store credit, and cash payments."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-mobile-payment-solutions-review-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-mobile-payment-solutions-review-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-mobile-payment-solutions-review-tools-2026"
+  }
 }

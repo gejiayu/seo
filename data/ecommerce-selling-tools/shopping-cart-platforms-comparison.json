@@ -41,5 +41,11 @@
       "question": "Should I use hosted or on-site checkout?",
       "answer": "Hosted checkout (Shopify, Stripe) is recommended for most merchants because it simplifies PCI DSS compliance, reduces security responsibility, and provides professionally optimized checkout flows. On-site checkout benefits merchants requiring complete checkout customization, but requires higher compliance levels and more technical maintenance."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-shopping-cart-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-shopping-cart-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-shopping-cart-platforms-tools-2026"
+  }
 }

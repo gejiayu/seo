@@ -41,5 +41,12 @@
       "question": "What factors influence criminal background check turnaround time?",
       "answer": "Criminal background check turnaround depends on search type and county responsiveness. Database-based searches typically complete within 24-72 hours. County-level searches requiring manual court record retrieval extend to 3-7 business days depending on court access methods and responsiveness. International criminal verification may require 7-14 business days due to varying infrastructure and communication delays across countries."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/criminal-background-check-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/criminal-background-check-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/criminal-background-check-software"
+  },
+  "category": "hr-recruitment-tools"
 }

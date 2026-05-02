@@ -41,5 +41,11 @@
       "question": "Can analytics platforms scale as support teams grow?",
       "answer": "Yes, analytics platforms scale efficiently as teams grow. Unlike spreadsheets that require proportionally more effort for larger datasets, platforms handle increasing data volumes without additional manual work. This scalability supports organizational growth without increasing analytics burden."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-support-team-analytics-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-support-team-analytics-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-support-team-analytics-platforms-tools-2026"
+  }
 }

@@ -41,5 +41,11 @@
       "question": "How do I optimize knowledge base search based on analytics?",
       "answer": "Optimize search through analytics review: address zero-result queries with content creation, tune relevance for low click-through queries, expand content for popular searches, add synonyms for common misspellings, adjust ranking based on user behavior patterns, and continuously monitor metrics for improvement opportunities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-knowledge-base-search-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-knowledge-base-search-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-knowledge-base-search-tools-2026"
+  }
 }

@@ -41,5 +41,12 @@
       "question": "How accurate are workforce turnover prediction models?",
       "answer": "Leading platforms achieve 70-80% accuracy in identifying high-turnover-risk employees when calibrated for organizational context. Accuracy improves with historical data volume and engagement signal integration."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/workforce-analytics-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/workforce-analytics-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/workforce-analytics-software"
+  },
+  "category": "hr-recruitment-tools"
 }

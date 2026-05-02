@@ -41,5 +41,12 @@
       "question": "Can digital onboarding tools integrate with existing HR systems?",
       "answer": "Yes, most digital onboarding tools offer integration capabilities with HRIS systems, ATS platforms, and collaboration tools. Integration depth varies by platform, with some offering native connections to popular systems while others provide API capabilities for custom integrations. Integration quality significantly impacts implementation complexity and ongoing data accuracy."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/digital-onboarding-tools-comparison",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/digital-onboarding-tools-comparison",
+    "zh-CN": "https://www.housecar.life/zh/posts/digital-onboarding-tools-comparison"
+  },
+  "category": "hr-recruitment-tools"
 }

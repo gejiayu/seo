@@ -42,5 +42,11 @@
       "question": "What data do AI routing systems analyze for agent selection?",
       "answer": "AI routing systems analyze historical call outcomes, identifying agent characteristics correlating with successful resolutions. Systems consider resolution rates by agent for specific issue types, customer segments, and interaction patterns. Machine learning models improve prediction accuracy as data volume accumulates over months of operation."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-call-routing-software-comparison-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-call-routing-software-comparison-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-call-routing-software-comparison-tools-2026"
+  }
 }

@@ -41,5 +41,12 @@
       "question": "Can screening software reduce hiring bias?",
       "answer": "Screening software can reduce bias through blind screening removing identifiers, standardized criteria applied consistently, and objective assessment. However, AI algorithms may themselves encode bias. Effective bias reduction requires regular auditing of screening outcomes, working with vendors on bias mitigation, and maintaining human oversight of automated recommendations."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/candidate-screening-software-review",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/candidate-screening-software-review",
+    "zh-CN": "https://www.housecar.life/zh/posts/candidate-screening-software-review"
+  },
+  "category": "hr-recruitment-tools"
 }

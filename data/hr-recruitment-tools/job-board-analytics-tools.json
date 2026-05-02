@@ -41,5 +41,12 @@
       "question": "Can analytics tools integrate with existing ATS systems?",
       "answer": "Yes, major analytics platforms integrate with leading ATS systems through API connections enabling conversion tracking from application through hiring completion."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/job-board-analytics-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/job-board-analytics-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/job-board-analytics-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

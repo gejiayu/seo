@@ -41,5 +41,12 @@
       "question": "Can background check software integrate with existing HR systems?",
       "answer": "Leading background check platforms offer pre-built integrations with 15-60+ ATS providers including Workday, Oracle, SAP SuccessFactors, and BambooHR. API-based connections enable custom integration for organizations with unique HR systems, supporting bidirectional data exchange for seamless workflow automation."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/background-check-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/background-check-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/background-check-software-2026"
+  },
+  "category": "hr-recruitment-tools"
 }

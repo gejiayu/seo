@@ -39,5 +39,11 @@
       "question": "What concurrent session capacity do support teams typically need?",
       "answer": "Session capacity depends on team size and support volume. Small teams (5-10 technicians) typically need 10-15 concurrent sessions. Mid-sized teams (20-50 technicians) require 25-50 sessions. Large enterprise teams may need 100+ concurrent sessions with load balancing across technician groups."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-remote-desktop-support-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-remote-desktop-support-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-remote-desktop-support-platforms-2026"
+  }
 }

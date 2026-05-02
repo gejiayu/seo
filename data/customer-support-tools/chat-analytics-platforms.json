@@ -41,5 +41,11 @@
       "question": "Can chat analytics integrate with external business intelligence systems?",
       "answer": "Advanced platforms offer API access enabling analytics export to external BI systems like Tableau, PowerBI, or custom dashboards. API quality determines integration complexity. Some platforms provide direct integrations with popular BI tools. Basic platforms offer limited export capabilities through CSV downloads requiring manual processing."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-chat-analytics-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-chat-analytics-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-chat-analytics-platforms-tools-2026"
+  }
 }

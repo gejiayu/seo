@@ -41,5 +41,12 @@
       "question": "What compliance documentation do platforms maintain for audit support?",
       "answer": "Compliance platforms maintain comprehensive documentation including disclosure documents, authorization records, screening results, adverse action notices, and individualized assessment records for criminal history evaluation. Documentation retention management maintains records for required durations. Audit preparation capabilities generate documentation packages organized for regulatory review. Search and export features enable rapid retrieval for compliance audits and legal discovery without manual record reconstruction."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/compliance-background-check-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/compliance-background-check-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/compliance-background-check-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

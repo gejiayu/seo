@@ -41,5 +41,12 @@
       "question": "What benchmarks should organizations use for recruitment performance?",
       "answer": "Organizations should leverage industry-specific benchmarks adjusted for company size and geography. Internal historical benchmarks provide improvement trajectory context. Competitive benchmarks inform positioning strategies but require careful peer selection for meaningful comparison."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-performance-metrics-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-performance-metrics-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-performance-metrics-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

@@ -41,5 +41,11 @@
       "question": "Does BNPL increase average order value?",
       "answer": "Yes, BNPL typically increases average order value by 45-50% by expanding customer purchasing power. Customers can afford higher-value items when splitting payments into installments. Studies show significant AOV lift across BNPL implementations, making higher merchant fees offset by increased revenue per order."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-buy-now-pay-later-integration-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-buy-now-pay-later-integration-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-buy-now-pay-later-integration-tools-2026"
+  }
 }

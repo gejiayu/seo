@@ -41,5 +41,11 @@
       "question": "Can restaurant POS handle split checks and tip pooling?",
       "answer": "Yes, major restaurant POS systems handle split checks and tip pooling. Toast, Revel, TouchBistro, and Lightspeed Restaurant support multiple split check methods including per-item splits, equal splits, and custom amounts. Tip processing calculates tips automatically on split payments. Tip pooling distributes tips among service staff based on hours worked or custom rules. Toast provides the most flexible tip pooling configurations. Square supports split checks but tip pooling requires add-on apps."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-restaurant-pos-systems-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-restaurant-pos-systems-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-restaurant-pos-systems-tools-2026"
+  }
 }

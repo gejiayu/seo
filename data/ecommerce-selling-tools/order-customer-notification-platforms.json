@@ -41,5 +41,11 @@
       "question": "Can order notifications include promotional content?",
       "answer": "Advanced platforms enable promotional content integration within transactional notifications. Shipping updates can include product recommendations, discount codes, cross-selling suggestions, and loyalty program information without additional marketing campaign costs."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-order-customer-notification-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-order-customer-notification-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-order-customer-notification-platforms-2026"
+  }
 }

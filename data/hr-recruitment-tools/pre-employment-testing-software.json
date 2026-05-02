@@ -41,5 +41,12 @@
       "question": "Are pre-employment tests legally compliant?",
       "answer": "Yes, when properly implemented with validated assessments measuring job-related competencies. Compliance requires using tests that demonstrate business necessity, analyzing results for adverse impact, providing disability accommodations, and documenting job relevance. Work with vendors providing validation studies and regularly audit results for ongoing compliance."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/pre-employment-testing-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/pre-employment-testing-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/pre-employment-testing-software"
+  },
+  "category": "hr-recruitment-tools"
 }

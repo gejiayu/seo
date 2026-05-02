@@ -41,5 +41,11 @@
       "question": "Can inventory reporting tools integrate with Power BI?",
       "answer": "Yes, inventory systems with API export capabilities like Cin7, DEAR Systems, and TradeGecko can feed data to Power BI. Some tools provide direct connectors while others require API configuration. This integration enables advanced visualization within existing BI infrastructure."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-inventory-reporting-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-inventory-reporting-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-inventory-reporting-tools-tools-2026"
+  }
 }

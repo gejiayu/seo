@@ -41,5 +41,11 @@
       "question": "How do inventory buffer settings improve stock management?",
       "answer": "Inventory buffer settings improve stock management by reserving inventory for specific purposes including processing time buffers accounting for fulfillment intervals, safety stock buffers accommodating demand variability, channel-specific buffers ensuring availability on priority marketplaces, and location-specific buffers for local fulfillment needs. Buffers prevent overselling during processing delays, accommodate unexpected demand spikes, and enable strategic channel focus. Effective buffer sizing balances overselling prevention with availability optimization, with dynamic adjustment based on actual performance improving efficiency."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-marketplace-inventory-sync-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-marketplace-inventory-sync-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-marketplace-inventory-sync-tools-tools-2026"
+  }
 }

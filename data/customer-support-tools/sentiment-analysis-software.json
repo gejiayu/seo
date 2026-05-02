@@ -41,5 +41,11 @@
       "question": "What data sources work best for sentiment analysis?",
       "answer": "All text-based customer feedback sources suit sentiment analysis. Survey open responses provide structured sentiment. Reviews offer rich qualitative content. Support tickets capture service sentiment. Social media reveals public perception. Combining multiple sources provides comprehensive sentiment coverage. Choose sources based on your feedback landscape and analytical priorities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-sentiment-analysis-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-sentiment-analysis-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-sentiment-analysis-software-2026"
+  }
 }

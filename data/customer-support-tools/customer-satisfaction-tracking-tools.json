@@ -41,5 +41,11 @@
       "question": "Can satisfaction tracking integrate with Salesforce?",
       "answer": "Yes, leading satisfaction tracking platforms offer native Salesforce integration including Qualtrics, Medallia, SurveyMonkey CX, and CustomerGauge. Integration syncs satisfaction scores to customer records, enables satisfaction-based segmentation, and triggers workflows for low-satisfaction accounts requiring intervention."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-customer-satisfaction-tracking-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-customer-satisfaction-tracking-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-customer-satisfaction-tracking-tools-2026"
+  }
 }

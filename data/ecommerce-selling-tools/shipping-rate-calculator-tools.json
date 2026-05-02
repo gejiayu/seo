@@ -41,5 +41,11 @@
       "question": "Do shipping rate calculators require carrier account setup?",
       "answer": "Some calculators like Pirate Ship and Shippo provide access to discounted rates without carrier accounts. Others require your own carrier account credentials to retrieve negotiated rates. API-based calculators typically support both approaches depending on integration configuration."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-shipping-rate-calculator-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-shipping-rate-calculator-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-shipping-rate-calculator-tools"
+  }
 }

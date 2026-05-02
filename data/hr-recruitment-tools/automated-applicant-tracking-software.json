@@ -41,5 +41,12 @@
       "question": "Should small businesses use automated ATS?",
       "answer": "Small businesses may benefit from automated ATS features like resume parsing and basic automation. However, advanced AI screening may exceed small volume needs. Consider platforms offering modular automation allowing selection of appropriate features without overwhelming complexity."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/automated-applicant-tracking-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/automated-applicant-tracking-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/automated-applicant-tracking-software"
+  },
+  "category": "hr-recruitment-tools"
 }

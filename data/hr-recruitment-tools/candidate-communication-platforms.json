@@ -42,5 +42,11 @@
       "question": "What compliance requirements must candidate communication platforms address?",
       "answer": "Platforms must support GDPR consent tracking, CAN-SPAM opt-out management, TCPA SMS compliance, and frequency limitations. Enterprise solutions provide complete audit trails, automatic opt-out honoring, and policy enforcement for legal communication practices."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/candidate-communication-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/candidate-communication-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/candidate-communication-platforms"
+  }
 }

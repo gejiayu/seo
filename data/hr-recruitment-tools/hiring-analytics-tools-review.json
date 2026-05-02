@@ -41,5 +41,12 @@
       "question": "What data quality standards should organizations establish before analytics deployment?",
       "answer": "Organizations should ensure consistent candidate tracking across sources, standardized stage definitions, complete interview documentation, and reliable outcome recording. Data governance protocols should define measurement standards and quality accountability."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/hiring-analytics-tools-review",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/hiring-analytics-tools-review",
+    "zh-CN": "https://www.housecar.life/zh/posts/hiring-analytics-tools-review"
+  },
+  "category": "hr-recruitment-tools"
 }

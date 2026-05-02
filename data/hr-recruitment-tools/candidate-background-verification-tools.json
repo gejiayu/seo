@@ -41,5 +41,12 @@
       "question": "What factors influence verification turnaround time?",
       "answer": "Verification turnaround depends on verification method, database coverage, and institution responsiveness. Database-based criminal verification typically completes within 24-72 hours. Employment and education verification through outreach requires 3-7 business days depending on previous employer and institution response rates. International verification may extend to 10-14 days due to varying infrastructure and regulatory requirements across countries."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/candidate-background-verification-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/candidate-background-verification-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/candidate-background-verification-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

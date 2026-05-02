@@ -39,5 +39,11 @@
       "question": "Can screen sharing work effectively on mobile devices?",
       "answer": "Modern screen sharing tools support iOS and Android devices through specialized viewing and control modes. Mobile screen sharing typically shows device screens on technician consoles, with varying degrees of remote control capability depending on platform and operating system restrictions."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-screen-sharing-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-screen-sharing-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-screen-sharing-tools-2026"
+  }
 }

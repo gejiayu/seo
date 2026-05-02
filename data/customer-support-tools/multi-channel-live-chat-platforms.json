@@ -41,5 +41,11 @@
       "question": "Do multi-channel platforms increase agent productivity significantly?",
       "answer": "Multi-channel platforms can increase productivity 20-40% through unified interfaces eliminating channel switching overhead. Agents manage all conversations from single dashboards rather than monitoring separate systems. However, initial productivity may decrease during training periods. Long-term gains depend on proper workflow configuration and agent skill development."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-multi-channel-live-chat-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-multi-channel-live-chat-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-multi-channel-live-chat-tools-2026"
+  }
 }

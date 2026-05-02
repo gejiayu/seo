@@ -41,5 +41,11 @@
       "question": "Do tablet POS systems work offline?",
       "answer": "Yes, most tablet POS systems offer offline mode. Square Stand stores up to 100 transactions offline. Lightspeed and Revel provide comprehensive offline operation with automatic sync on reconnect. Shopify POS maintains inventory offline. Toast's hybrid architecture enables full restaurant operation offline, storing all data locally. Clover Flex operates offline with complete sync capability. Offline mode is critical for businesses with unreliable internet connectivity."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-tablet-pos-systems-review-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-tablet-pos-systems-review-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-tablet-pos-systems-review-tools-2026"
+  }
 }

@@ -41,5 +41,11 @@
       "question": "How important is SEO for customer documentation?",
       "answer": "SEO is critical for customer documentation as it determines whether customers can discover help content through search engines. Well-optimized documentation appears in search results for product queries, reducing support dependency and improving customer satisfaction. SEO features like customizable meta tags, sitemap generation, and performance optimization significantly impact documentation value."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-customer-documentation-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-customer-documentation-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-customer-documentation-tools-2026"
+  }
 }

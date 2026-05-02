@@ -41,5 +41,12 @@
       "question": "Can multi-posting platforms integrate with existing ATS systems?",
       "answer": "Yes, major platforms integrate with 35-60+ ATS systems including Workday, Taleo, iCIMS, and Greenhouse through standard APIs and pre-built connectors."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/multi-posting-recruitment-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/multi-posting-recruitment-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/multi-posting-recruitment-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

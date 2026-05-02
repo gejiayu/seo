@@ -41,5 +41,12 @@
       "question": "Do equal opportunity platforms handle pay equity during hiring?",
       "answer": "Platforms like EquityRecruit integrate pay equity analysis into hiring processes, analyzing market rates for standardized offers, tracking compensation patterns by demographics, and preventing negotiation-based disparities that research shows disadvantage women and minority candidates compared to majority peers with identical qualifications."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/equal-opportunity-hiring-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/equal-opportunity-hiring-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/equal-opportunity-hiring-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

@@ -39,5 +39,11 @@
       "question": "What integration capabilities matter for remote support platforms?",
       "answer": "Critical integrations include CRM systems for customer context, ticketing platforms for workflow management, chat tools for real-time communication, and knowledge bases for quick reference. These integrations streamline support processes and maintain comprehensive customer records."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-remote-support-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-remote-support-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-remote-support-software-2026"
+  }
 }

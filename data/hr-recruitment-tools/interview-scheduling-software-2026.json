@@ -41,5 +41,12 @@
       "question": "Can interview scheduling software integrate with my existing ATS?",
       "answer": "Yes, most modern interview scheduling platforms offer native integrations with popular ATS systems like Greenhouse, Lever, Workday, and others. These integrations enable automated scheduling triggered by application status changes and unified data flow."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/interview-scheduling-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/interview-scheduling-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/interview-scheduling-software-2026"
+  },
+  "category": "hr-recruitment-tools"
 }

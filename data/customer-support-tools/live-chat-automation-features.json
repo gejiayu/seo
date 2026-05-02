@@ -41,5 +41,11 @@
       "question": "Do automated chat responses affect customer satisfaction negatively?",
       "answer": "Research shows mixed results. Customers appreciate immediate automated responses for simple questions, rating these interactions positively. However, automation for complex issues often produces negative satisfaction scores. Success depends on appropriate scenario matching—automation for routine queries, human support for complex problems."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-live-chat-automation-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-live-chat-automation-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-live-chat-automation-tools-2026"
+  }
 }

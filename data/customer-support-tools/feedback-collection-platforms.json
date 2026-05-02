@@ -41,5 +41,11 @@
       "question": "Can feedback collection platforms integrate with mobile apps?",
       "answer": "Yes, leading platforms offer mobile SDK integration enabling native in-app survey experiences. Platforms like Qualtrics, Wootric, SatisMeter, and Apptentive provide SDKs for iOS and Android deployment. SDK integration enables behavioral-triggered surveys, native UI experiences, and offline collection capability within mobile applications."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-feedback-collection-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-feedback-collection-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-feedback-collection-platforms-2026"
+  }
 }

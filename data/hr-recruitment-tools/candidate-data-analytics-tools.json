@@ -41,5 +41,12 @@
       "question": "Can candidate analytics integrate with existing ATS without replacement?",
       "answer": "Most candidate analytics platforms operate as overlay systems enhancing existing ATS investments. Integration architecture varies from simple ATS connectors to comprehensive multi-system data integration. Organizations should evaluate integration requirements based on analytical depth needs."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/candidate-data-analytics-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/candidate-data-analytics-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/candidate-data-analytics-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

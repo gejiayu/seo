@@ -41,5 +41,12 @@
       "question": "Can talent acquisition platforms support global hiring operations?",
       "answer": "Enterprise platforms like SAP SuccessFactors and Workday offer multi-language, multi-currency, and regional compliance features for global operations. Mid-market platforms may require additional configuration or regional variants for international hiring."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/talent-acquisition-platforms-review-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/talent-acquisition-platforms-review-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/talent-acquisition-platforms-review-2026"
+  },
+  "category": "hr-recruitment-tools"
 }

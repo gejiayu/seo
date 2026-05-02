@@ -41,5 +41,12 @@
       "question": "What types of skills can be assessed through these platforms?",
       "answer": "Modern skills assessment platforms evaluate diverse competencies including technical skills like coding and engineering, software proficiency with specific applications, language and communication abilities, cognitive problem-solving, soft skills like teamwork and leadership, and job-specific skills through realistic work simulations."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/skills-assessment-tools-for-hiring",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/skills-assessment-tools-for-hiring",
+    "zh-CN": "https://www.housecar.life/zh/posts/skills-assessment-tools-for-hiring"
+  },
+  "category": "hr-recruitment-tools"
 }

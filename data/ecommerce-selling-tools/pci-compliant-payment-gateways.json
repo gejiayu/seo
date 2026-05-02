@@ -41,5 +41,11 @@
       "question": "What is tokenization in payment processing?",
       "answer": "Tokenization replaces sensitive card data with secure tokens that reference stored card details without exposing actual card numbers. Tokens enable payment processing for subsequent transactions without transmitting or storing card data in merchant systems. This reduces PCI scope and enhances security by eliminating cardholder data storage."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-pci-compliant-payment-gateways-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-pci-compliant-payment-gateways-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-pci-compliant-payment-gateways-tools-2026"
+  }
 }

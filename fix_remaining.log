@@ -1,0 +1,110 @@
+============================================================
+Fixing 20 files with remaining Chinese
+============================================================
+
+[1/20] equipment-rental-inventory-management-review.json
+  Fixing: ['content']
+    content section 5/8
+  Fixed!
+
+[2/20] equipment-rental-quoting-system-review.json
+  Fixing: ['content']
+    content section 4/8
+  Fixed!
+
+[3/20] equipment-rental-scheduling-optimization-review.json
+  Fixing: ['content']
+    content section 2/8
+    content section 3/8
+    content section 4/8
+    content section 5/8
+  Fixed!
+
+[4/20] forklift-rental-management-system-review.json
+  Fixing: ['content']
+    content section 2/7
+  Fixed!
+
+[5/20] heavy-machinery-digital-transformation-topic-38.json
+  Fixing: ['author']
+  Fixed!
+
+[6/20] heavy-machinery-digital-transformation-topic-40.json
+  Fixing: ['content']
+    content section 4/6
+  Fixed!
+
+[7/20] heavy-machinery-digital-transformation-topic-45.json
+  Fixing: ['content']
+    content section 2/6
+    content section 4/6
+  Fixed!
+
+[8/20] heavy-machinery-digital-transformation-topic-46.json
+  Fixing: ['content']
+    content section 4/6
+  Fixed!
+
+[9/20] heavy-machinery-digital-transformation-topic-53.json
+  Fixing: ['content']
+  Retry 1/5...
+    content section 3/6
+    content section 5/6
+    content section 6/6
+  Fixed!
+
+[10/20] heavy-machinery-digital-transformation-topic-59.json
+  Fixing: ['author']
+  Fixed!
+
+[11/20] heavy-machinery-digital-transformation-topic-77.json
+  Fixing: ['description']
+  Fixed!
+
+[12/20] heavy-machinery-digital-transformation-topic-81.json
+  Fixing: ['author']
+  Fixed!
+
+[13/20] heavy-machinery-digital-transformation-topic-82.json
+  Fixing: ['author']
+  Fixed!
+
+[14/20] heavy-machinery-digital-transformation-topic-90.json
+  Fixing: ['content']
+    content section 2/6
+  Fixed!
+
+[15/20] heavy-machinery-digital-transformation-topic-93.json
+  Fixing: ['content']
+    content section 6/6
+  Fixed!
+
+[16/20] heavy-machinery-digital-transformation-topic-95.json
+  Fixing: ['content']
+    content section 3/6
+  Fixed!
+
+[17/20] heavy-machinery-digital-transformation-topic-96.json
+  Fixing: ['content']
+    content section 2/6
+    content section 3/6
+  Fixed!
+
+[18/20] heavy-machinery-rental-finance-management-review.json
+  Fixing: ['content']
+    content section 8/8
+  Fixed!
+
+[19/20] heavy-machinery-rental-management-system-review-2026.json
+  Fixing: ['content']
+    content section 8/8
+  Fixed!
+
+[20/20] roller-rental-management-system-review.json
+  Fixing: ['content']
+    content section 4/7
+  Fixed!
+
+============================================================
+Fixed: 20/20
+============================================================

@@ -41,5 +41,11 @@
       "question": "How does AI knowledge gap detection work?",
       "answer": "AI knowledge gap detection analyzes search failures (queries without results), support ticket patterns showing repeated questions, user feedback indicating unmet needs, and chatbot failures to identify missing content. Machine learning identifies patterns suggesting where new content would reduce support dependency and improve self-service success."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-ai-knowledge-base-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-ai-knowledge-base-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-ai-knowledge-base-tools-2026"
+  }
 }

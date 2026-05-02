@@ -41,5 +41,12 @@
       "question": "Can diversity analytics platforms predict future workforce composition?",
       "answer": "Advanced platforms including DEIRecruit Metrics and EquityHire Analytics offer predictive analytics using machine learning to forecast diversity trajectories based on current hiring patterns, turnover rates, promotion velocities, and demographic trends. This forward visibility enables proactive intervention before diversity shortfalls materialize."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/diversity-analytics-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/diversity-analytics-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/diversity-analytics-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

@@ -41,5 +41,11 @@
       "question": "Can I use mobile POS for my online store inventory?",
       "answer": "Shopify POS Go provides native synchronization with Shopify online stores, syncing inventory, orders, and customer data in real-time. Square Reader integrates with Square Online Store for omnichannel inventory. Lightspeed and Vend mobile apps sync with their ecommerce integrations. Other mobile POS platforms require third-party plugins or lack ecommerce integration, making Shopify the best choice for unified online-offline inventory."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-mobile-pos-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-mobile-pos-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-mobile-pos-platforms-tools-2026"
+  }
 }

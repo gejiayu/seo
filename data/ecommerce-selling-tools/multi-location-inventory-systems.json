@@ -41,5 +41,11 @@
       "question": "Can multi-location systems manage both warehouses and retail stores?",
       "answer": "Yes, systems like Cin7, Veeqo, and Brightpearl manage combined warehouse and retail store operations. Veeqo specializes in multi-store retail with POS integration. Cin7 handles unlimited locations including warehouses, stores, and third-party logistics partners."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-multi-location-inventory-systems-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-multi-location-inventory-systems-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-multi-location-inventory-systems-tools-2026"
+  }
 }

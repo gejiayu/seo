@@ -41,5 +41,12 @@
       "question": "What integrations should I prioritize for ATS?",
       "answer": "Prioritize job board integrations for automated posting, HRIS connectivity for employee data synchronization, assessment platform integration for skills testing, and calendar/email integration for scheduling. Critical integrations depend on your specific recruitment workflow requirements."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ats-integration-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ats-integration-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/ats-integration-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

@@ -41,5 +41,12 @@
       "question": "What metrics should recruitment tracking provide?",
       "answer": "Essential metrics include candidate distribution by stage, time-in-stage durations, conversion rates between stages, stuck application identification, and overall pipeline health indicators. Advanced platforms offer predictive time-to-hire and custom metric creation."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-tracking-software-comparison",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-tracking-software-comparison",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-tracking-software-comparison"
+  },
+  "category": "hr-recruitment-tools"
 }

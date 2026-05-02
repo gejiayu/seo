@@ -42,5 +42,11 @@
       "question": "What approval workflow complexity levels are available?",
       "answer": "Platforms offer sequential approval chains, parallel review paths, and conditional routing logic. Basic workflows support simple linear approvals, while enterprise solutions enable complex multi-path routing based on requisition type, budget, or compliance requirements."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/hiring-team-collaboration-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/hiring-team-collaboration-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/hiring-team-collaboration-software"
+  }
 }

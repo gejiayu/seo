@@ -38,5 +38,11 @@
       "question": "Can email template tools integrate with e-commerce platforms?",
       "answer": "Yes, Gorgias specializes in e-commerce template integration with dynamic placeholders pulling order data, shipping information, product details, and customer purchase history directly from Shopify, Magento, and WooCommerce platforms."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-email-template-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-email-template-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-email-template-management-tools-2026"
+  }
 }

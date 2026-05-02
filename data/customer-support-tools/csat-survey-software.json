@@ -41,5 +41,11 @@
       "question": "Should CSAT surveys be optional or mandatory?",
       "answer": "Optional surveys maintain positive customer experience and avoid annoyance, but yield lower response rates. Mandatory surveys ensure data volume but risk negative sentiment from survey imposition. Balance based on your context: optional for high-touch relationships, mandatory where feedback is operationally critical."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-csat-survey-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-csat-survey-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-csat-survey-software-2026"
+  }
 }

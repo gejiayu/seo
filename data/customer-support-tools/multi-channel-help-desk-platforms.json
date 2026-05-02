@@ -41,5 +41,11 @@
       "question": "Do all help desk platforms include phone integration?",
       "answer": "No, phone integration varies significantly across platforms. Zendesk Suite and Salesforce Service Cloud include full phone systems. Many platforms offer phone as add-on integration. Some platforms lack phone capability entirely, requiring separate phone systems."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-multi-channel-help-desk-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-multi-channel-help-desk-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-multi-channel-help-desk-platforms-tools-2026"
+  }
 }

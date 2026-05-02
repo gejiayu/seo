@@ -42,5 +42,11 @@
       "question": "Can inbound call management software support multiple language queues?",
       "answer": "Yes, enterprise inbound call management platforms like Genesys Cloud and Five9 support multiple language queues. IVR systems offer language selection prompts, routing calls to agent groups with appropriate language skills. This capability serves businesses with diverse customer bases requiring support in multiple languages."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-inbound-call-management-software-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-inbound-call-management-software-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-inbound-call-management-software-tools-2026"
+  }
 }

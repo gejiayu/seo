@@ -41,5 +41,12 @@
       "question": "What integration capabilities are essential for internal recruitment platforms?",
       "answer": "Critical integrations include HRIS for employee data, performance management systems, learning management systems, and communication tools like Slack or email. These connections create comprehensive profiles and enable timely notifications."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/hr-internal-recruitment-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/hr-internal-recruitment-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/hr-internal-recruitment-platforms-2026"
+  },
+  "category": "hr-recruitment-tools"
 }

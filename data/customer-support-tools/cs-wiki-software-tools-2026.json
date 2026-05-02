@@ -41,5 +41,11 @@
       "question": "What content should support teams prioritize in wiki documentation?",
       "answer": "Support teams should prioritize solutions to frequently resolved tickets, troubleshooting workflows for common issues, product configuration references, escalation procedures, known issues and workarounds, and successful resolution documentation from complex cases. Content should address top customer pain points identified through ticket analysis."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-wiki-software-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-wiki-software-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-wiki-software-tools-2026"
+  }
 }

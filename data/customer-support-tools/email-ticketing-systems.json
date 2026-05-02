@@ -38,5 +38,11 @@
       "question": "Do email ticketing systems include SLA management features?",
       "answer": "Yes, most email ticketing systems include SLA management. Zendesk offers the most sophisticated SLA suite with multiple policies and escalation hierarchies. Freshdesk and Zoho Desk provide standard SLA tracking. Basic platforms like SupportBee may lack SLA features."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-email-ticketing-systems-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-email-ticketing-systems-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-email-ticketing-systems-tools-2026"
+  }
 }

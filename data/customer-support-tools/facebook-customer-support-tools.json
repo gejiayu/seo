@@ -39,5 +39,11 @@
       "question": "How do Facebook support tools handle negative reviews?",
       "answer": "Advanced tools provide real-time review alerts, sentiment detection to identify negative reviews quickly, response templates, and team assignment workflows to ensure timely and appropriate responses."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-facebook-customer-support-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-facebook-customer-support-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-facebook-customer-support-tools-2026"
+  }
 }

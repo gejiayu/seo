@@ -41,5 +41,11 @@
       "question": "How do order management tools maintain marketplace seller metrics?",
       "answer": "Order management tools maintain marketplace seller metrics through automated tracking uploads occurring immediately after label generation, meeting marketplace requirements for timely delivery confirmation. Amazon requires tracking uploads within specified timeframes for seller metrics. eBay and Walmart also track shipping confirmation timing. Automated uploads ensure compliance without manual tracking entry that risks delays. Tools also handle order acknowledgment requirements, preventing late shipment metrics that damage seller standing on platforms like Amazon and Walmart."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-marketplace-order-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-marketplace-order-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-marketplace-order-management-tools-2026"
+  }
 }

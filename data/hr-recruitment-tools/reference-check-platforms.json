@@ -41,5 +41,12 @@
       "question": "How do platforms verify reference authenticity?",
       "answer": "Reference check platforms verify authenticity through employment verification cross-referencing listed references against candidate work history, confirming references worked with candidates during claimed periods. Identity verification confirms reference contact information matches previous employer details. Fraud detection algorithms identify suspicious patterns including references from same organizations or similar response patterns suggesting potential manipulation."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/reference-check-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/reference-check-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/reference-check-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

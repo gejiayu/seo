@@ -1,0 +1,22 @@
+{
+  "title": "法律文档安全管理系统评测：LegalSecure vs DocGuard 2026对比",
+  "description": "对比评测LegalSecure与DocGuard法律文档安全管理系统，分析访问控制、加密存储、审计日志、合规认证功能，为法律文档安全保护提供选购指南。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
+  "content": "<h2>法律文档安全管理概述</h2><p>法律文档安全管理系统保护敏感法律信息、防止泄露。2026年LegalSecure和DocGuard是两大专业产品，本文对比评测安全功能。</p><h2>访问控制</h2><table><tr><th>访问控制</th><th>LegalSecure</th><th>DocGuard</th></tr><tr><td>权限分级</td><td>细粒度权限控制</td><td>基础角色权限</td></tr><tr><td>访问审批</td><td>动态访问审批流程</td><td>固定权限分配</td></tr><tr><td>临时访问</td><td>临时访问授权、自动过期</td><td>无临时访问</td></tr><tr><td>访问日志</td><td>完整访问审计日志</td><td>基础访问记录</td></tr></table><h2>加密存储</h2><p>LegalSecure提供端到端加密、存储加密、传输加密；DocGuard加密功能基础。需要高级加密保护的推荐LegalSecure。</p><h2>审计日志</h2><p>LegalSecure审计日志完整，记录所有操作、支持审计报告；DocGuard审计功能基础。需要严格审计的推荐LegalSecure。</p><h2>合规认证</h2><p>LegalSecure符合SOC2、ISO27001、GDPR等多项认证；DocGuard基础合规认证。多合规需求的企业推荐LegalSecure。</p><h2>防泄露功能</h2><p>DocGuard防泄露功能强大，支持水印、防复制、防打印；LegalSecure防泄露基础。需要防泄露的推荐DocGuard。</p><h2>价格与选购</h2><p>LegalSecure年费15万元；DocGuard年费10万元。高级加密、审计需求推荐LegalSecure；防泄露需求推荐DocGuard。</p>",
+  "seo_keywords": [
+    "法律文档安全",
+    "文档加密系统",
+    "访问控制管理",
+    "文档防泄露",
+    "法律信息安全"
+  ],
+  "slug": "legal-secure-vs-docguard-2026",
+  "published_at": "2026-05-02",
+  "author": "文档安全专家",
+  "language": "zh-CN",
+  "canonical_link": "https://www.housecar.life/posts/legal-secure-vs-docguard-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/legal-secure-vs-docguard-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/legal-secure-vs-docguard-2026"
+  },
+  "category": "legal-document-management-tools"
+}

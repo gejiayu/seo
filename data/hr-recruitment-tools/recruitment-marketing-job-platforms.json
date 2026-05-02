@@ -41,5 +41,12 @@
       "question": "Can marketing platforms integrate with existing ATS systems?",
       "answer": "Yes, major platforms integrate with leading ATS systems through API connections enabling candidate tracking from marketing engagement through application and hiring completion."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-marketing-job-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-marketing-job-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-marketing-job-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

@@ -1,15 +1,22 @@
 {
-  "title": "法律文档OCR识别系统评测：LegalOCR vs DocScan AI 2026对比",
-  "description": "对比评测LegalOCR与DocScan AI法律文档OCR识别系统，分析扫描识别、格式转换、智能分类、批量处理功能，为法律文档数字化提供选购指南。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "<h2>法律文档OCR识别概述</h2><p>法律文档OCR识别系统将扫描件、图片转换为可编辑文本。2026年LegalOCR和DocScan AI是两大专业产品，本文对比评测识别能力。</p><h2>扫描识别能力</h2><table><tr><th>识别功能</th><th>LegalOCR</th><th>DocScan AI</th></tr><tr><td>识别准确率</td><td>99.5%法律文档专用</td><td>98%通用识别</td></tr><tr><td>语言支持</td><td>中英文法律术语优化</td><td>多语言基础识别</td></tr><tr><td>格式保留</td><td>保留原始格式、表格</td><td>基础格式保留</td></tr><tr><td>手写识别</td><td>支持法律签名识别</td><td>基础手写识别</td></tr></table><h2>格式转换</h2><p>LegalOCR支持PDF、Word、Excel等多种格式转换，保留法律文档格式；DocScan AI转换格式基础。法律文档格式要求高的推荐LegalOCR。</p><h2>智能分类</h2><p>LegalOCR自动识别文档类型、合同分类、案件分类；DocScan AI分类功能基础。需要自动分类的律所推荐LegalOCR。</p><h2>批量处理</h2><p>DocScan AI批量处理能力强，支持批量扫描、批量识别、批量导出；LegalOCR批量功能基础。需要批量处理大量文档的推荐DocScan AI。</p><h2>与文档系统集成</h2><p>LegalOCR与iManage、NetDocuments集成好；DocScan AI与SharePoint集成强。建议根据现有文档系统选择对应OCR产品。</p><h2>价格与选购</h2><p>LegalOCR年费8万元；DocScan AI年费5万元。法律文档专用识别推荐LegalOCR；批量通用识别推荐DocScan AI。</p>",
+  "title": "Legal Document OCR Recognition System Review: LegalOCR vs DocScan AI 2026 Comparison",
+  "description": "Compare LegalOCR and DocScan AI legal document OCR recognition systems. Analyze scanning recognition, format conversion, smart classification, and batch processing features. Find the best solution for your legal document digitization needs!",
+  "content": "<h2>Legal Document OCR Recognition Overview</h2><p>Legal document OCR recognition systems convert scanned documents and images into editable text. In 2026, LegalOCR and DocScan AI are two leading professional products. This review compares their recognition capabilities.</p><h2>Scanning Recognition Capability</h2><table><tr><th>Recognition Features</th><th>LegalOCR</th><th>DocScan AI</th></tr><tr><td>Recognition Accuracy</td><td>99.5% legal document-specific</td><td>98% general recognition</td></tr><tr><td>Language Support</td><td>Chinese and English legal term optimization</td><td>Multi-language basic recognition</td></tr><tr><td>Format Preservation</td><td>Preserve original format, tables</td><td>Basic format preservation</td></tr><tr><td>Handwriting Recognition</td><td>Support legal signature recognition</td><td>Basic handwriting recognition</td></tr></table><h2>Format Conversion</h2><p>LegalOCR supports PDF, Word, Excel and other format conversions, preserving legal document formats. DocScan AI has basic format conversion. For high legal document format requirements, LegalOCR is recommended.</p><h2>Smart Classification</h2><p>LegalOCR automatically identifies document type, contract classification, and case classification. DocScan AI has basic classification features. For automatic classification, LegalOCR is recommended for law firms.</p><h2>Batch Processing</h2><p>DocScan AI has strong batch processing capability, supporting batch scanning, batch recognition, and batch export. LegalOCR has basic batch features. For batch processing large volumes of documents, DocScan AI is recommended.</p><h2>Document System Integration</h2><p>LegalOCR integrates well with iManage and NetDocuments. DocScan AI has strong SharePoint integration. Choose the corresponding OCR product based on your existing document system.</p><h2>Price and Selection</h2><p>LegalOCR annual fee: 80,000 CNY; DocScan AI annual fee: 50,000 CNY. For legal document-specific recognition, choose LegalOCR. For batch general recognition, choose DocScan AI.</p>",
   "seo_keywords": [
-    "法律OCR识别",
-    "文档扫描系统",
-    "PDF识别转换",
-    "文档数字化",
-    "法律文档OCR"
+    "legal OCR recognition",
+    "documentation scanning system",
+    "PDF recognition conversion",
+    "document digitization",
+    "legal documentation OCR"
   ],
   "slug": "legal-ocr-vs-docscan-ai-2026",
   "published_at": "2026-05-02",
-  "author": "文档数字化专家"
+  "author": "Document Digitization Expert",
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/legal-ocr-vs-docscan-ai-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/legal-ocr-vs-docscan-ai-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/legal-ocr-vs-docscan-ai-2026"
+  },
+  "category": "legal-document-management-tools"
 }

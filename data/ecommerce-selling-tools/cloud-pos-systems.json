@@ -41,5 +41,11 @@
       "question": "Can I manage multiple store locations from one cloud POS account?",
       "answer": "Yes, cloud POS systems excel at multi-location management. Square, Shopify, Lightspeed, and Revel all support centralized management of multiple locations from a single dashboard. You can view combined reports, manage inventory across locations, create inventory transfers, set location-specific pricing, and manage staff permissions centrally. Revel offers the most sophisticated multi-location features for enterprise chains and franchises."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-cloud-pos-systems-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-cloud-pos-systems-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-cloud-pos-systems-tools-2026"
+  }
 }

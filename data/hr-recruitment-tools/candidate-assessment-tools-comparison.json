@@ -41,5 +41,12 @@
       "question": "Are candidate assessments legally compliant?",
       "answer": "Yes, when properly implemented. Validated assessments with documented job relevance comply with equal employment opportunity regulations. Organizations must analyze results for adverse impact, provide accommodations for disabilities, and ensure assessments measure job-related competencies. Work with vendors who provide validation documentation and bias analysis."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/candidate-assessment-tools-comparison",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/candidate-assessment-tools-comparison",
+    "zh-CN": "https://www.housecar.life/zh/posts/candidate-assessment-tools-comparison"
+  },
+  "category": "hr-recruitment-tools"
 }

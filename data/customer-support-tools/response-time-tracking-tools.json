@@ -41,5 +41,11 @@
       "question": "Can response time tools integrate with multiple channels?",
       "answer": "Yes, modern response time tracking tools integrate with multiple communication channels including email, chat, phone, social media, and messaging platforms. They capture timestamps across all channels to provide unified response time metrics and channel-specific performance analysis."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-response-time-tracking-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-response-time-tracking-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-response-time-tracking-tools-tools-2026"
+  }
 }

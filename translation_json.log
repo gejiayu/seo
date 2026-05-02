@@ -1,0 +1,998 @@
+============================================================
+Translating 100 files with JSON parsing
+============================================================
+
+[1/100] bulldozer-rental-management-system-review.json
+  Translating...
+    Section 2/7
+    Section 3/7
+    Section 4/7
+    Section 5/7
+    Section 6/7
+    Section 7/7
+  Done
+
+[2/100] concrete-equipment-rental-management-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[3/100] construction-equipment-rental-crm-system-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[4/100] construction-equipment-rental-safety-compliance-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Error: <urlopen error _ssl.c:1011: The handshake operation timed out>
+  Done
+
+[5/100] construction-machinery-rental-data-analytics-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[6/100] construction-machinery-rental-erp-system-comparison.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[7/100] construction-machinery-rental-maintenance-management-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[8/100] crane-rental-management-system-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[9/100] equipment-rental-accounts-receivable-review.json
+  Translating...
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[10/100] equipment-rental-contract-management-review.json
+  Translating...
+  Error: HTTP Error 500: Internal Server Error
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[11/100] equipment-rental-customer-portal-review.json
+  Translating...
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[12/100] equipment-rental-employee-management-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[13/100] equipment-rental-inventory-management-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[14/100] equipment-rental-invoice-management-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[15/100] equipment-rental-mobile-app-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[16/100] equipment-rental-payment-system-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+  Error: <urlopen error _ssl.c:1011: The handshake operation timed out>
+    Section 7/8
+    Section 8/8
+  Done
+
+[17/100] equipment-rental-project-management-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[18/100] equipment-rental-quoting-system-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[19/100] equipment-rental-scheduling-optimization-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[20/100] excavator-rental-management-software-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[21/100] forklift-rental-management-system-review.json
+  Translating...
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 2/7
+    Section 3/7
+    Section 4/7
+    Section 5/7
+    Section 6/7
+    Section 7/7
+  Done
+
+[22/100] heavy-equipment-gps-tracking-system-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[23/100] heavy-machinery-digital-transformation-topic-100.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[24/100] heavy-machinery-digital-transformation-topic-27.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[25/100] heavy-machinery-digital-transformation-topic-28.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[26/100] heavy-machinery-digital-transformation-topic-29.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[27/100] heavy-machinery-digital-transformation-topic-30.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[28/100] heavy-machinery-digital-transformation-topic-31.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[29/100] heavy-machinery-digital-transformation-topic-32.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[30/100] heavy-machinery-digital-transformation-topic-33.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[31/100] heavy-machinery-digital-transformation-topic-34.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[32/100] heavy-machinery-digital-transformation-topic-35.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[33/100] heavy-machinery-digital-transformation-topic-36.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[34/100] heavy-machinery-digital-transformation-topic-37.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[35/100] heavy-machinery-digital-transformation-topic-38.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[36/100] heavy-machinery-digital-transformation-topic-39.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[37/100] heavy-machinery-digital-transformation-topic-40.json
+  Translating...
+    Section 2/6
+    Section 3/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[38/100] heavy-machinery-digital-transformation-topic-41.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[39/100] heavy-machinery-digital-transformation-topic-42.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[40/100] heavy-machinery-digital-transformation-topic-43.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[41/100] heavy-machinery-digital-transformation-topic-44.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[42/100] heavy-machinery-digital-transformation-topic-45.json
+  Translating...
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 2/6
+    Section 3/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[43/100] heavy-machinery-digital-transformation-topic-46.json
+  Translating...
+    Section 2/6
+    Section 3/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[44/100] heavy-machinery-digital-transformation-topic-47.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[45/100] heavy-machinery-digital-transformation-topic-48.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[46/100] heavy-machinery-digital-transformation-topic-49.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[47/100] heavy-machinery-digital-transformation-topic-50.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[48/100] heavy-machinery-digital-transformation-topic-51.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[49/100] heavy-machinery-digital-transformation-topic-52.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[50/100] heavy-machinery-digital-transformation-topic-53.json
+  Translating...
+    Section 2/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 3/6
+    Section 4/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 5/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[51/100] heavy-machinery-digital-transformation-topic-54.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[52/100] heavy-machinery-digital-transformation-topic-55.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[53/100] heavy-machinery-digital-transformation-topic-56.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[54/100] heavy-machinery-digital-transformation-topic-57.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[55/100] heavy-machinery-digital-transformation-topic-58.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[56/100] heavy-machinery-digital-transformation-topic-59.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[57/100] heavy-machinery-digital-transformation-topic-60.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[58/100] heavy-machinery-digital-transformation-topic-61.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[59/100] heavy-machinery-digital-transformation-topic-62.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[60/100] heavy-machinery-digital-transformation-topic-63.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[61/100] heavy-machinery-digital-transformation-topic-64.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[62/100] heavy-machinery-digital-transformation-topic-65.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[63/100] heavy-machinery-digital-transformation-topic-66.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[64/100] heavy-machinery-digital-transformation-topic-67.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[65/100] heavy-machinery-digital-transformation-topic-68.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[66/100] heavy-machinery-digital-transformation-topic-69.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[67/100] heavy-machinery-digital-transformation-topic-70.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[68/100] heavy-machinery-digital-transformation-topic-71.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[69/100] heavy-machinery-digital-transformation-topic-72.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[70/100] heavy-machinery-digital-transformation-topic-73.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[71/100] heavy-machinery-digital-transformation-topic-74.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[72/100] heavy-machinery-digital-transformation-topic-75.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[73/100] heavy-machinery-digital-transformation-topic-76.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[74/100] heavy-machinery-digital-transformation-topic-77.json
+  Translating...
+  Error: <urlopen error _ssl.c:1011: The handshake operation timed out>
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[75/100] heavy-machinery-digital-transformation-topic-78.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[76/100] heavy-machinery-digital-transformation-topic-79.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[77/100] heavy-machinery-digital-transformation-topic-80.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[78/100] heavy-machinery-digital-transformation-topic-81.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[79/100] heavy-machinery-digital-transformation-topic-82.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[80/100] heavy-machinery-digital-transformation-topic-83.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[81/100] heavy-machinery-digital-transformation-topic-84.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[82/100] heavy-machinery-digital-transformation-topic-85.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[83/100] heavy-machinery-digital-transformation-topic-86.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[84/100] heavy-machinery-digital-transformation-topic-87.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[85/100] heavy-machinery-digital-transformation-topic-88.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[86/100] heavy-machinery-digital-transformation-topic-89.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[87/100] heavy-machinery-digital-transformation-topic-90.json
+  Translating...
+  Error: <urlopen error _ssl.c:1011: The handshake operation timed out>
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[88/100] heavy-machinery-digital-transformation-topic-91.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[89/100] heavy-machinery-digital-transformation-topic-92.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+[90/100] heavy-machinery-digital-transformation-topic-93.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 6/6
+  Done
+
+[91/100] heavy-machinery-digital-transformation-topic-94.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[92/100] heavy-machinery-digital-transformation-topic-95.json
+  Translating...
+    Section 2/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[93/100] heavy-machinery-digital-transformation-topic-96.json
+  Translating...
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 2/6
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[94/100] heavy-machinery-digital-transformation-topic-97.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[95/100] heavy-machinery-digital-transformation-topic-98.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[96/100] heavy-machinery-digital-transformation-topic-99.json
+  Translating...
+    Section 2/6
+    Section 3/6
+    Section 4/6
+    Section 5/6
+    Section 6/6
+  Done
+
+[97/100] heavy-machinery-rental-finance-management-review.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 8/8
+  Done
+
+[98/100] heavy-machinery-rental-management-system-review-2026.json
+  Translating...
+    Section 2/8
+    Section 3/8
+    Section 4/8
+    Section 5/8
+    Section 6/8
+    Section 7/8
+    Section 8/8
+  Done
+
+[99/100] loader-rental-management-system-review.json
+  Translating...
+    Section 2/7
+    Section 3/7
+    Section 4/7
+    Section 5/7
+    Section 6/7
+    Section 7/7
+  Done
+
+[100/100] roller-rental-management-system-review.json
+  Translating...
+    Section 2/7
+    Section 3/7
+    Section 4/7
+    Section 5/7
+    Section 6/7
+    Section 7/7
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+  Done
+
+============================================================
+Total: 100/100
+============================================================

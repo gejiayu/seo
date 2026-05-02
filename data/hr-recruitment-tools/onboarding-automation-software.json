@@ -41,5 +41,12 @@
       "question": "Can automation replace human interaction in onboarding?",
       "answer": "No, automation should complement rather than replace human interaction. Effective onboarding automation handles administrative tasks while freeing HR professionals and managers to focus on relationship-building activities like welcome conversations, cultural introductions, and personalized support. Over-automation risks creating impersonal experiences that diminish engagement."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/onboarding-automation-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/onboarding-automation-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/onboarding-automation-software"
+  },
+  "category": "hr-recruitment-tools"
 }

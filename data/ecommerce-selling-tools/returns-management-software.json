@@ -41,5 +41,11 @@
       "question": "How do platforms handle exchange processing?",
       "answer": "Platforms manage exchange workflows including return initiation, inventory availability checking, payment adjustment for price differences, and replacement order creation. Exchange recommendations encourage customers to swap rather than refund, retaining revenue and often improving customer satisfaction."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-returns-management-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-returns-management-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-returns-management-software"
+  }
 }

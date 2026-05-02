@@ -38,5 +38,11 @@
       "question": "Can email support analytics integrate with business intelligence tools?",
       "answer": "Yes, advanced email analytics platforms integrate with BI tools. Zendesk Explore connects natively with Tableau and Looker. Front and Zoho Desk provide API-based BI integration. Freshdesk offers limited BI connections. API access enables custom integration for platforms with technical capabilities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-email-support-analytics-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-email-support-analytics-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-email-support-analytics-tools-tools-2026"
+  }
 }

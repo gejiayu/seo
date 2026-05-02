@@ -41,5 +41,12 @@
       "question": "Can job distribution tools integrate with existing ATS systems?",
       "answer": "Yes, major platforms integrate with 35-60+ ATS systems through standard APIs and pre-built connectors, though integration depth varies by platform."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/job-distribution-tools-review",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/job-distribution-tools-review",
+    "zh-CN": "https://www.housecar.life/zh/posts/job-distribution-tools-review"
+  },
+  "category": "hr-recruitment-tools"
 }

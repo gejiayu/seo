@@ -1,15 +1,22 @@
 {
-  "title": "法律文档索引系统评测：LegalIndex vs DocIndex Pro 2026对比",
-  "description": "对比评测LegalIndex与DocIndex Pro法律文档索引系统，分析全文索引、索引更新、索引优化、索引检索功能，为法律文档快速搜索提供选购指南。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "<h2>法律文档索引系统概述</h2><p>法律文档索引系统建立文档索引、加速检索速度。2026年LegalIndex和DocIndex Pro是两大专业产品，本文对比评测索引功能。</p><h2>全文索引</h2><table><tr><th>索引功能</th><th>LegalIndex</th><th>DocIndex Pro</th></tr><tr><td>索引类型</td><td>全文索引、元数据索引</td><td>基础全文索引</td></tr><tr><td>索引速度</td><td>快速索引构建</td><td>标准索引速度</td></tr><tr><td>索引更新</td><td>实时索引更新</td><td>定时索引更新</td></tr><tr><td>索引优化</td><td>自动索引优化</td><td>无索引优化</td></tr></table><h2>索引更新</h2><p>LegalIndex索引更新实时，支持文档变更实时索引；DocIndex Pro更新定时。需要实时索引的推荐LegalIndex。</p><h2>索引优化</h2><p>LegalIndex索引优化完善，支持索引压缩、索引重建、索引清理；DocIndex Pro优化功能基础。需要索引优化的推荐LegalIndex。</p><h2>索引检索</h2><p>DocIndex Pro索引检索强大，支持快速检索、检索优化、检索统计；LegalIndex检索功能基础。需要索引检索的推荐DocIndex Pro。</p><h2>索引管理</h2><p>LegalIndex索引管理完善，支持索引监控、索引诊断、索引恢复；DocIndex Pro管理功能基础。需要索引管理的推荐LegalIndex。</p><h2>价格与选购</h2><p>LegalIndex年费10万元；DocIndex Pro年费8万元。实时索引、索引优化推荐LegalIndex；索引检索推荐DocIndex Pro。</p>",
+  "title": "Legal Document Indexing System Review: LegalIndex vs DocIndex Pro 2026 Comparison",
+  "description": "Compare LegalIndex and DocIndex Pro legal document indexing systems. Analyze full-text indexing, index updates, index optimization, and index search features. Find the best solution for your legal document fast search needs!",
+  "content": "<h2>Legal Document Indexing System Overview</h2><p>Legal document indexing systems build document indexes and accelerate search speed. In 2026, LegalIndex and DocIndex Pro are two leading professional products. This review compares their indexing features.</p><h2>Full-text Indexing</h2><table><tr><th>Indexing Features</th><th>LegalIndex</th><th>DocIndex Pro</th></tr><tr><td>Index Type</td><td>Full-text index, metadata index</td><td>Basic full-text index</td></tr><tr><td>Index Speed</td><td>Fast index building</td><td>Standard index speed</td></tr><tr><td>Index Update</td><td>Real-time index update</td><td>Scheduled index update</td></tr><tr><td>Index Optimization</td><td>Automatic index optimization</td><td>No index optimization</td></tr></table><h2>Index Updates</h2><p>LegalIndex provides real-time index updates, supporting real-time indexing for document changes. DocIndex Pro has scheduled updates. For real-time indexing, LegalIndex is recommended.</p><h2>Index Optimization</h2><p>LegalIndex has comprehensive index optimization, supporting index compression, index rebuild, and index cleanup. DocIndex Pro has basic optimization features. For index optimization, LegalIndex is recommended.</p><h2>Index Search</h2><p>DocIndex Pro offers powerful index search with quick search, search optimization, and search statistics. LegalIndex has basic search features. For index search, DocIndex Pro is recommended.</p><h2>Index Management</h2><p>LegalIndex provides comprehensive index management with index monitoring, index diagnosis, and index recovery. DocIndex Pro has basic management features. For index management, LegalIndex is recommended.</p><h2>Price and Selection</h2><p>LegalIndex annual fee: 100,000 CNY; DocIndex Pro annual fee: 80,000 CNY. For real-time indexing and index optimization, choose LegalIndex. For index search, choose DocIndex Pro.</p>",
   "seo_keywords": [
-    "文档索引系统",
-    "全文索引技术",
-    "法律文档索引",
-    "索引优化管理",
-    "快速检索系统"
+    "documentation index system",
+    "full document indexing technology",
+    "legal documentation index",
+    "index optimization management",
+    "fast search system"
   ],
   "slug": "legal-index-vs-docindex-pro-2026",
   "published_at": "2026-05-02",
-  "author": "索引系统专家"
+  "author": "Index System Expert",
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/legal-index-vs-docindex-pro-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/legal-index-vs-docindex-pro-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/legal-index-vs-docindex-pro-2026"
+  },
+  "category": "legal-document-management-tools"
 }

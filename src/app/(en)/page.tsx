@@ -1,0 +1,49 @@
+import { Metadata } from 'next'
+import { getAllPagesList, getAllCategories } from '@/lib/data-loader'
+import { ArticleList } from '@/components/ArticleList'
+
+export const runtime = 'nodejs'
+
+const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
+
+export async function generateMetadata(): Promise<Metadata> {
+  return {
+    title: 'HouseCar - Remote Work Tools & Productivity Guides',
+    description: 'Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.',
+    alternates: {
+      canonical: siteUrl, // 首页canonical指向绝对URL
+      languages: {
+        'en-US': siteUrl,
+        'zh-CN': `${siteUrl}/zh`,
+      },
+    },
+    openGraph: {
+      title: 'HouseCar - Remote Work Tools & Productivity Guides',
+      description: 'Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.',
+      url: siteUrl,
+      type: 'website',
+      siteName: 'HouseCar',
+      locale: 'en_US',
+    },
+  }
+}
+
+export default function HomePage() {
+  const pages = getAllPagesList('en-US') // Lightweight version without content field - English only
+  const categories = getAllCategories('en-US') // English categories only
+
+  return (
+    <div className="container mx-auto px-4 py-8">
+      <header className="mb-12 text-center">
+        <h1 className="text-4xl font-bold text-gray-900 mb-4">
+          HouseCar
+        </h1>
+        <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.
+        </p>
+      </header>
+
+      <ArticleList pages={pages} categories={categories} language="en-US" />
+    </div>
+  )
+}

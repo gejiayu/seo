@@ -1,15 +1,16 @@
 {
-  "title": "理赔OCR识别系统评测：OCRClaim与TextExtract深度对比｜2026年评测",
-  "description": "深度评测理赔OCR识别系统，对比OCRClaim与TextExtract的文字识别、信息提取、数据校验能力，提升理赔材料文字处理效率。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "<h2>OCR识别系统概述</h2><p>理赔OCR识别系统通过OCR技术自动识别理赔材料文字，提取关键理赔信息。</p><h2>OCRClaim功能</h2><ul><li>智能文字识别：OCR识别理赔材料文字</li><li>关键信息提取：自动提取理赔关键信息</li><li>数据自动校验：理赔数据自动校验</li><li>多语言支持：支持多种语言理赔材料识别</li><li>识别报告生成：理赔识别报告自动生成</li></ul><h2>TextExtract功能</h2><ul><li>人工文字识别：理赔员人工识别文字</li><li>人工信息提取：理赔员人工提取信息</li><li>人工数据校验：理赔员人工校验数据</li><li>单一语言支持：仅支持中文识别</li><li>人工报告编写：理赔员人工编写报告</li></ul><h2>识别准确率对比</h2><p>OCRClaim文字识别准确率98%，TextExtract人工识别准确率90%。</p><h2>识别速度对比</h2><p>OCRClaim识别时间1秒，TextExtract需要10分钟。</p><h2>推荐选择</h2><p>重视理赔材料文字识别的保险公司选择OCRClaim。</p>",
+  "title": "Claims OCR Recognition System Evaluation: OCRClaim vs TextExtract Deep Comparison - 2026 Review",
+  "description": "In-depth evaluation of claims OCR recognition systems, comparing OCRClaim and TextExtract in text recognition, information extraction, and data validation capabilities to enhance claims document text processing efficiency. Learn more about features and pricing comparisons to find the best solution for your needs! Professional evaluation helps you make informed decisions!",
+  "content": "<h2>OCR Recognition System Overview</h2><p>Claims OCR recognition systems use OCR technology to automatically recognize claims document text, extracting key claims information.</p><h2>OCRClaim Features</h2><ul><li>Intelligent Text Recognition: OCR recognition of claims document text</li><li>Key Information Extraction: Automatic extraction of claims key information</li><li>Automatic Data Validation: Automatic validation of claims data</li><li>Multi-language Support: Support for multiple language claims document recognition</li><li>Recognition Report Generation: Automatic generation of claims recognition reports</li></ul><h2>TextExtract Features</h2><ul><li>Manual Text Recognition: Claims adjusters manually recognize text</li><li>Manual Information Extraction: Claims adjusters manually extract information</li><li>Manual Data Validation: Claims adjusters manually validate data</li><li>Single Language Support: Only Chinese recognition supported</li><li>Manual Report Writing: Claims adjusters manually write reports</li></ul><h2>Recognition Accuracy Comparison</h2><p>OCRClaim text recognition accuracy rate is 98%, while TextExtract manual recognition accuracy rate is 90%.</p><h2>Recognition Speed Comparison</h2><p>OCRClaim recognition time is 1 second, while TextExtract requires 10 minutes.</p><h2>Recommended Choice</h2><p>Insurance companies prioritizing claims document text recognition should choose OCRClaim.</p>",
   "seo_keywords": [
-    "理赔OCR识别",
-    "理赔文字识别",
-    "理赔信息提取",
-    "理赔材料OCR",
-    "理赔数据提取"
+    "claims OCR recognition",
+    "claims text recognition",
+    "claims information extraction",
+    "claims document OCR",
+    "claims data extraction"
   ],
   "slug": "claims-ocr-recognition-system-2026",
-  "published_at": "2026-05-02",
-  "author": "保险科技专家"
+  "published_at": "2026-05-01",
+  "language": "en-US",
+  "author": "Insurance Technology Expert"
 }

@@ -41,5 +41,12 @@
       "question": "Can bias-free recruitment software completely eliminate hiring bias?",
       "answer": "Bias-free recruitment software significantly reduces unconscious bias but cannot completely eliminate human judgment patterns. The platforms address systematic barriers through algorithms, blind evaluation, and structured processes, achieving 30-40% bias reduction. Complete elimination requires ongoing training, accountability, and cultural change beyond technological solutions."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/bias-free-recruitment-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/bias-free-recruitment-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/bias-free-recruitment-software"
+  },
+  "category": "hr-recruitment-tools"
 }

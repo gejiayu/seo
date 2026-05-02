@@ -41,5 +41,11 @@
       "question": "What payment methods work for furniture rental transactions?",
       "answer": "Furniture rental payment methods include credit card processing through card payment gateway integration, bank transfer through bank payment system connection, digital wallet payments through mobile wallet integration, check payment for traditional payment processing, and cash payment for in-person transaction handling. Payment platforms like PayFurn Pro support diverse payment methods for customer payment flexibility. Payment method selection depends on customer preference and rental business payment infrastructure capabilities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/furniture-rental-payment-processing-systems-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/furniture-rental-payment-processing-systems-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/furniture-rental-payment-processing-systems-2026"
+  }
 }

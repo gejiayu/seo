@@ -41,5 +41,12 @@
       "question": "How do hybrid solutions balance platform efficiency with custom requirements?",
       "answer": "Hybrid solutions leverage pre-built platform capabilities for standard metrics while developing custom elements for unique requirements. Successful hybrid deployment requires clear scope definition separating platform and custom components with appropriate governance."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/hr-dashboard-platforms-comparison",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/hr-dashboard-platforms-comparison",
+    "zh-CN": "https://www.housecar.life/zh/posts/hr-dashboard-platforms-comparison"
+  },
+  "category": "hr-recruitment-tools"
 }

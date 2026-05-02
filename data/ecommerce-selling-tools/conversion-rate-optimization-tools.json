@@ -41,5 +41,11 @@
       "question": "What is server-side testing and when is it needed?",
       "answer": "Server-side testing modifies backend logic rather than client-side elements, enabling complex experiments like algorithm testing, pricing optimization, and checkout flow modifications. It's needed when optimization requires backend changes or when ad blockers interfere with client-side testing."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-conversion-rate-optimization-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-conversion-rate-optimization-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-conversion-rate-optimization-tools-2026"
+  }
 }

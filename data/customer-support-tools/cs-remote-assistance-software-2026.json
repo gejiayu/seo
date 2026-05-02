@@ -39,5 +39,11 @@
       "question": "What hardware is required for AR-assisted remote support?",
       "answer": "AR-assisted support requires customers to have smartphones with cameras and AR capabilities (most modern iOS and Android devices). Technicians need standard computers with the AR support platform software. No special AR glasses or equipment is required."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-remote-assistance-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-remote-assistance-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-remote-assistance-software-2026"
+  }
 }

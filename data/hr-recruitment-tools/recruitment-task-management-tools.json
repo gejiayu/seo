@@ -42,5 +42,11 @@
       "question": "What deadline management sophistication levels are available?",
       "answer": "Basic platforms offer simple reminders, standard solutions provide automated alerts, and advanced platforms include escalation protocols, dependency-aware adjustments, and analytics revealing delay patterns for process optimization."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-task-management-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-task-management-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-task-management-tools"
+  }
 }

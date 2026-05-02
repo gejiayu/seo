@@ -38,5 +38,11 @@
       "question": "Which email CRM integration works best with Zoho CRM?",
       "answer": "Zoho Desk offers the deepest Zoho CRM integration through native platform connection without configuration. The platforms share infrastructure, enabling seamless bidirectional data flow. Contact data, deals, and account information appear directly in Zoho Desk ticket views."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-email-crm-integration-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-email-crm-integration-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-email-crm-integration-platforms-tools-2026"
+  }
 }

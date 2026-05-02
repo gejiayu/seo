@@ -41,5 +41,11 @@
       "question": "What fraud prevention features are essential for gift card programs?",
       "answer": "Essential fraud prevention features include balance theft prevention through encrypted storage and secure delivery, card cloning detection through pattern analysis of redemption velocity and geographic patterns, redemption fraud prevention through identity verification and transaction monitoring, and post-transaction detection through activity analysis identifying anomalous behavior. Enterprise platforms implement these capabilities comprehensively while enabling calibration to business-specific patterns."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-gift-card-management-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-gift-card-management-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-gift-card-management-software-2026"
+  }
 }

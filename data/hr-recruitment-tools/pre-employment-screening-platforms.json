@@ -41,5 +41,12 @@
       "question": "What integration options exist for connecting screening platforms with HR systems?",
       "answer": "Leading screening platforms offer pre-built integrations with 40-60+ major ATS providers including Workday, Oracle Taleo, SAP SuccessFactors, and Greenhouse. These connections enable automatic screening triggering upon candidate stage advancement. API-based integration provides flexibility for custom HR systems, supporting bidirectional data exchange for seamless workflow automation. Organizations should evaluate integration complexity and available technical resources when selecting platforms."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/pre-employment-screening-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/pre-employment-screening-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/pre-employment-screening-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

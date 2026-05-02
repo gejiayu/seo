@@ -41,5 +41,11 @@
       "question": "Can NPS tools integrate with Salesforce CRM?",
       "answer": "Yes, most leading NPS platforms offer native Salesforce integration including Delighted, Wootric, SatisMeter, and SurveyMonkey. These integrations sync NPS scores to customer records, enable segmentation by loyalty status, and trigger workflows based on feedback scores for immediate action on detractor responses."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-nps-measurement-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-nps-measurement-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-nps-measurement-tools-2026"
+  }
 }

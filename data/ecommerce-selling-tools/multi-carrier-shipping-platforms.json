@@ -41,5 +41,11 @@
       "question": "Do multi-carrier platforms handle international carrier integration differently?",
       "answer": "International integration adds complexity for customs documentation, duties calculation, and international carrier networks. Platforms like EasyShip specialize in international with DDP capabilities and comprehensive global carrier coverage. Standard platforms may have limited international options compared to specialized solutions."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-multi-carrier-shipping-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-multi-carrier-shipping-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-multi-carrier-shipping-platforms"
+  }
 }

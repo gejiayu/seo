@@ -42,5 +42,11 @@
       "question": "What visualization customization levels do platforms offer?",
       "answer": "Basic platforms offer limited visualization options with standard charts. Advanced solutions provide high customization enabling custom dashboards, metric selection, and display configuration. Enterprise platforms offer unlimited customization for tailored stakeholder views."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruiter-analytics-dashboards",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruiter-analytics-dashboards",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruiter-analytics-dashboards"
+  }
 }

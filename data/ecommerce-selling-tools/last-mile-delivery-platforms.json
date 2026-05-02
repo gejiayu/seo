@@ -41,5 +41,11 @@
       "question": "How do gig economy delivery networks compare to traditional carriers for last mile?",
       "answer": "Gig networks like Roadie and Uber Connect provide flexible capacity scaling with demand, same-day capability through on-demand dispatch, and lower fixed costs than traditional fleets. Traditional carriers offer more reliability consistency, established tracking systems, and broader geographic coverage. Best solutions often combine both for optimal flexibility and reliability."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-last-mile-delivery-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-last-mile-delivery-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-last-mile-delivery-platforms"
+  }
 }

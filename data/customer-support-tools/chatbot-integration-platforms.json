@@ -41,5 +41,11 @@
       "question": "What security measures protect chatbot integrations?",
       "answer": "Chatbot integration security includes OAuth 2.0 authentication, API key management, TLS encryption for data transmission, role-based authorization controls, and comprehensive monitoring for anomaly detection and security visibility."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-chatbot-integration-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-chatbot-integration-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-chatbot-integration-platforms-tools-2026"
+  }
 }

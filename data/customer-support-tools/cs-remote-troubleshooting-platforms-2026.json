@@ -39,5 +39,11 @@
       "question": "What security measures govern diagnostic tool usage?",
       "answer": "Required measures include permission profiles restricting tool access by technician role, comprehensive audit logging of all diagnostic actions, encryption of diagnostic data transmission, customer consent disclosure for diagnostic access, and data privacy protections for sensitive information revealed during diagnostics."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-remote-troubleshooting-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-remote-troubleshooting-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-remote-troubleshooting-platforms-2026"
+  }
 }

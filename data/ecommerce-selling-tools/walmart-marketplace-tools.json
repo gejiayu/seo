@@ -41,5 +41,11 @@
       "question": "How does Walmart Fulfillment Services integration work in marketplace tools?",
       "answer": "Marketplace tools supporting WFS provide inventory planning for fulfillment center stock levels, shipment creation workflows, separate quantity tracking for WFS and seller-fulfilled inventory, order routing logic directing orders to optimal fulfillment sources, fee calculation for storage and fulfillment costs, and returns processing for WFS items. Integration enables sellers to leverage Walmart's fulfillment capabilities while maintaining inventory visibility and cost control across channels."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-walmart-marketplace-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-walmart-marketplace-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-walmart-marketplace-tools-tools-2026"
+  }
 }

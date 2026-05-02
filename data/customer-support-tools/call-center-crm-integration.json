@@ -42,5 +42,11 @@
       "question": "What CRM platforms offer native call center integration?",
       "answer": "Zendesk offers native telephony through Zendesk Talk, providing built-in call handling without external platforms. Salesforce offers Service Cloud Voice with integration options. HubSpot provides native calling capabilities. For sophisticated call center features, most businesses require separate platforms integrating with CRM rather than native CRM telephony."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-call-center-crm-integration-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-call-center-crm-integration-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-call-center-crm-integration-tools-2026"
+  }
 }

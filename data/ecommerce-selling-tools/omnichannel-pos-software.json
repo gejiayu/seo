@@ -41,5 +41,11 @@
       "question": "Can I use omnichannel POS for buy-online-pickup-in-store (BOPIS)?",
       "answer": "Yes, major omnichannel POS platforms support BOPIS. Shopify POS and Square offer native BOPIS functionality. Shopify shows real-time store inventory to online shoppers, enables pickup scheduling, and sends notifications when orders are ready. Lightspeed supports BOPIS through ecommerce integrations (Shopify, WooCommerce). BigCommerce provides BOPIS through POS partner integrations. All platforms handle pickup orders with unified order management."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-omnichannel-pos-software-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-omnichannel-pos-software-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-omnichannel-pos-software-tools-2026"
+  }
 }

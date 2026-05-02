@@ -1,0 +1,26 @@
+{
+  "title": "2026年最后一公里配送车队工具评测：城市配送与快递管理",
+  "description": "深度评测Onfleet、Circuit、Bringg等最后一公里配送工具，对比路线优化、配送追踪、客户通知功能。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
+  "content": "<h2>最后一公里配送的挑战</h2><p>最后一公里配送成本占物流总成本40-50%。2026年，最后一公里配送工具通过路线优化、实时追踪、客户通知，可降低配送成本20-30%。本文评测5款配送车队方案。</p><h2>评测标准</h2><table><thead><tr><th>评测维度</th><th>权重</th><th>关键指标</th></tr></thead><tbody><tr><td>路线优化</td><td>30%</td><td>多点路线、时间窗口、实时调整</td></tr><tr><td>配送追踪</td><td>25%</td><td>实时位置、状态更新、签名确认</td></tr><tr><td>客户通知</td><td>20%</td><li>短信通知、ETA更新、反馈收集</li></tr><tr><td>司机App</td><td>15%</td><td>易用性、导航集成、签名拍照</td></tr><tr><td>API集成</td><td>10%</td><td>ERP对接、电商平台、API开放</td></tr></tbody></table><h2>1. Onfleet — 现代配送平台</h2><strong>核心定位</strong>：现代化设计、API开放的配送平台。<strong>优势分析</strong>：<ul><li>界面现代美观</li><li>API开放性最强</li><li>Webhook集成</li><li>品牌定制</li><li>司机App完善</li></ul><strong>定价</strong>：$149/月(基础)，$299/月(成长)。<strong>适用场景</strong>：API集成需求、品牌定制。<strong>2026评分</strong>：★★★★★<p>Onfleet的API和设计是其亮点，适合有开发能力的团队。</p><h2>2. Circuit — 配送路线专家</h2><strong>核心定位</strong>：专为配送车队设计的路线工具。<strong>优势分析</strong>：<ul><li>配送场景优化</li><li>司机App体验好</li><li>自动排序</li><li>状态更新</li><li>免费版可用</li></ul><strong>定价</strong>：免费版(10 stops)，$20/司机/月(Pro)。<strong>适用场景</strong>：小型配送车队、最后一公里。<strong>2026评分</strong>：★★★★☆<p>Circuit的免费版适合小型车队，配送优化是其亮点。</p><h2>3. Bringg — 企业配送平台</h2><strong>核心定位</strong>：企业级最后一公里配送平台。<strong>优势分析</strong>：<ul><li>企业级功能深度</li><li>客户通知完善</li><li>配送追踪</li><li>路线优化</li><li>ERP集成</li></ul><strong>定价</strong>：企业定制，$500+/月。<strong>适用场景</strong>：大型配送企业。<strong>2026评分</strong>：★★★★★<p>Bringg是企业级首选，客户通知是其优势。</p><h2>4. Routific — 智能路线优化</h2><strong>核心定位</strong>：AI路线优化为核心。<strong>优势分析</strong>：<ul><li>AI路线算法</li><li>时间窗口支持</li><li>司机App友好</li><li>客户通知</li><li>性价比高</li></ul><strong>定价</strong>：$49/月(起步)。<strong>适用场景</strong>：路线优化需求。<strong>2026评分</strong>：★★★★☆<h2>5. Tookan — 配送管理平台</h2><strong>核心定位</strong>：配送任务管理平台。<strong>优势分析</strong>：<ul><li>任务管理完善</li><li>司机App</li><li>客户追踪</li><li>通知系统</li><li>价格亲民</li></ul><strong>定价</strong>：$29/月(起步)。<strong>适用场景</strong>：配送任务管理。<strong>2026评分</strong>：★★★☆☆<h2>功能对比矩阵</h2><table><thead><tr><th>功能</th><th>Onfleet</th><th>Circuit</th><th>Bringg</th><th>Routific</th></tr></thead><tbody><tr><td>路线优化</td><td>★★★★☆</td><td>★★★★☆</td><td>★★★★★</td><td>★★★★★</td></tr><tr><td>配送追踪</td><td>★★★★★</td><td>★★★★☆</td><td>★★★★★</td><td>★★★★☆</td></tr><tr><td>客户通知</td><td>★★★★☆</td><td>★★★☆☆</td><td>★★★★★</td><td>★★★★☆</td></tr><tr><td>API开放</td><td>★★★★★</td><td>★★★☆☆</td><td>★★★★☆</td><td>★★★☆☆</td></tr><tr><td>性价比</td><td>★★★★☆</td><td>★★★★★</td><td>★★★☆☆</td><td>★★★★★</td></tr></tbody></table><h2>2026趋势预测</h2><ol><li><strong>无人机配送</strong>：最后一公里无人机配送系统</li><li><strong>自动驾驶配送</strong>：自动驾驶配送车辆集成</li><li><strong>实时ETA</strong>：实时ETA动态更新</li><li><strong>碳中和配送</strong>：配送路线碳排放优化</li></ol><p>选择配送工具需考虑车队规模：大型配送选Bringg，API集成选Onfleet，小型车队选Circuit/Routific。</p>",
+  "seo_keywords": [
+    "last mile delivery",
+    "delivery fleet",
+    "route optimization",
+    "Onfleet",
+    "Circuit",
+    "Bringg",
+    "delivery tracking",
+    "customer notification",
+    "courier software",
+    "urban delivery"
+  ],
+  "slug": "last-mile-delivery-fleet-tools",
+  "published_at": "2026-05-01",
+  "author": "Last Mile Delivery Expert",
+  "language": "zh-CN",
+  "canonical_link": "https://www.housecar.life/posts/last-mile-delivery-fleet-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/last-mile-delivery-fleet-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/last-mile-delivery-fleet-tools"
+  }
+}

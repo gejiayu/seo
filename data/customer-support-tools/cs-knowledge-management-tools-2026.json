@@ -41,5 +41,11 @@
       "question": "Which enterprise knowledge management platform suits regulated industries?",
       "answer": "Regulated industries requiring comprehensive compliance should consider OpenText, Microsoft SharePoint, and ServiceNow Knowledge Management. These platforms offer extensive compliance certifications, robust retention management, audit capabilities, and data residency controls required for healthcare, financial services, government, and other regulated sectors."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-knowledge-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-knowledge-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-knowledge-management-tools-2026"
+  }
 }

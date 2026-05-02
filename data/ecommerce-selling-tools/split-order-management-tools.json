@@ -41,5 +41,11 @@
       "question": "What costs do split shipments add to fulfillment operations?",
       "answer": "Split shipments add multiple shipping charges instead of single shipment cost, additional packaging materials for each separate shipment, warehouse processing time for multiple fulfillment operations, and potential customer service inquiries about partial deliveries."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-split-order-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-split-order-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-split-order-management-tools-2026"
+  }
 }

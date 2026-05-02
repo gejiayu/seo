@@ -41,5 +41,11 @@
       "question": "Can I use my existing hardware with new retail POS software?",
       "answer": "Hardware compatibility varies by platform. Square, Lightspeed, and Shopify POS support iPads with third-party barcode scanners and receipt printers. Clover requires proprietary hardware for full functionality. Revel Systems mandates iOS devices (iPads). Before purchasing software, verify hardware compatibility with your existing barcode scanners, receipt printers, and payment terminals."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-retail-pos-software-comparison-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-retail-pos-software-comparison-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-retail-pos-software-comparison-tools-2026"
+  }
 }

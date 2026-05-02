@@ -41,5 +41,12 @@
       "question": "How do document management platforms ensure compliance deadline adherence?",
       "answer": "Document management platforms ensure deadline adherence through systematic tracking showing completion status across all required documents, automated reminders escalating as deadlines approach and pass, escalation routing directing overdue notifications to responsible parties, and audit trail documentation providing evidence of completion timing. These capabilities prevent deadline misses that create compliance risk."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/onboarding-document-management",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/onboarding-document-management",
+    "zh-CN": "https://www.housecar.life/zh/posts/onboarding-document-management"
+  },
+  "category": "hr-recruitment-tools"
 }

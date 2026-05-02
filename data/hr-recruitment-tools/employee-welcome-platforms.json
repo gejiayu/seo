@@ -41,5 +41,12 @@
       "question": "What content should organizations include in welcome experiences?",
       "answer": "Effective welcome content includes personalized welcome messages from managers and teammates, organizational culture stories conveying values through examples, team member profiles facilitating introductions, role-specific preparation information, logistics guidance for practical readiness, and milestone celebrations recognizing progress. Content should balance emotional connection with practical utility."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/employee-welcome-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/employee-welcome-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/employee-welcome-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

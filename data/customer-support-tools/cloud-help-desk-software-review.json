@@ -41,5 +41,11 @@
       "question": "Can cloud help desk software handle large-scale operations?",
       "answer": "Yes, enterprise cloud platforms like Zendesk, ServiceNow, and Salesforce Service Cloud scale to thousands of agents, millions of tickets, and complex multi-channel operations. Auto-scaling handles volume spikes without manual intervention."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-cloud-help-desk-software-review-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-cloud-help-desk-software-review-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-cloud-help-desk-software-review-tools-2026"
+  }
 }

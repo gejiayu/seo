@@ -41,5 +41,11 @@
       "question": "What are the key features to prevent discount abuse?",
       "answer": "Essential abuse prevention features include single-use code generation, stacking limitation rules that prevent combining multiple discounts, fraud detection algorithms that identify systematic abuse patterns, and customer-identifier linking that ties codes to specific customer profiles. These mechanisms collectively protect margins while maintaining promotional effectiveness for legitimate customers."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-discount-management-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-discount-management-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-discount-management-platforms-2026"
+  }
 }

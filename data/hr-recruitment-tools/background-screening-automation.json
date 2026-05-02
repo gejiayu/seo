@@ -41,5 +41,12 @@
       "question": "What is parallel execution in background screening automation?",
       "answer": "Parallel execution launches multiple screening components simultaneously rather than sequentially, reducing overall turnaround by eliminating component dependencies. Criminal database searches, employment verification requests, and education verification inquiries initiate concurrently, with results assembled through unified completion tracking. This approach achieves turnaround times impossible through sequential execution while ensuring comprehensive verification coverage."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/background-screening-automation",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/background-screening-automation",
+    "zh-CN": "https://www.housecar.life/zh/posts/background-screening-automation"
+  },
+  "category": "hr-recruitment-tools"
 }

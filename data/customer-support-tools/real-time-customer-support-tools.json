@@ -41,5 +41,11 @@
       "question": "How many concurrent chats can an agent handle effectively?",
       "answer": "Skilled support agents typically handle 3-5 concurrent text chats efficiently. Complexity varies—simple inquiries allow higher concurrency while technical issues require dedicated attention. AI chatbots handling routine questions increase capacity. Training and experience determine actual productivity levels which should be monitored through analytics."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-real-time-support-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-real-time-support-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-real-time-support-tools-2026"
+  }
 }

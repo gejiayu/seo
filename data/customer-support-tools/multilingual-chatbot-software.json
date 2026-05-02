@@ -41,5 +41,11 @@
       "question": "What is the difference between native and translation-based multilingual support?",
       "answer": "Native language models develop separate NLU for each language providing superior understanding and naturalness. Translation-based approaches translate input to primary language, process conversation, then translate response back, enabling rapid expansion but with potential quality limitations."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-multilingual-chatbot-software-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-multilingual-chatbot-software-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-multilingual-chatbot-software-tools-2026"
+  }
 }

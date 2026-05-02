@@ -41,5 +41,11 @@
       "question": "Can conversational AI platforms handle multiple languages?",
       "answer": "Leading conversational AI platforms support 30-50+ languages with varying accuracy levels. Multilingual capabilities require separate training data and configuration for each target language to achieve optimal performance."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-conversational-ai-tools-comparison-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-conversational-ai-tools-comparison-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-conversational-ai-tools-comparison-tools-2026"
+  }
 }

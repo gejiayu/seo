@@ -41,5 +41,11 @@
       "question": "How long does automation implementation take?",
       "answer": "Basic automation setup takes 1-2 weeks for routing and status workflows. Advanced AI automation requires 4-8 weeks for training and refinement. Enterprise automation with complex workflows may take 2-3 months for full deployment."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-help-desk-automation-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-help-desk-automation-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-help-desk-automation-tools-tools-2026"
+  }
 }

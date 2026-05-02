@@ -41,5 +41,12 @@
       "question": "How do platforms handle remote-specific compliance requirements?",
       "answer": "Remote onboarding platforms handle distributed compliance through systematic collection of remote work agreements, equipment policies, data security acknowledgments, and location-specific documentation. Electronic signature capabilities enable completion without physical presence. Audit trails provide compliance evidence for remote-specific documentation that may require verification during audits."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/remote-employee-onboarding-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/remote-employee-onboarding-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/remote-employee-onboarding-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

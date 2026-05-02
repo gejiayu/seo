@@ -41,5 +41,11 @@
       "question": "Can maintenance software integrate with rental management systems?",
       "answer": "Furniture maintenance software integrates with rental management systems through platforms like MaintainFurn Pro offering integrated maintenance within rental management suites, or through API connections from specialized platforms like PreventFurn, RepairTrack Rental, and RefurbFlow. Integration provides maintenance timing aligned with rental cycles, availability updates upon maintenance completion, and condition information within rental context. Integration configuration requires setup investment connecting maintenance with rental operations."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/furniture-rental-maintenance-management-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/furniture-rental-maintenance-management-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/furniture-rental-maintenance-management-software-2026"
+  }
 }

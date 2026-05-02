@@ -41,5 +41,11 @@
       "question": "Can help desk software integrate with Slack and Microsoft Teams?",
       "answer": "Yes, all major help desk platforms offer Slack and Microsoft Teams integration. These integrations share ticket notifications, enable team discussion, provide ticket lookup commands, and connect support workflows with daily communication tools."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-help-desk-integration-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-help-desk-integration-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-help-desk-integration-platforms-tools-2026"
+  }
 }

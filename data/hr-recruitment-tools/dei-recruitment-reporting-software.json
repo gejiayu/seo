@@ -41,5 +41,12 @@
       "question": "Can DEI reporting platforms predict future workforce diversity?",
       "answer": "Advanced platforms including DEIRecruit Reports and EquityHire Reports offer predictive analytics using machine learning to forecast diversity composition trajectories based on current hiring patterns, turnover rates, promotion velocities, and demographic trends. This forward visibility enables proactive intervention before diversity shortfalls materialize."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/dei-recruitment-reporting-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/dei-recruitment-reporting-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/dei-recruitment-reporting-software"
+  },
+  "category": "hr-recruitment-tools"
 }

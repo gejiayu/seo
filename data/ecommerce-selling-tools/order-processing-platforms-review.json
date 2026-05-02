@@ -41,5 +41,11 @@
       "question": "How do order processing platforms handle split shipments?",
       "answer": "Platforms with split shipment logic automatically divide multi-item orders into separate shipments when items originate from different warehouses or have different availability dates. Each shipment receives tracking information communicated to customers separately."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-order-processing-platforms-review-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-order-processing-platforms-review-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-order-processing-platforms-review-2026"
+  }
 }

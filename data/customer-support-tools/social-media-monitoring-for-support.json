@@ -39,5 +39,11 @@
       "question": "Can monitoring tools create help desk tickets automatically?",
       "answer": "Yes, advanced monitoring tools like Brandwatch and Sprout Social integrate with help desk platforms to automatically create tickets from detected mentions, enabling seamless workflow transition from monitoring to resolution."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-social-media-monitoring-for-support-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-social-media-monitoring-for-support-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-social-media-monitoring-for-support-2026"
+  }
 }

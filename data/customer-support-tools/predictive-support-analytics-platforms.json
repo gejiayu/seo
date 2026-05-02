@@ -41,5 +41,11 @@
       "question": "Can predictive analytics integrate with operational workflows?",
       "answer": "Yes, predictive analytics integrate with operational workflows through churn predictions triggering retention outreach, escalation predictions triggering handling protocols, volume predictions triggering staffing adjustments, satisfaction predictions triggering behavior changes, and performance predictions triggering coaching focus. This integration ensures predictions translate to actions."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-predictive-support-analytics-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-predictive-support-analytics-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-predictive-support-analytics-platforms-tools-2026"
+  }
 }

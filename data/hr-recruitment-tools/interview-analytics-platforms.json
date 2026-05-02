@@ -41,5 +41,12 @@
       "question": "What interview metrics should organizations track?",
       "answer": "Key interview metrics include time-to-hire broken down by stages, interview-to-offer conversion rates, interviewer participation and calibration, candidate evaluation score distributions and consistency, bias indicators comparing outcomes across groups, scheduling efficiency and no-show rates, and outcome correlation linking interview scores to hire performance."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/interview-analytics-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/interview-analytics-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/interview-analytics-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

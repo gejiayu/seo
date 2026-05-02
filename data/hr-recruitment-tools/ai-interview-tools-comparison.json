@@ -41,5 +41,12 @@
       "question": "Are AI interview tools fair and unbiased?",
       "answer": "AI interview tools can reduce human unconscious bias through standardized criteria but may introduce algorithmic bias from training data or design choices. Fair AI requires regular bias auditing, human oversight of recommendations, transparency with candidates, and working with vendors prioritizing ethical development. AI should support rather than replace human judgment in hiring decisions."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ai-interview-tools-comparison",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ai-interview-tools-comparison",
+    "zh-CN": "https://www.housecar.life/zh/posts/ai-interview-tools-comparison"
+  },
+  "category": "hr-recruitment-tools"
 }

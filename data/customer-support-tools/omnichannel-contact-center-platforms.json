@@ -42,5 +42,11 @@
       "question": "What percentage of customer interactions can chatbots deflect in omnichannel systems?",
       "answer": "Advanced chatbots integrated in omnichannel platforms deflect 30-40% of routine interactions across channels. These systems handle balance checks, FAQ queries, appointment scheduling, and simple transactions without agent involvement. Deflection rates vary by business type and query complexity, with standard routine queries achieving highest deflection success."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-omnichannel-contact-center-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-omnichannel-contact-center-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-omnichannel-contact-center-platforms-tools-2026"
+  }
 }

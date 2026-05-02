@@ -42,5 +42,11 @@
       "question": "Can analytics platforms integrate with multiple contact center systems?",
       "answer": "Yes, standalone analytics platforms like CallMiner and Verint integrate with multiple contact center brands through APIs and file transfer protocols. Native analytics (Genesys, Five9) work exclusively with their parent platforms. Businesses using multiple contact center systems should select standalone analytics for unified visibility."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-call-center-analytics-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-call-center-analytics-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-call-center-analytics-tools-tools-2026"
+  }
 }

@@ -41,5 +41,11 @@
       "question": "Can website chat platforms support multiple languages simultaneously?",
       "answer": "Advanced website chat platforms offer multilingual support through language detection, translation features, and localized canned responses. Intercom, LiveChat, and Zendesk provide real-time translation capabilities. Agent assignment based on language expertise ensures native-speaker support for international customers."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-website-chat-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-website-chat-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-website-chat-platforms-tools-2026"
+  }
 }

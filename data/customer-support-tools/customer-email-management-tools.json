@@ -38,5 +38,11 @@
       "question": "Which email management platform offers the best analytics?",
       "answer": "Zendesk offers the most extensive analytics with detailed response time, resolution rate, and custom reporting capabilities. Front provides advanced analytics suitable for most teams. Freshdesk offers good analytics in its paid tiers."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-customer-email-management-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-customer-email-management-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-customer-email-management-tools-tools-2026"
+  }
 }

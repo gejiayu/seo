@@ -41,5 +41,11 @@
       "question": "How do I prevent incentive cannibalization in abandoned cart recovery?",
       "answer": "Prevent cannibalization through segment-based incentive differentiation: first-time customers warrant elevated incentives reflecting acquisition investment, returning customers warrant moderate incentives reflecting established trust, high-value customers warrant premium recovery investment, and product category considerations adjust incentives based on margin structures. Avoid blanket incentive levels that sacrifice margins on customers requiring minimal motivation."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-abandoned-cart-recovery-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-abandoned-cart-recovery-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-abandoned-cart-recovery-tools-2026"
+  }
 }

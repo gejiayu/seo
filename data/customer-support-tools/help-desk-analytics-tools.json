@@ -41,5 +41,11 @@
       "question": "Can help desk analytics integrate with business intelligence platforms?",
       "answer": "Yes, major help desk platforms offer data export and API access for integration with business intelligence tools like Tableau, Power BI, and Looker. Integration enables combining support data with broader business metrics for comprehensive analysis."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-help-desk-analytics-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-help-desk-analytics-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-help-desk-analytics-tools-tools-2026"
+  }
 }

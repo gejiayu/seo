@@ -41,5 +41,12 @@
       "question": "What pipeline metrics should I track?",
       "answer": "Track candidate distribution by stage, time-in-stage durations, conversion rates between stages, pipeline velocity, and bottleneck frequency. Advanced metrics include stage efficiency comparisons, source-to-stage correlations, and predictive time-to-hire estimates."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-pipeline-management-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-pipeline-management-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-pipeline-management-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

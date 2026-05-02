@@ -41,5 +41,11 @@
       "question": "Can shipping management software handle international shipments?",
       "answer": "Yes, platforms like EasyShip and ShipStation specialize in international shipping. They generate customs documentation, calculate duties and taxes, compare international carrier rates, and ensure compliance with country-specific shipping regulations."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-shipping-management-software-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-shipping-management-software-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-shipping-management-software-2026"
+  }
 }

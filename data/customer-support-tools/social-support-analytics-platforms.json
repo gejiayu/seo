@@ -39,5 +39,11 @@
       "question": "How does sentiment analysis improve social support?",
       "answer": "Sentiment analysis identifies customer frustration or satisfaction in real-time, enabling priority handling of negative interactions, tracking support quality trends, and correlating sentiment with specific issues or agents."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-social-support-analytics-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-social-support-analytics-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-social-support-analytics-platforms-2026"
+  }
 }

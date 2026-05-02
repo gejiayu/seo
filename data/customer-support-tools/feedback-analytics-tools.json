@@ -41,5 +41,11 @@
       "question": "Can feedback analytics predict customer churn?",
       "answer": "Yes, advanced feedback analytics platforms include predictive churn modeling capabilities. These algorithms analyze feedback patterns combined with behavioral signals to identify customers at risk of leaving. Predictive models score individual customer churn probability, enabling proactive retention intervention before explicit churn signals emerge."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-feedback-analytics-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-feedback-analytics-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-feedback-analytics-tools-2026"
+  }
 }

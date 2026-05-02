@@ -1,0 +1,505 @@
+TRANSLATION REPORT FOR insurance-agency-tools
+Generated on: 2026-05-02
+Total files needing translation: 100
+
+File: auto-insurance-management-tools.json
+  Fields to translate: ['content']
+
+File: claims-management-system-review.json
+  Fields to translate: ['content']
+
+File: health-insurance-management-platforms.json
+  Fields to translate: ['title', 'description', 'content', 'author', 'seo_keywords_chinese']
+  Title: 健康险管理平台2026年权威评测：从投保到理赔的全流程优化...
+  Author: 保险科技研究院
+  Chinese keywords: ['健康险                                    CRM']
+
+File: insurance-agency-digital-transformation-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理数字化转型工具2026年终极指南：全面数字化运营...
+  Author: 保险科技研究院
+
+File: insurance-agency-website-builder-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理网站建设工具2026年评测：专业网站到在线营销...
+  Author: 保险科技研究院
+
+File: insurance-agent-training-platforms.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理培训学习平台2026年评测：新人培训到专业提升...
+  Author: 保险科技研究院
+
+File: insurance-ai-tools-review.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险AI工具2026年革命性评测：智能核保到智能理赔...
+  Author: 保险科技研究院
+
+File: insurance-compliance-management-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理合规管理工具2026年评测：销售合规到理赔合规...
+  Author: 保险科技研究院
+
+File: insurance-content-marketing-platforms.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理内容营销平台2026年评测：保险知识传播到客户教育...
+  Author: 保险科技研究院
+
+File: insurance-crm-system-review.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理CRM系统深度评测：2026年最佳客户管理工具对比...
+  Author: 保险科技研究院
+
+File: insurance-cross-selling-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户交叉销售工具2026年评测：保障缺口识别到产品推荐...
+  Author: 保险科技研究院
+
+File: insurance-customer-access-control.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户访问控制工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-activity-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户活动管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-address-verification.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户地址验证工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-anniversary-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户纪念日管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-appointment-management-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户预约管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-behavior-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户行为预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-birthday-reminder.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户生日提醒工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-branch-management.json
+  Fields to translate: ['title', 'description', 'content', 'author', 'seo_keywords_chinese']
+  Title: 保险代理客户分支机构管理工具2026年权威评测...
+  Author: 保险科技研究院
+  Chinese keywords: ['insurance customer  branch  machine 构 management tools', 'management tools customer  branch  machine 构 management tools', 'management system  customer  branch  machine 构 management tools', 'digital management  customer  branch  machine 构 management  tools']
+
+File: insurance-customer-churn-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户流失预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-churn-prediction-systems.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户流失预警系统2026年评测：流失预测到挽留策略...
+  Author: 保险科技研究院
+
+File: insurance-customer-claims-care.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户理赔关怀工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-communication-tracking-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户沟通记录工具2026年评测：沟通追踪到服务优化...
+  Author: 保险科技研究院
+
+File: insurance-customer-complaint-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户投诉管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-contact-verification.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户联系方式验证工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-conversion-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户转化预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-cost-analysis.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户成本分析工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-country-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户国家管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-credit-evaluation.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户信用评估工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-backup.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据备份工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-cleaning.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据清洗工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-compliance.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据合规工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-desensitization.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据脱敏工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-encryption.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据加密工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-integration.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据整合工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-migration.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据迁移工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-data-recovery.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户数据恢复工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-department-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户部门管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-downgrade-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户降级预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-event-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户事件管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-experience-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户体验管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-feedback-collection.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户反馈收集工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-fraud-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户欺诈预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-gratitude-tool.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户感谢工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-group-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户组管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-holiday-care.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户节日关怀工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-identity-verification.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户身份验证工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-information-security.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户信息安全工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-information-verification.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户信息验证工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-journey-design.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户旅程设计工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-lifecycle-management-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户生命周期管理工具2026年评测：全旅程客户管理...
+  Author: 保险科技研究院
+
+File: insurance-customer-lifetime-value-analysis.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户终身价值分析工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-moment-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户关键时刻管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-needs-collection.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户需求收集工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-needs-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户需求预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-network-security.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户网络安全工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-permission-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户权限管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-privacy-protection.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户隐私保护工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-profitability-analysis.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户盈利能力分析工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-questionnaire-tool.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户问卷调查工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-referral-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户推荐预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-referral-management-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户推荐管理工具2026年评测：推荐激励到口碑传播...
+  Author: 保险科技研究院
+
+File: insurance-customer-region-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户区域管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-renewal-care.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户续保关怀工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-renewal-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户续保预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-revenue-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户收入预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-risk-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户风险预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-roi-calculator.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户ROI计算工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-role-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户角色管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-satisfaction-evaluation.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户满意度测评工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-satisfaction-survey-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户满意度调查工具2026年评测：满意度测量到服务改进...
+  Author: 保险科技研究院
+
+File: insurance-customer-segmentation-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户细分工具2026年评测：精准营销到个性化服务...
+  Author: 保险科技研究院
+
+File: insurance-customer-service-portals.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户服务门户2026年评测：自助服务提升客户满意度...
+  Author: 保险科技研究院
+
+File: insurance-customer-suggestion-collection.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户建议收集工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-team-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户团队管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-territory-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户地域管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-touchpoint-management.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户接触点管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-upgrade-forecast.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户升级预测工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-value-calculator.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户价值计算工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-customer-visit-management-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理客户拜访管理工具2026年权威评测...
+  Author: 保险科技研究院
+
+File: insurance-data-analytics-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 最佳保险数据分析工具2026年全景分析：从数据到决策...
+  Author: 保险科技研究院
+
+File: insurance-document-management-systems.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理文档管理系统2026年评测：保单文件到理赔文档...
+  Author: 保险科技研究院
+
+File: insurance-electronic-signature-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理电子签名工具2026年评测：现场签单到远程签约...
+  Author: 保险科技研究院
+
+File: insurance-email-marketing-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理电子邮件营销工具2026年评测：邮件触达到自动化营销...
+  Author: 保险科技研究院
+
+File: insurance-financial-software-analysis.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 最佳保险财务软件2026年完全解析：佣金计算到财务报表...
+  Author: 保险科技研究院
+
+File: insurance-marketing-automation-guide.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险营销自动化平台2026年终极指南：从触达到转化...
+  Author: 保险科技研究院
+
+File: insurance-mobile-office-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author', 'seo_keywords_chinese']
+  Title: 保险代理移动办公工具2026年评测：现场签单到移动理赔...
+  Author: 保险科技研究院
+  Chinese keywords: ['移动                                    CRM']
+
+File: insurance-online-advertising-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理在线广告工具2026年评测：Google广告到社交媒体广告...
+  Author: 保险科技研究院
+
+File: insurance-performance-management-systems.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理绩效管理系统2026年评测：业绩追踪到激励设计...
+  Author: 保险科技研究院
+
+File: insurance-phone-marketing-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理电话营销工具2026年评测：电话触达到通话分析...
+  Author: 保险科技研究院
+
+File: insurance-quoting-tools-guide.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险报价工具2026年全攻略：快速报价提升销售转化...
+  Author: 保险科技研究院
+
+File: insurance-risk-assessment-systems.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 风险评估系统2026年权威指南：精准核保与风险预警...
+  Author: 保险科技研究院
+
+File: insurance-seo-optimization-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理SEO优化工具2026年评测：搜索引擎优化到本地搜索...
+  Author: 保险科技研究院
+
+File: insurance-social-media-marketing-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理社交媒体营销工具2026年评测：社交触达到内容传播...
+  Author: 保险科技研究院
+
+File: insurance-team-collaboration-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理团队协作工具2026年评测：团队管理到业绩追踪...
+  Author: 保险科技研究院
+
+File: insurance-text-message-marketing-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理短信营销工具2026年评测：短信触达到客户提醒...
+  Author: 保险科技研究院
+
+File: insurance-video-marketing-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保险代理视频营销工具2026年评测：保险教育到客户转化...
+  Author: 保险科技研究院
+
+File: life-insurance-management-tools.json
+  Fields to translate: ['title', 'description', 'content', 'author', 'seo_keywords_chinese']
+  Title: 寿险管理工具2026年完全指南：从投保到理赔的全流程...
+  Author: 保险科技研究院
+  Chinese keywords: ['寿险                                    CRM']
+
+File: policy-management-system-guide.json
+  Fields to translate: ['title', 'description', 'content', 'author']
+  Title: 保单管理系统2026年终极指南：从手工台账到智能平台...
+  Author: 保险科技研究院
+
+File: property-insurance-management-systems.json
+  Fields to translate: ['title', 'description', 'content', 'author', 'seo_keywords_chinese']
+  Title: 财产险管理系统2026年权威评测：商业保险数字化运营...
+  Author: 保险科技研究院
+  Chinese keywords: ['财产险                                    CRM']
+

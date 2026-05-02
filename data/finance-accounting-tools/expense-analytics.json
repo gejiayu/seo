@@ -14,5 +14,11 @@
   ],
   "slug": "expense-analytics",
   "published_at": "2026-04-15",
-  "author": "Financial Tools Expert"
+  "author": "Financial Tools Expert",
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/expense-analytics",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/expense-analytics",
+    "zh-CN": "https://www.housecar.life/zh/posts/expense-analytics"
+  }
 }

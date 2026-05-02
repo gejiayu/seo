@@ -41,5 +41,11 @@
       "question": "Which fraud prevention tool is best for Stripe users?",
       "answer": "Stripe Radar is optimal for Stripe users due to native integration and machine learning trained on billions of Stripe transactions. Radar integrates seamlessly with Stripe checkout, requires no additional implementation, and benefits from Stripe's global network data. Customizable rules enable tailored fraud prevention."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-fraud-prevention-payment-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-fraud-prevention-payment-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-fraud-prevention-payment-tools-tools-2026"
+  }
 }

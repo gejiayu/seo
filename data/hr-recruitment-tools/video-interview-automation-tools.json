@@ -41,5 +41,12 @@
       "question": "Is AI interview analysis fair and unbiased?",
       "answer": "AI interview analysis can introduce bias depending on algorithm design and training data. Best practices include regular bias audits, human oversight of AI recommendations, transparency with candidates about AI use, and working with vendors prioritizing ethical AI development. AI should support rather than replace human judgment in hiring decisions."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/video-interview-automation-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/video-interview-automation-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/video-interview-automation-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

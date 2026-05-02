@@ -41,5 +41,11 @@
       "question": "How many FAQs should a business maintain?",
       "answer": "The optimal FAQ count depends on product complexity and customer question volume. Focus on quality over quantity: maintain FAQs addressing genuinely frequent questions rather than speculative coverage. Start with top 20-50 questions from ticket analysis, then expand based on search queries and customer feedback."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-faq-management-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-faq-management-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-faq-management-tools-2026"
+  }
 }

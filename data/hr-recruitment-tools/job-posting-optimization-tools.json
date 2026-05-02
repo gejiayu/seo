@@ -41,5 +41,12 @@
       "question": "Can optimization tools detect bias in job descriptions?",
       "answer": "Yes, advanced platforms like Textio use AI to identify gendered language, exclusionary phrasing, and bias patterns that may discourage diverse candidate applications."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/job-posting-optimization-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/job-posting-optimization-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/job-posting-optimization-tools"
+  },
+  "category": "hr-recruitment-tools"
 }

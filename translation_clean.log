@@ -1,0 +1,21 @@
+============================================================
+Clean Translation - 100 files
+============================================================
+
+[1/100] bulldozer-rental-management-system-review.json
+  Translating fields...
+    Section 2/7 done
+    Section 3/7 done
+    Section 4/7 done
+    Section 5/7 done
+    Section 6/7 done
+    Section 7/7 done
+  Completed
+
+[2/100] concrete-equipment-rental-management-review.json
+  Translating fields...
+    Section 2/8 done
+  Error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>
+    Section 3/8 done
+    Section 4/8 done
+    Section 5/8 done

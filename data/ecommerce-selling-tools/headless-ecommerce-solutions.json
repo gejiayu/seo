@@ -41,5 +41,11 @@
       "question": "What is the difference between REST and GraphQL APIs for headless commerce?",
       "answer": "REST APIs require multiple HTTP requests to different endpoints for various data, potentially inefficient for complex pages. GraphQL uses a single endpoint where you query exactly the data fields needed in one request, reducing over-fetching and under-fetching. GraphQL has become preferred for headless commerce due to efficiency, strong typing preventing errors, and single endpoint architecture simplifying integration."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-headless-ecommerce-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-headless-ecommerce-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-headless-ecommerce-tools-2026"
+  }
 }

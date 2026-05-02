@@ -42,5 +42,11 @@
       "question": "What automation capabilities differentiate basic from advanced scheduling platforms?",
       "answer": "Basic platforms offer simple booking and reminders, while advanced solutions include self-service interfaces, calendar pooling, panel coordination, rescheduling automation, and AI optimization. Enterprise platforms add timezone management, deep integration, and predictive capabilities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruiter-scheduling-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruiter-scheduling-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruiter-scheduling-software"
+  }
 }

@@ -41,5 +41,11 @@
       "question": "How do I prevent recommendation fatigue from overwhelming customers?",
       "answer": "Prevent fatigue through frequency controls that limit recommendation density, placement optimization that positions suggestions in discovery zones rather than checkout paths, relevance quality filtering that removes suggestions below acceptance thresholds, and customer response monitoring that adjusts recommendation intensity based on individual tolerance patterns. Effective platforms implement these controls automatically while enabling manual adjustment for specific requirements."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-upselling-cross-selling-platforms-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-upselling-cross-selling-platforms-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-upselling-cross-selling-platforms-2026"
+  }
 }

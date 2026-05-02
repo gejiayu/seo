@@ -42,5 +42,11 @@
       "question": "What integration capabilities are essential for recruiter CRM success?",
       "answer": "Critical integrations include email synchronization for automatic communication logging, LinkedIn connection for profile enrichment, calendar sync for meeting tracking, and job board posting for database growth. HRIS integration enables corporate workflow automation."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruiter-crm-platforms-review",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruiter-crm-platforms-review",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruiter-crm-platforms-review"
+  }
 }

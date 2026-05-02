@@ -41,5 +41,11 @@
       "question": "What warehouse operations benefit from batch processing?",
       "answer": "Batch processing improves pick operations through consolidated pick lists minimizing walking time, pack operations through batch packaging workflows, shipping through grouped label generation and manifest creation, and quality control through systematic batch verification."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-batch-order-processing-systems-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-batch-order-processing-systems-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-batch-order-processing-systems-2026"
+  }
 }

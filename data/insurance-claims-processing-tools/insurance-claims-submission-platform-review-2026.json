@@ -1,15 +1,16 @@
 {
-  "title": "保险理赔申请平台评测：ClaimSubmit vs EasyClaims对比｜2026年评测",
-  "description": "深度评测保险理赔申请平台，对比在线提交功能、用户体验、系统集成能力，帮助保险公司选择最佳理赔申请解决方案。",
-  "content": "<h2>背景介绍</h2><p>保险理赔申请平台是理赔流程的第一道关卡，直接影响客户体验和理赔效率。本文对比评测ClaimSubmit和EasyClaims两大主流平台。</p><h2>功能对比</h2><table><tr><th>功能</th><th>ClaimSubmit</th><th>EasyClaims</th></tr><tr><td>在线申请</td><td>支持多渠道提交</td><td>仅支持Web端</td></tr><tr><td>文件上传</td><td>支持批量上传</td><td>单文件上传</td></tr><tr><td>智能识别</td><td>OCR自动识别</td><td>需人工录入</td></tr><tr><td>API集成</td><td>RESTful API</td><td>SOAP接口</td></tr></table><h2>用户体验</h2><p>ClaimSubmit提供移动端APP，客户可随时随地提交理赔申请。EasyClaims仅支持PC端操作，适合传统理赔场景。</p><h2>推荐选择</h2><p>追求高效理赔流程的保险公司推荐ClaimSubmit，传统理赔场景可选择EasyClaims。</p>",
+  "title": "Insurance Claims Submission Platform Evaluation: ClaimSubmit vs EasyClaims Comparison - 2026 Review",
+  "description": "In-depth evaluation of insurance claims submission platforms, comparing online submission features, user experience, and system integration capabilities to help insurance companies choose the best claims submission solution.",
+  "content": "<h2>Background Introduction</h2><p>Insurance claims submission platforms are the first gate of claims processes, directly affecting customer experience and claims efficiency. This article compares ClaimSubmit and EasyClaims, two mainstream platforms.</p><h2>Feature Comparison</h2><table><tr><th>Feature</th><th>ClaimSubmit</th><th>EasyClaims</th></tr><tr><td>Online Submission</td><td>Multi-channel submission support</td><td>Only Webend</td></tr><tr><td>File Upload</td><td>Batch upload support</td><td>Single file upload</td></tr><tr><td>Intelligent Recognition</td><td>OCR automatic recognition</td><td>Manual entry required</td></tr><tr><td>API Integration</td><td>RESTful API</td><td>SOAP interface</td></tr></table><h2>User Experience</h2><p>ClaimSubmit provides mobileend app, allowing customers to submit claims applications anytime and anywhere. EasyClaims only supports PCend operation, suitable for traditional claims scenarios.</p><h2>Recommended Choice</h2><p>Insurance companies pursuing efficient claims workflows should use ClaimSubmit, while traditional claims scenarios can choose EasyClaims.</p>",
   "seo_keywords": [
-    "保险理赔申请",
-    "理赔提交平台",
-    "理赔在线申请",
-    "理赔系统入口",
-    "理赔申请软件"
+    "insurance claims submission",
+    "claims submission platform",
+    "claims online submission",
+    "claims system entrance",
+    "claims submission software"
   ],
   "slug": "insurance-claims-submission-platform-review-2026",
-  "published_at": "2026-05-02",
-  "author": "保险科技专家"
+  "published_at": "2026-05-01",
+  "language": "en-US",
+  "author": "Insurance Technology Expert"
 }

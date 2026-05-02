@@ -90,5 +90,11 @@
       "question": "What fraud detection accuracy is realistic?",
       "answer": "ML-based fraud detection typically achieves 85-95% accuracy in identifying genuine fraud, with some false positives requiring investigation. Rule-based detection catches obvious violations effectively but misses sophisticated schemes. Organizations should expect investigation workload from flagged items even when mostly legitimate, accepting some false positives as audit due diligence cost."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/finance-accounting-tools-expense-audit-review-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/finance-accounting-tools-expense-audit-review-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/finance-accounting-tools-expense-audit-review-2026"
+  }
 }

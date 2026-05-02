@@ -41,5 +41,12 @@
       "question": "Can interview management platforms work with my existing ATS?",
       "answer": "Yes, most interview management platforms offer integrations with major ATS systems like Greenhouse, Lever, Workday, and others. Some platforms like Greenhouse Interview are native components of their respective ATS, providing deepest integration. Others use API connections and pre-built connectors for seamless data flow."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/interview-management-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/interview-management-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/interview-management-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

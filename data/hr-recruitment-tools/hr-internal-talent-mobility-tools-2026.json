@@ -41,5 +41,12 @@
       "question": "What integration with existing systems is essential for mobility platforms?",
       "answer": "Critical integrations include HRIS for employee data, performance management for competencies, learning systems for development tracking, and internal posting platforms for opportunity feeds. Communication tool integration enables timely notifications about relevant opportunities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/hr-internal-talent-mobility-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/hr-internal-talent-mobility-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/hr-internal-talent-mobility-tools-2026"
+  },
+  "category": "hr-recruitment-tools"
 }

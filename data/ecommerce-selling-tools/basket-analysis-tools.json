@@ -41,5 +41,11 @@
       "question": "What is the lift metric in basket analysis?",
       "answer": "Lift measures association strength between products beyond random coincidence. Lift greater than 1 indicates products appear together more often than expected, suggesting meaningful relationship. Higher lift indicates stronger association for bundling and recommendation opportunities."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-basket-analysis-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-basket-analysis-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-basket-analysis-tools-2026"
+  }
 }

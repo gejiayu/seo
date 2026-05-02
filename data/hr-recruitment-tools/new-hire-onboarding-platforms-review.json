@@ -41,5 +41,12 @@
       "question": "Can onboarding platforms accommodate different employee types and roles?",
       "answer": "Yes, leading onboarding platforms support role-specific workflows with conditional logic that delivers appropriate content and tasks based on employee type, department, location, and position. This customization ensures each new hire receives relevant onboarding while maintaining consistent compliance requirements across all employees."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/new-hire-onboarding-platforms-review",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/new-hire-onboarding-platforms-review",
+    "zh-CN": "https://www.housecar.life/zh/posts/new-hire-onboarding-platforms-review"
+  },
+  "category": "hr-recruitment-tools"
 }

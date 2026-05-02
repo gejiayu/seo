@@ -41,5 +41,11 @@
       "question": "Can I sync inventory between my POS and Amazon marketplace?",
       "answer": "Yes, Shopify POS natively syncs inventory with Amazon marketplace through Shopify's Amazon sales channel. Cin7 inventory platform provides native Amazon sync when integrated with any POS. Lightspeed and Vend sync Amazon inventory through third-party integrations (including Cin7). Square does not support marketplace inventory sync. For businesses selling on Amazon alongside physical stores, Shopify or Cin7 provide the most reliable Amazon inventory synchronization."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-inventory-sync-pos-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-inventory-sync-pos-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-inventory-sync-pos-platforms-tools-2026"
+  }
 }

@@ -41,5 +41,12 @@
       "question": "Do these platforms handle international hiring and multi-language requirements?",
       "answer": "Major platforms support international operations with multi-language processing, regional market intelligence, and global talent pool analytics. Organizations should verify specific regional capabilities during evaluation."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-intelligence-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-intelligence-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-intelligence-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

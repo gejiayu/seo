@@ -41,5 +41,11 @@
       "question": "Which internal knowledge base platform is best for small teams?",
       "answer": "For small teams, Notion provides excellent ease of use, reasonable pricing, and integrated project management. GitLab Wiki suits technical teams already using GitLab. Guru works well for sales and support teams needing verified knowledge. Choose based on existing tool ecosystem, team size, and primary use cases."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-internal-knowledge-base-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-internal-knowledge-base-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-internal-knowledge-base-tools-2026"
+  }
 }

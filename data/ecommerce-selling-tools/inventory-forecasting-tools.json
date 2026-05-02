@@ -41,5 +41,11 @@
       "question": "Can forecasting tools predict demand for new products?",
       "answer": "Yes, advanced forecasting tools predict new product demand through analogy-based methods that reference similar products, attribute-based forecasting using product characteristics, and integration of market research data. Accuracy is lower than established products but significantly better than guesswork."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-inventory-forecasting-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-inventory-forecasting-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-inventory-forecasting-tools-tools-2026"
+  }
 }

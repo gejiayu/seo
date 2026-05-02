@@ -41,5 +41,11 @@
       "question": "What happens when automation encounters an exception?",
       "answer": "Automation platforms queue exception orders for human review. The system flags orders that don't match rule conditions or encounter processing problems. Staff review queued orders, resolve issues, and either process manually or adjust rules to handle similar scenarios automatically in future."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-shipping-automation-tools",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-shipping-automation-tools",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-shipping-automation-tools"
+  }
 }

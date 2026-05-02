@@ -41,5 +41,12 @@
       "question": "Can sourcing tools integrate with existing applicant tracking systems?",
       "answer": "Yes, major sourcing platforms integrate with leading ATS systems through API connections enabling candidate tracking from initial sourcing through application and hiring completion."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/candidate-sourcing-job-boards",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/candidate-sourcing-job-boards",
+    "zh-CN": "https://www.housecar.life/zh/posts/candidate-sourcing-job-boards"
+  },
+  "category": "hr-recruitment-tools"
 }

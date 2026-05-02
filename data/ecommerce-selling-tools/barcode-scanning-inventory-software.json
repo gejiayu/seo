@@ -41,5 +41,11 @@
       "question": "Do barcode scanning systems work offline?",
       "answer": "Yes, systems like inFlow Inventory, Fishbowl Go, and ShipHero provide offline scanning capability. They cache inventory data locally, enable offline scanning transactions, and sync with central systems when connectivity resumes. This ensures operation in warehouse areas without network coverage."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-barcode-scanning-inventory-software-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-barcode-scanning-inventory-software-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-barcode-scanning-inventory-software-tools-2026"
+  }
 }

@@ -41,5 +41,12 @@
       "question": "Can recruitment advertising platforms integrate with existing ATS systems?",
       "answer": "Yes, major platforms integrate with leading ATS systems through API connections enabling conversion tracking and applicant data synchronization."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/recruitment-advertising-platforms",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/recruitment-advertising-platforms",
+    "zh-CN": "https://www.housecar.life/zh/posts/recruitment-advertising-platforms"
+  },
+  "category": "hr-recruitment-tools"
 }

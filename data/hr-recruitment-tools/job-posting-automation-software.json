@@ -41,5 +41,12 @@
       "question": "Can automation software optimize posting timing automatically?",
       "answer": "Yes, advanced platforms use AI algorithms analyzing historical engagement data to recommend optimal posting times for different boards and job categories."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/job-posting-automation-software",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/job-posting-automation-software",
+    "zh-CN": "https://www.housecar.life/zh/posts/job-posting-automation-software"
+  },
+  "category": "hr-recruitment-tools"
 }

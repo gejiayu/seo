@@ -41,5 +41,11 @@
       "question": "Can inventory automation handle multiple warehouses?",
       "answer": "Yes, platforms like Extensiv, Cin7, and Ordoro automate multi-warehouse operations. They automatically route orders to optimal locations based on inventory availability and shipping costs. Virtual inventory pooling treats distributed stock as unified availability for automated fulfillment decisions."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-inventory-automation-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-inventory-automation-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-inventory-automation-platforms-tools-2026"
+  }
 }

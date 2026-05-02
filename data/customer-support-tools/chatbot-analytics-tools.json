@@ -41,5 +41,11 @@
       "question": "Can chatbot analytics integrate with existing business intelligence platforms?",
       "answer": "Yes, chatbot analytics platforms offer data export capabilities enabling integration with business intelligence systems, data warehouses, and custom analysis tools. Export formats include CSV, API access, and direct connector integration for major BI platforms."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-chatbot-analytics-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-chatbot-analytics-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-chatbot-analytics-tools-tools-2026"
+  }
 }

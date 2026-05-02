@@ -41,5 +41,11 @@
       "question": "Can order analytics platforms integrate with existing business intelligence tools?",
       "answer": "Advanced platforms support API integration feeding data to BI tools like Tableau, PowerBI, and Looker. They also provide direct exports in CSV format for spreadsheet analysis, scheduled report generation, and email distribution for regular reporting workflows."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-order-reporting-analytics-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-order-reporting-analytics-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-order-reporting-analytics-tools-2026"
+  }
 }

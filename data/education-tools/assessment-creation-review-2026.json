@@ -1,94 +1,95 @@
 {
   "slug": "education-assessment-creation-review-2026",
   "category": "education-tools",
-  "title": "评估创建工具评测：Formative vs Quizizz vs Socrative中小企业对比 - 2026 Review",
-  "description": "深入评测2026年热门评估创建工具Formative、Quizizz、Socrative，从评估形式多样性、实时反馈能力、数据追踪深度到价格体系全方位对比，帮助教育机构和中小企业选择最优学习评估解决方案。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
+  "language": "en-US",
+  "title": "Assessment Creation Tools Review: Formative vs Quizizz vs Socrative Small Business Comparison - 2026",
+  "description": "In-depth review of 2026 popular assessment creation tools Formative, Quizizz, Socrative, comprehensive comparison from assessment form diversity, real-time feedback capability, data tracking depth to pricing systems, helping educational institutions and small businesses choose the best learning assessment solution. Learn more about features and pricing comparisons to find your best solution! Professional reviews help you decide!",
   "seo_keywords": [
-    "评估创建工具",
-    "实时测评平台",
-    "Formative评测",
-    "Quizizz对比",
+    "assessment creation tool",
+    "real-time assessment platform",
+    "Formative review",
+    "Quizizz comparison",
     "Socrative",
-    "课堂评估系统",
-    "学习效果检测",
-    "即时反馈工具",
-    "学生评估平台",
-    "在线测验系统"
+    "classroom assessment system",
+    "learning effect detection",
+    "instant feedback tool",
+    "student assessment platform",
+    "online quiz system"
   ],
   "published_at": "2026-04-29",
-  "author": "教育评估技术专家",
-  "content": "<h2>背景介绍</h2><p>学习评估是教学闭环的关键环节，直接影响教学调整和效果改进。2026年，教育评估理念正从终结性评价转向过程性诊断，实时评估工具成为课堂标配。传统纸质测验的局限性日益凸显：反馈滞后、数据难以分析、个性化调整困难。中小型教育机构和企业培训部门面临共同挑战：如何在课堂中快速创建评估内容，即时收集学生反馈，追踪学习进度数据，支持精准教学调整。</p><p>Formative、Quizizz、Socrative代表了三种不同的评估创建理念：深度实时反馈、游戏化激励驱动、简洁即时评估。这三款工具在目标用户、功能侧重、体验设计方面各有特点，适合不同的评估场景。本文将深入分析它们的实际表现，帮助决策者根据评估需求做出最优选择，最大化教学诊断效果。</p><h2>核心功能对比</h2><table><thead><tr><th>功能维度</th><th>Formative</th><th>Quizizz</th><th>Socrative</th><th>适用场景</th></tr></thead><tbody><tr><td>评估形式</td><td>多元题型，开放回复支持</td><td>游戏化测验，娱乐激励</td><td>基础题型，简洁高效</td><td>深度评估选Formative</td></tr><tr><td>实时反馈</td><td>即时查看，逐项追踪</td><td>即时排名，竞争激励</td><td>实时结果，快速统计</td><td>激励驱动选Quizizz</td></tr><tr><td>开放问答</td><td>强大支持，文本图像音频</td><td>基础支持，文本回复</td><td>有限支持，文本简答</td><td>开放表达选Formative</td></tr><tr><td>数据分析</td><td>深度报告，学习追踪</td><td>基础统计，排名数据</td><td>简单报告，快速导出</td><td>数据驱动选Formative</td></tr><tr><td>游戏化</td><td>弱游戏化，专注评估</td><td>强游戏化，积分徽章</td><td>无游戏化，纯粹评估</td><td>娱乐激励选Quizizz</td></tr><tr><td>离线支持</td><td>需在线连接</td><td>异步模式，自主进度</td><td>需在线连接</td><td>异步学习选Quizizz</td></tr></tbody></table><h2>Formative平台详解</h2><ul><li><strong>核心能力</strong>：Formative（原GoFormative）是深度实时反馈评估平台，专注教学诊断和学习追踪。其核心优势在于多元回复支持，学生不仅提交答案，还可上传图像、录制音频、绘制图形，全方位展示学习思路。教师实时查看每个学生的回复过程，而非仅看最终答案，精准诊断理解偏差。</li><li><strong>技术架构</strong>：基于云端SaaS架构，支持Web浏览器访问。评估内容存储于Formative云端，教师账号同步跨设备使用。学生通过加入码或链接访问，无需注册账户降低门槛。实时同步技术确保教师看到学生输入过程，支持逐字逐图追踪。</li><li><strong>功能亮点</strong>：Live Results实时结果功能让教师看到每个学生的回复过程，发现解题思路偏差即时干预。Draw工具支持学生绘图回复，数学几何、物理电路、地理图示等可视化展示。Audio Response音频回复支持口语评估和语音解释，语言学习场景友好。Image Upload图片上传功能支持作品展示和文档提交。Auto-Grading自动评分功能支持客观题快速处理，主观题教师手动评价。</li><li><strong>定价模式</strong>：Formative采用分级订阅制。Free免费版支持基础评估和小规模课堂。Plus版年费约每教师12美元，增加高级功能和分析报告。Team版年费约每教师24美元，增加协作和管理功能。学校批量采购协商定价，大型部署人均成本降低。免费试用完整功能，评估后再订阅。</li><li><strong>优势劣势</strong>：优势在于实时追踪深度、多元回复支持、开放评估完善、数据报告详尽。劣势表现为游戏化激励弱、学习成本中等、异步模式受限、定价对个人教师负担。</li></ul><h2>Quizizz平台详解</h2><ul><li><strong>核心能力</strong>：Quizizz是游戏化评估平台，主打娱乐激励和自主学习驱动。其核心优势在于强游戏化设计，积分系统、竞争排名、幽默反馈、成就徽章等元素将测验转化为游戏体验，学生参与动机显著提升。异步模式支持学生自主进度，课后练习和预习评估灵活开展。</li><li><strong>技术架构</strong>：基于云端SaaS架构，支持Web浏览器和iOS/Android应用访问。题库内容存储于Quizizz云端，教师可使用社区共享题库。学生通过游戏码或链接访问，无需注册账户降低门槛。异步模式允许学生不同时开始，自主控制答题节奏。</li><li><strong>功能亮点</strong>：Power-ups游戏道具系统支持积分加成、时间延长、答案提示等辅助，游戏化体验层次丰富。Leaderboard实时排名显示竞争进度，激励学生争取更好成绩。Memes幽默反馈功能在答题后展示趣味图像，缓解紧张氛围。Question Bank题库共享平台包含数百万题目，教师快速组装测验。Homework异步模式支持课后布置测验，学生自主完成时间控制。</li><li><strong>定价模式</strong>：Quizizz采用分级订阅制。Basic免费版支持基础测验和小规模课堂。Super版年费约每教师96美元，增加高级功能和报告分析。School版按学校定价，批量采购人均成本约60美元。企业版协商定价，适合培训评估场景。免费试用完整功能，评估后再决策。</li><li><strong>优势劣势</strong>：优势在于游戏化激励强、参与度提升显著、异步模式灵活、题库共享丰富、学习成本较低。劣势表现为评估深度有限、开放回复支持弱、数据追踪不如Formative、纯粹评估功能简单。</li></ul><h2>Socrative平台详解</h2><ul><li><strong>核心能力</strong>：Socrative是简洁即时评估平台，专注快速反馈和简单统计。其核心优势在于极简设计，教师和学生无需复杂学习即可上手，适合追求效率的场景。Space Race团队竞争模式增添趣味元素，但游戏化程度远低于Quizizz。即时结果功能快速收集全班反馈，投票和测验便捷开展。</li><li><strong>技术架构</strong>：基于云端SaaS架构，支持Web浏览器和iOS/Android应用访问。评估内容存储于Socrative云端，教师账号同步跨设备使用。学生通过房间号访问，无需注册账户降低门槛。实时同步技术确保即时结果传递，支持大规模课堂并发互动。</li><li><strong>功能亮点</strong>：Quick Question快速问答功能支持单选、多选、简答三种基础题型，一键创建即刻发布。Space Race团队竞争模式将班级分组，积分排名增添趣味。Exit Ticket课后票据功能快速收集学习反馈，教学效果诊断便捷。Quiz测验功能支持预设题目序列，批量评估效率提升。Reports报告功能导出简单统计，PDF格式便于存档。</li><li><strong>定价模式</strong>：Socrative采用分级订阅制。Free免费版支持基础评估和小规模课堂。PRO版年费约每教师89美元，增加房间数量和报告功能。School版按学校定价，批量采购人均成本约50美元。企业版协商定价，适合培训评估场景。免费试用完整功能，评估后再订阅。</li><li><strong>优势劣势</strong>：优势在于极简设计、学习成本最低、即时反馈快速、团队竞争趣味、定价相对合理。劣势表现为功能深度有限、开放回复支持弱、游戏化程度低、数据追踪简单、异步模式不支持。</li></ul><h2>对比总结表</h2><table><thead><tr><th>评估维度</th><th>Formative评分</th><th>Quizizz评分</th><th>Socrative评分</th><th>权重</th></tr></thead><tbody><tr><td>评估深度</td><td>95分</td><td>65分</td><td>60分</td><td>25%</td></tr><tr><td>激励效果</td><td>55分</td><td>95分</td><td>70分</td><td>20%</td></tr><tr><td>学习成本</td><td>75分</td><td>85分</td><td>95分</td><td>20%</td></tr><tr><td>数据追踪</td><td>95分</td><td>70分</td><td>65分</td><td>15%</td></tr><tr><td>异步支持</td><td>60分</td><td>90分</td><td>55分</td><td>10%</td></tr><tr><td>价格合理性</td><td>85分</td><td>75分</td><td>80分</td><td>10%</td></tr><tr><td>综合评分</td><td>82分</td><td>80分</td><td>72分</td><td>100%</td></tr></tbody></table><h2>选择建议</h2><p><strong>深度评估需求</strong>：需要精准诊断、多元回复、学习追踪的教师和机构应优先选择Formative。实时查看学生回复过程而非仅看答案，图像音频开放回复支持全方位展示思路，数据报告详尽支持教学调整。适合深度诊断、过程评估、个性化干预等场景。</p><p><strong>激励驱动需求</strong>：需要提升参与度、游戏化激励、异步模式的教师应优先考虑Quizizz。强游戏化设计将测验转化为游戏体验，学生参与动机显著提升，异步模式支持课后自主练习。适合参与度提升、课后练习、预习评估等场景。</p><p><strong>简洁高效需求</strong>：追求极简设计、快速反馈、低学习成本的教师应选择Socrative。一键创建即刻发布，学生无需复杂学习即可上手，即时结果快速收集全班反馈。适合快速评估、投票收集、课堂反馈等场景。</p><h2>2026年趋势预测</h2><p>评估创建工具市场在2026年呈现三大发展趋势：<strong>AI辅助评估</strong>成为标配，智能题目生成、自动评分建议、错误分析推荐提升效率。Formative计划集成AI反馈分析，Quizizz研发AI题库推荐，Socrative探索AI快速创建。<strong>个性化评估</strong>走向深化，适应性测验、差异化题目、学习路径定制成为常态。工具正在优化条件分支和难度调整能力。<strong>评估数据整合</strong>趋势明显，与LMS、学习分析平台、家长沟通系统集成，形成完整数据闭环。评估结果不再孤立，而是融入学习全景图谱。</p><p>市场竞争格局方面，Formative巩固深度评估市场，Quizizz深耕游戏化激励市场，Socrative专注简洁高效市场。新兴工具如Google Forms、Microsoft Forms挑战通用评估市场，提供免费基础方案。教师选择范围扩大，但核心三强在专业评估场景保持优势。</p>",
+  "author": "Education Education Technology Research Team",
+  "content": "<h2>Background Introduction</h2><p>Learning assessment is a key link in the teaching loop, directly affecting teaching adjustments and effect improvement. In 2026, educational assessment philosophy is shifting from summative evaluation to process diagnosis, real-time assessment tools becoming classroom standard. Traditional paper test limitations are increasingly apparent: delayed feedback, difficult data analysis, personalized adjustment difficulties. Small and medium educational institutions and enterprise training departments face common challenges: how to quickly create assessment content in class, instantly collect student feedback, track learning progress data, support precise teaching adjustments.</p><p>Formative, Quizizz, Socrative represent three different assessment creation philosophies: deep real-time feedback, gamification motivation-driven, simple instant assessment. These three tools each have unique characteristics in target users, feature focus, experience design, suitable for different assessment scenarios. This article will deeply analyze their actual performance, helping decision-makers make optimal choices based on assessment needs, maximizing teaching diagnosis effect.</p><h2>Core Feature Comparison</h2><table><thead><tr><th>Feature Dimension</th><th>Formative</th><th>Quizizz</th><th>Socrative</th><th>Applicable Scenario</th></tr></thead><tbody><tr><td>Assessment Forms</td><td>Multiple Question Types, Open Response Support</td><td>Gamified Tests, Entertainment Motivation</td><td>Basic Question Types, Simple Efficient</td><td>Deep Assessment Choose Formative</td></tr><tr><td>Real-time Feedback</td><td>Instant View, Item-by-item Tracking</td><td>Instant Ranking, Competition Motivation</td><td>Real-time Results, Quick Statistics</td><td>Motivation-driven Choose Quizizz</td></tr><tr><td>Open-ended Questions</td><td>Strong Support, Text Image Audio</td><td>Basic Support, Text Response</td><td>Limited Support, Text Brief Answer</td><td>Open Expression Choose Formative</td></tr><tr><td>Data Analysis</td><td>Deep Reports, Learning Tracking</td><td>Basic Statistics, Ranking Data</td><td>Simple Reports, Quick Export</td><td>Data-driven Choose Formative</td></tr><tr><td>Gamification</td><td>Weak Gamification, Focus Assessment</td><td>Strong Gamification, Points Badges</td><td>No Gamification, Pure Assessment</td><td>Entertainment Motivation Choose Quizizz</td></tr><tr><td>Offline Support</td><td>Need Online Connection</td><td>Asynchronous Mode, Self-paced</td><td>Need Online Connection</td><td>Asynchronous Learning Choose Quizizz</td></tr></tbody></table><h2>Formative Platform Details</h2><ul><li><strong>Core Capabilities</strong>: Formative (formerly Go Formative) is a deep real-time feedback assessment platform, focusing on teaching diagnosis and learning tracking. Its core advantage is multiple response support, students not only submit answers but also upload images, record audio, draw graphics, comprehensively demonstrating learning thinking. Teachers real-time view each student's response process, not just final answers, precisely diagnosing understanding deviations.</li><li><strong>Technical Architecture</strong>: Based on cloud Saa S architecture, supporting web browser access. Assessment content stored in Formative cloud, teacher account synchronization cross-device use. Students access via join code or link, no account registration needed lowering threshold. Real-time synchronization technology ensures teachers see student input process, supporting word-by-word image-by-image tracking.</li><li><strong>Feature Highlights</strong>: Live Results real-time results feature lets teachers see each student's response process, discover solution thinking deviations instant intervention. Draw tool supports student drawing responses, math geometry, physics circuits, geography diagrams and other visual demonstrations. Audio Response audio response supports oral assessment and voice explanation, language learning scenarios friendly. Image Upload image upload feature supports work display and document submission. Auto-Grading auto grading feature supports objective question quick processing, subjective question teacher manual evaluation.</li><li><strong>Pricing Model</strong>: Formative uses tiered subscription. Free version supports basic assessment and small-scale classroom. Plus version annual fee around $12 per teacher, adding advanced features and analysis reports. Team version annual fee around $24 per teacher, adding collaboration and management features. School bulk purchase negotiated pricing, large deployment per-person cost reduced. Free trial complete features, evaluate before subscribing.</li><li><strong>Advantages and Disadvantages</strong>: Advantages include real-time tracking depth, multiple response support, open assessment complete, data reports detailed. Disadvantages include gamification motivation weak, learning cost medium, asynchronous mode limited, pricing burden for individual teachers.</li></ul><h2>Quizizz Platform Details</h2><ul><li><strong>Core Capabilities</strong>: Quizizz is a gamified assessment platform, featuring entertainment motivation and self-paced learning drive. Its core advantage is strong gamification design, points system, competition ranking, humorous feedback, achievement badges and other elements transform tests into game experiences, student participation motivation significantly improved. Asynchronous mode supports student self-paced, after-class practice and pre-class assessment flexible execution.</li><li><strong>Technical Architecture</strong>: Based on cloud Saa S architecture, supporting web browser and i OS/Android application access. Question bank content stored in Quizizz cloud, teachers can use community shared question bank. Students access via game code or link, no account registration needed lowering threshold. Asynchronous mode allows students start at different times, self-control answering pace.</li><li><strong>Feature Highlights</strong>: Power-ups game props system supports points bonus, time extension, answer hints and other assistance, gamified experience layers rich. Leaderboard real-time ranking shows competition progress, motivating students to achieve better results. Memes humorous feedback feature displays fun images after answering, relieving tense atmosphere. Question Bank question bank sharing platform contains millions of questions, teachers quickly assemble tests. Homework asynchronous mode supports after-class test assignment, students self-complete time control.</li><li><strong>Pricing Model</strong>: Quizizz uses tiered subscription. Basic free version supports basic tests and small-scale classroom. Super version annual fee around $96 per teacher, adding advanced features and report analysis. School version school pricing, bulk purchase per-person cost around $60. Enterprise version negotiated pricing, suitable for training assessment scenarios. Free trial complete features, evaluate before deciding.</li><li><strong>Advantages and Disadvantages</strong>: Advantages include strong gamification motivation, participation improvement significant, asynchronous mode flexible, question bank sharing rich, learning cost low. Disadvantages include assessment depth limited, open response support weak, data tracking not as good as Formative, pure assessment features simple.</li></ul><h2>Socrative Platform Details</h2><ul><li><strong>Core Capabilities</strong>: Socrative is a simple instant assessment platform, focusing on quick feedback and simple statistics. Its core advantage is minimalist design, teachers and students can start without complex learning, suitable for efficiency-pursuing scenarios. Space Race team competition mode adds fun elements, but gamification level far below Quizizz. Instant results feature quickly collects whole-class feedback, voting and testing convenient execution.</li><li><strong>Technical Architecture</strong>: Based on cloud Saa S architecture, supporting web browser and i OS/Android application access. Assessment content stored in Socrative cloud, teacher account synchronization cross-device use. Students access via room number, no account registration needed lowering threshold. Real-time synchronization technology ensures instant results delivery, supporting large-scale classroom concurrent interaction.</li><li><strong>Feature Highlights</strong>: Quick Question quick question feature supports single-choice, multiple-choice, brief-answer three basic question types, one-click create instant publish. Space Race team competition mode divides class into groups, points ranking adds fun. Exit Ticket after-class ticket feature quickly collects learning feedback, teaching effect diagnosis convenient. Quiz test feature supports preset question sequence, batch assessment efficiency improved. Reports report feature exports simple statistics, PDF format convenient archiving.</li><li><strong>Pricing Model</strong>: Socrative uses tiered subscription. Free version supports basic assessment and small-scale classroom. PRO version annual fee around $89 per teacher, adding room quantity and report features. School version school pricing, bulk purchase per-person cost around $50. Enterprise version negotiated pricing, suitable for training assessment scenarios. Free trial complete features, evaluate before subscribing.</li><li><strong>Advantages and Disadvantages</strong>: Advantages include minimalist design, lowest learning cost, instant feedback quick, team competition fun, pricing relatively reasonable. Disadvantages include feature depth limited, open response support weak, gamification level low, data tracking simple, asynchronous mode not supported.</li></ul><h2>Comparison Summary Table</h2><table><thead><tr><th>Evaluation Dimension</th><th>Formative Score</th><th>Quizizz Score</th><th>Socrative Score</th><th>Weight</th></tr></thead><tbody><tr><td>Assessment Depth</td><td>95 points</td><td>65 points</td><td>60 points</td><td>25%</td></tr><tr><td>Motivation Effect</td><td>55 points</td><td>95 points</td><td>70 points</td><td>20%</td></tr><tr><td>Learning Cost</td><td>75 points</td><td>85 points</td><td>95 points</td><td>20%</td></tr><tr><td>Data Tracking</td><td>95 points</td><td>70 points</td><td>65 points</td><td>15%</td></tr><tr><td>Asynchronous Support</td><td>60 points</td><td>90 points</td><td>55 points</td><td>10%</td></tr><tr><td>Price Reasonableness</td><td>85 points</td><td>75 points</td><td>80 points</td><td>10%</td></tr><tr><td>Overall Score</td><td>82 points</td><td>80 points</td><td>72 points</td><td>100%</td></tr></tbody></table><h2>Selection Recommendations</h2><p><strong>Deep Assessment Needs</strong>: Teachers and institutions needing precise diagnosis, multiple responses, learning tracking should prioritize Formative. Real-time view student response process not just answers, image audio open response support comprehensively demonstrates thinking, data reports detailed supporting teaching adjustments. Suitable for deep diagnosis, process assessment, personalized intervention and other scenarios.</p><p><strong>Motivation-driven Needs</strong>: Teachers needing participation improvement, gamification motivation, asynchronous mode should prioritize Quizizz. Strong gamification design transforms tests into game experiences, student participation motivation significantly improved, asynchronous mode supports after-class self-practice. Suitable for participation improvement, after-class practice, pre-class assessment and other scenarios.</p><p><strong>Simple Efficient Needs</strong>: Teachers pursuing minimalist design, quick feedback, low learning cost should choose Socrative. One-click create instant publish, students can start without complex learning, instant results quickly collect whole-class feedback. Suitable for quick assessment, voting collection, classroom feedback and other scenarios.</p><h2>2026 Trend Predictions</h2><p>Assessment creation tool market in 2026 shows three major development trends: <strong>AI-assisted Assessment</strong> becomes standard, intelligent question generation, auto grading suggestions, error analysis recommendations improving efficiency. Formative plans AI feedback analysis integration, Quizizz developing AI question bank recommendations, Socrative exploring AI quick creation. <strong>Personalized Assessment</strong> deepening, adaptive testing, differentiated questions, learning path customization becoming normal. tools optimizing condition branching and difficulty adjustment capabilities. <strong>Assessment Data Integration</strong> trend obvious, integrating with LMS, learning analytics platforms, parent communication systems, forming complete data loop. Assessment results no longer isolated, but learning panorama map.</p><p>Market competition landscape, Formative consolidates deep assessment market, Quizizz deepens gamification motivation market, Socrative focuses on simple efficient market. Emerging tools like Google Forms, Microsoft Forms challenge general assessment market, providing free basic solutions. Teacher selection range expands, but core three leaders maintain advantages in professional assessment scenarios.</p>",
   "pros_and_cons": [
     {
       "tool": "Formative",
       "pros": [
-        "实时追踪深度，查看回复过程",
-        "多元回复支持，图像音频开放",
-        "开放评估完善，主观题友好",
-        "数据报告详尽，诊断精准",
-        "定价合理，Plus版性价比高"
+        "Real-time tracking depth, view response process",
+        "Multiple response support, image audio open",
+        "Open assessment complete, subjective question friendly",
+        "Data reports detailed, diagnosis precise",
+        "Pricing reasonable, Plus version cost-effective"
       ],
       "cons": [
-        "游戏化激励弱，参与度提升有限",
-        "学习成本中等，培训投入",
-        "异步模式受限，需实时同步",
-        "定价对个人教师负担"
+        "Gamification motivation weak, participation improvement limited",
+        "Learning cost medium, training investment",
+        "Asynchronous mode limited, need real-time synchronization",
+        "Pricing burden for individual teachers"
       ]
     },
     {
       "tool": "Quizizz",
       "pros": [
-        "游戏化激励最强，参与度显著提升",
-        "异步模式灵活，自主进度控制",
-        "题库共享丰富，数百万题目",
-        "幽默反馈趣味，氛围轻松",
-        "学习成本较低，上手快"
+        "Strongest gamification motivation, participation significantly improved",
+        "Asynchronous mode flexible, self-paced control",
+        "Question bank sharing rich, millions of questions",
+        "Humorous feedback fun, atmosphere relaxed",
+        "Learning cost low, quick start"
       ],
       "cons": [
-        "评估深度有限，开放回复支持弱",
-        "数据追踪不如Formative",
-        "纯粹评估功能简单",
-        "定价相对较高"
+        "Assessment depth limited, open response support weak",
+        "Data tracking not as good as Formative",
+        "Pure assessment features simple",
+        "Pricing relatively high"
       ]
     },
     {
       "tool": "Socrative",
       "pros": [
-        "极简设计，学习成本最低",
-        "即时反馈快速，一键创建发布",
-        "团队竞争趣味，Space Race",
-        "定价相对合理",
-        "课后票据便捷，效果诊断"
+        "Minimalist design, lowest learning cost",
+        "Instant feedback quick, one-click create publish",
+        "Team competition fun, Space Race",
+        "Pricing relatively reasonable",
+        "After-class ticket convenient, effect diagnosis"
       ],
       "cons": [
-        "功能深度有限，题型简单",
-        "开放回复支持弱",
-        "游戏化程度低，激励有限",
-        "数据追踪简单",
-        "异步模式不支持"
+        "Feature depth limited, question types simple",
+        "Open response support weak",
+        "Gamification level low, motivation limited",
+        "Data tracking simple",
+        "Asynchronous mode not supported"
       ]
     }
   ],
   "faq": [
     {
-      "question": "深度学习评估应该选择哪个工具？",
-      "answer": "深度评估优先推荐Formative，实时查看学生回复过程而非仅看答案，图像音频开放回复支持全方位展示思路，数据报告详尽支持精准诊断和教学调整。适合需要了解学生思路而非仅看答案的场景。"
+      "question": "For deep learning assessment, which tool should I choose?",
+      "answer": "For deep assessment, prioritize Formative. Real-time view student response process not just answers, image audio open response support comprehensively demonstrates thinking, data reports detailed supporting precise diagnosis and teaching adjustments. Suitable for scenarios needing to understand student thinking not just answers."
     },
     {
-      "question": "Quizizz的游戏化激励效果如何？",
-      "answer": "Quizizz游戏化激励效果显著，积分系统、竞争排名、幽默反馈、成就徽章等元素将测验转化为游戏体验。研究表明参与度提升40%，学生主动要求更多测验。适合参与度提升需求强的场景。"
+      "question": "How effective is Quizizz's gamification motivation?",
+      "answer": "Quizizz gamification motivation effect significant. Points system, competition ranking, humorous feedback, achievement badges and other elements transform tests into game experiences. Research shows participation improvement 40%, students actively requesting more tests. Suitable for scenarios with strong participation improvement needs."
     },
     {
-      "question": "Formative和Quizizz的主要区别是什么？",
-      "answer": "Formative专注深度评估，实时追踪回复过程，多元回复支持，数据报告详尽；Quizizz专注游戏化激励，参与度提升显著，异步模式灵活，题库共享丰富。选择依据：深度诊断选Formative，激励驱动选Quizizz。"
+      "question": "What's the main difference between Formative and Quizizz?",
+      "answer": "Formative focuses on deep assessment, real-time tracking response process, multiple response support, data reports detailed; Quizizz focuses on gamification motivation, participation improvement significant, asynchronous mode flexible, question bank sharing rich. Selection basis: deep diagnosis choose Formative, motivation-driven choose Quizizz."
     },
     {
-      "question": "评估创建工具是否支持开放问答？",
-      "answer": "Formative开放问答支持最强，文本、图像、音频多元回复；Quizizz基础支持文本回复；Socrative有限支持文本简答。开放表达需求优先选择Formative，支持全方位展示学习思路。"
+      "question": "Do assessment creation tools support open-ended questions?",
+      "answer": "Formative open-ended question support strongest, text, image, audio multiple responses; Quizizz basic support text response; Socrative limited support text brief answer. Open expression needs prioritize Formative, supporting comprehensively demonstrating learning thinking."
     },
     {
-      "question": "这些工具是否支持课后异步评估？",
-      "answer": "Quizizz异步模式最完善，支持课后布置测验学生自主完成时间控制；Formative和Socrative需实时同步，异步模式受限。课后练习和预习评估场景优先选择Quizizz。"
+      "question": "Do these tools support after-class asynchronous assessment?",
+      "answer": "Quizizz asynchronous mode most complete, supports after-class test assignment students self-complete time control; Formative and Socrative need real-time synchronization, asynchronous mode limited. After-class practice and pre-class assessment scenarios prioritize Quizizz."
     }
   ]
 }

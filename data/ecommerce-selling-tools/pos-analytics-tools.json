@@ -41,5 +41,11 @@
       "question": "How do I export POS analytics data for custom analysis?",
       "answer": "All major POS platforms support CSV export for basic data extraction. Shopify, Lightspeed, and Revel provide Excel export with formatted reports. These platforms also offer API access for automated data pipeline integration with external analysis tools. Lightspeed and Revel support scheduled automated exports. Revel integrates directly with business intelligence tools (Tableau, PowerBI) for enterprise custom analysis."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/ec-pos-analytics-tools-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/ec-pos-analytics-tools-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/ec-pos-analytics-tools-tools-2026"
+  }
 }

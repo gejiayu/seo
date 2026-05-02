@@ -41,5 +41,11 @@
       "question": "What integration capabilities are essential for enterprise chatbots?",
       "answer": "Essential enterprise integrations include CRM systems for customer data, ERP for transaction execution, ITSM for support workflows, knowledge management for information access, and API gateways for custom system connectivity. Integration depth determines chatbot effectiveness within enterprise workflows."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-enterprise-chatbot-software-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-enterprise-chatbot-software-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-enterprise-chatbot-software-tools-2026"
+  }
 }

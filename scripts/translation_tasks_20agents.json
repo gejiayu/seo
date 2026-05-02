@@ -1,0 +1,160 @@
+{
+  "agent-1": [
+    "agricultural-farming-rental-tools",
+    "agriculture-farming-tools",
+    "ai-marketing",
+    "ai-productivity",
+    "airport-aviation-management-tools",
+    "architecture-design-tools"
+  ],
+  "agent-2": [
+    "audio-video-equipment-rental-tools",
+    "auto-dealer-management-tools",
+    "automotive-dealer-dms-tools",
+    "automotive-repair-tools",
+    "banking-financial-services-tools",
+    "beauty-salon-tools"
+  ],
+  "agent-3": [
+    "bike-cycling-rental-tools",
+    "blue-collar-tools",
+    "boat-marine-rental-tools",
+    "camera-photography-rental-tools",
+    "camping-outdoor-gear-rental-tools",
+    "car-vehicle-rental-tools"
+  ],
+  "agent-4": [
+    "casino-gaming-entertainment-tools",
+    "child-care-preschool-tools",
+    "cleaning-maintenance-rental-tools",
+    "construction-building-rental-tools",
+    "construction-contractor-tools",
+    "costume-fashion-rental-tools"
+  ],
+  "agent-5": [
+    "coworking-space-management-tools",
+    "customer-support-tools",
+    "cybersecurity-it-security-tools",
+    "dental-medical-practice-tools",
+    "diving-water-sports-rental-tools",
+    "ecommerce-selling-tools"
+  ],
+  "agent-6": [
+    "education-lms-platform-tools",
+    "education-tools",
+    "education-training-tools",
+    "energy-environmental-tools",
+    "energy-utilities-management",
+    "entertainment-media-production-tools"
+  ],
+  "agent-7": [
+    "event-planning-tools",
+    "finance-accounting-tools",
+    "fishing-gear-rental-tools",
+    "fitness-gym-management",
+    "florist-flower-shop-tools",
+    "food-beverage-distribution-tools"
+  ],
+  "agent-8": [
+    "franchise-business-tools",
+    "furniture-home-rental-tools",
+    "generator-power-rental-tools",
+    "golf-equipment-rental-tools",
+    "government-public-sector-tools",
+    "healthcare-medical-tools"
+  ],
+  "agent-9": [
+    "healthcare-medical-treatment-tools",
+    "healthcare-wellness-tools",
+    "hiking-climbing-gear-rental-tools",
+    "home-services-renovation",
+    "hospitality-restaurant-pos-tools",
+    "hr-recruitment-onboarding-tools"
+  ],
+  "agent-10": [
+    "hr-recruitment-tools",
+    "insurance-agency-tools",
+    "insurance-claims-processing-tools",
+    "jewelry-watch-retail-tools",
+    "kitchen-cooking-rental-tools",
+    "landscaping-grounds-maintenance"
+  ],
+  "agent-11": [
+    "laundry-dry-cleaning-tools",
+    "legal",
+    "legal-compliance-tools",
+    "legal-document-management-tools",
+    "lighting-lamp-rental-tools",
+    "logistics-supply-chain-tools"
+  ],
+  "agent-12": [
+    "logistics-warehouse-management-tools",
+    "machinery-heavy-equipment-rental-tools",
+    "manufacturing-production-tools",
+    "manufacturing-quality-control-tools",
+    "maritime-shipping-tools",
+    "massage-spa-wellness-tools"
+  ],
+  "agent-13": [
+    "medical-equipment-rental-tools",
+    "mining-extraction-tools",
+    "music-audio-production",
+    "nonprofit-charity-tools",
+    "optometry-eye-care-tools",
+    "paintball-laser-tag-rental-tools"
+  ],
+  "agent-14": [
+    "party-event-supplies-rental-tools",
+    "pet-services-tools",
+    "pet-store-pet-supply-tools",
+    "pet-vet-clinic-tools",
+    "pharmaceutical-life-sciences-tools",
+    "photography-video-production"
+  ],
+  "agent-15": [
+    "portable-sanitation-rental-tools",
+    "print-graphic-design-tools",
+    "professional-services-tools",
+    "publishing-media-tools",
+    "real-estate-agent-tools",
+    "real-estate-property-tools"
+  ],
+  "agent-16": [
+    "religious-nonprofit-organization-tools",
+    "remote-tools",
+    "renewable-energy-management-tools",
+    "restaurant-food-service-tools",
+    "retail-ecommerce-operations-tools",
+    "retail-pos-inventory-tools"
+  ],
+  "agent-17": [
+    "scooter-moped-rental-tools",
+    "security-surveillance-rental-tools",
+    "ski-snowboard-rental-tools",
+    "sporting-goods-retail-tools",
+    "sports-equipment-rental-tools",
+    "sports-fitness-tools"
+  ],
+  "agent-18": [
+    "sports-recreation-management",
+    "staffing-recruitment-agency-tools",
+    "staging-rigging-rental-tools",
+    "storage-unit-rental-tools",
+    "subscription-recurring-billing-tools",
+    "telecommunications-network-tools"
+  ],
+  "agent-19": [
+    "tennis-racket-rental-tools",
+    "tent-canopy-rental-tools",
+    "tool-hardware-rental-tools",
+    "transportation-fleet-tools",
+    "travel-agency-tour-operator-tools",
+    "travel-hospitality-tools"
+  ],
+  "agent-20": [
+    "vending-machine-management-tools",
+    "warehouse-inventory-tools",
+    "wedding-event-rental-tools",
+    "wine-spirits-liquor-store-tools"
+  ]
+}

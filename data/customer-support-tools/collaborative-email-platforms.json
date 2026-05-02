@@ -38,5 +38,11 @@
       "question": "Can collaborative email platforms integrate with Slack?",
       "answer": "Yes, Front offers deep Slack integration including notifications, actions, and search capabilities within Slack channels. Help Scout provides Slack notifications for new emails. Most platforms offer some Slack connectivity through integration marketplaces."
     }
-  ]
+  ],
+  "language": "en-US",
+  "canonical_link": "https://www.housecar.life/posts/cs-collaborative-email-platforms-tools-2026",
+  "alternate_links": {
+    "en-US": "https://www.housecar.life/posts/cs-collaborative-email-platforms-tools-2026",
+    "zh-CN": "https://www.housecar.life/zh/posts/cs-collaborative-email-platforms-tools-2026"
+  }
 }
