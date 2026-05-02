@@ -1,8 +1,14 @@
 {
-  "title": "理赔风险评分工具评测：ScoreClaim与RiskAssess对比",
-  "description": "评测理赔风险评分工具，对比ScoreClaim与RiskAssess的风险评分模型、评分维度、评分更新能力，提升理赔风险评估精准度。",
+  "title": "理赔风险评分工具评测：ScoreClaim与RiskAssess对比｜2026年评测",
+  "description": "评测理赔风险评分工具，对比ScoreClaim与RiskAssess的风险评分模型、评分维度、评分更新能力，提升理赔风险评估精准度。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
   "content": "<h2>风险评分工具价值</h2><p>理赔风险评分工具帮助保险公司量化理赔风险，优化风险防控策略。</p><h2>ScoreClaim特色</h2><ul><li>智能评分模型：AI算法风险评分</li><li>多维度评分：按理赔类型、客户历史等多维度评分</li><li>动态评分更新：实时更新风险评分</li><li>评分可视化：风险评分可视化展示</li><li>评分报告生成：自动生成评分报告</li></ul><h2>RiskAssess特色</h2><ul><li>固定评分公式：预设评分公式</li><li>单一维度评分：基础维度评分</li><li>人工评分更新：定期人工更新评分</li><li>人工评分展示：人工展示评分</li><li>人工报告编写：风控人员手动编写</li></ul><h2>评分准确性对比</h2><p>ScoreClaim评分准确率96%，RiskAssess人工评分准确率80%。</p><h2>评分更新频率</h2><p>ScoreClaim评分实时更新，RiskAssess每周更新一次。</p><h2>推荐方案</h2><p>追求风险量化管理的保险公司选择ScoreClaim。</p>",
-  "seo_keywords": ["理赔风险评分", "理赔风险评估", "理赔风险量化", "理赔风险模型", "理赔风险分析"],
+  "seo_keywords": [
+    "理赔风险评分",
+    "理赔风险评估",
+    "理赔风险量化",
+    "理赔风险模型",
+    "理赔风险分析"
+  ],
   "slug": "claims-risk-scoring-tool-2026",
   "published_at": "2026-05-02",
   "author": "保险科技专家"

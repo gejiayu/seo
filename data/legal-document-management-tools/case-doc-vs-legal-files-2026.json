@@ -1,8 +1,14 @@
 {
   "title": "案件文档管理系统评测：CaseDoc vs LegalFiles 2026深度对比",
-  "description": "深度对比CaseDoc与LegalFiles案件文档管理系统，分析案件文档组织、证据管理、法律研究、团队协作等功能，为律师事务所案件管理提供决策参考。",
+  "description": "深度对比CaseDoc与LegalFiles案件文档管理系统，分析案件文档组织、证据管理、法律研究、团队协作等功能，为律师事务所案件管理提供决策参考。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
   "content": "<h2>案件文档管理系统概述</h2><p>案件文档管理系统帮助律师事务所管理案件相关文档、证据、法律研究材料。2026年CaseDoc和LegalFiles是两大主流产品，本文进行深度对比。</p><h2>案件文档组织</h2><table><tr><th>功能</th><th>CaseDoc</th><th>LegalFiles</th></tr><tr><td>文件夹结构</td><td>智能分类、自动归档</td><td>手动创建文件夹</td></tr><tr><td>文档标签</td><td>多维度标签系统</td><td>单一标签</td></tr><tr><td>版本管理</td><td>完整版本历史、对比</td><td>基础版本记录</td></tr><tr><td>OCR识别</td><td>支持扫描件自动识别</td><td>需手动上传PDF</td></tr></table><h2>证据管理</h2><p>CaseDoc提供证据链管理、证据时间线、证据关联分析；LegalFiles仅支持基础证据存储。对于复杂诉讼案件，CaseDoc的证据管理功能更具价值。</p><h2>法律研究集成</h2><p>CaseDoc集成Westlaw、LexisNexis法律数据库，可直接检索并引用；LegalFiles需外部检索后上传。法律研究频繁的律所推荐CaseDoc。</p><h2>团队协作</h2><p>CaseDoc支持实时协作编辑、任务分配、进度追踪；LegalFiles协作功能基础。团队规模超过10人的律所推荐CaseDoc的协作方案。</p><h2>移动端支持</h2><p>CaseDoc移动端功能完整，支持外出办案使用；LegalFiles移动端仅支持查看。需要外出办案的律师推荐CaseDoc。</p><h2>价格与选购建议</h2><p>CaseDoc年费18万元，LegalFiles年费10万元。大型诉讼律所推荐CaseDoc，中小型律所可选择LegalFiles。建议根据案件复杂度和团队规模决策。</p>",
-  "seo_keywords": ["案件文档管理", "证据管理系统", "法律文档归档", "律所案件管理", "法律研究工具"],
+  "seo_keywords": [
+    "案件文档管理",
+    "证据管理系统",
+    "法律文档归档",
+    "律所案件管理",
+    "法律研究工具"
+  ],
   "slug": "case-doc-vs-legal-files-2026",
   "published_at": "2026-05-02",
   "author": "律师事务所管理顾问"

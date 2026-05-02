@@ -1,8 +1,14 @@
 {
-  "title": "理赔文件上传系统评测：DocUploader与FileClaim对比",
-  "description": "评测理赔文件上传系统，对比DocUploader与FileClaim的批量上传、格式支持、压缩存储能力，优化理赔资料提交流程。",
+  "title": "理赔文件上传系统评测：DocUploader与FileClaim对比｜2026年评测",
+  "description": "评测理赔文件上传系统，对比DocUploader与FileClaim的批量上传、格式支持、压缩存储能力，优化理赔资料提交流程。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
   "content": "<h2>文件上传重要性</h2><p>理赔文件上传系统是理赔流程的关键环节，影响理赔审核效率和客户体验。</p><h2>系统对比</h2><h3>DocUploader功能</h3><ul><li>支持PDF、JPG、PNG、DOC等20+格式</li><li>批量上传最大100个文件</li><li>智能压缩节省存储空间</li><li>文件自动分类归档</li><li>OCR文字识别提取</li></ul><h3>FileClaim功能</h3><ul><li>支持10种常见格式</li><li>单文件上传模式</li><li>原始文件存储</li><li>人工分类归档</li><li>无OCR功能</li></ul><h2>性能数据</h2><p>DocUploader上传速度平均2MB/s，FileClaim为1.5MB/s。DocUploader支持并发上传，效率更高。</p><h2>存储成本</h2><p>DocUploader智能压缩可节省40%存储空间，FileClaim存储成本较高。</p><h2>推荐方案</h2><p>理赔量大的保险公司应选择DocUploader，降低存储成本和提升效率。</p>",
-  "seo_keywords": ["理赔文件上传", "理赔资料提交", "理赔文档系统", "理赔证据上传", "理赔材料管理"],
+  "seo_keywords": [
+    "理赔文件上传",
+    "理赔资料提交",
+    "理赔文档系统",
+    "理赔证据上传",
+    "理赔材料管理"
+  ],
   "slug": "claims-document-upload-system-2026",
   "published_at": "2026-05-02",
   "author": "保险科技专家"

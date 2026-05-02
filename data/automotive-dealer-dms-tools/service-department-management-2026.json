@@ -1,8 +1,17 @@
 {
-  "title": "经销商售后服务管理系统评测：ServiceTrack vs WorkshopPro对比",
-  "description": "详细评测汽车经销商服务部门管理系统，对比预约调度、工单管理、技师绩效功能。帮助提升服务部门效率和客户满意度。",
+  "title": "经销商售后服务管理系统评测：ServiceTrack vs WorkshopPro对比｜2026年评测",
+  "description": "详细评测汽车经销商服务部门管理系统，对比预约调度、工单管理、技师绩效功能。帮助提升服务部门效率和客户满意度。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
   "content": "<h2>服务部门挑战</h2><p>售后服务是经销商稳定收入来源和客户维护关键，但常面临预约混乱、工单追踪困难、技师效率低下等问题。专业服务管理系统解决这些痛点。</p><h2>ServiceTrack核心功能</h2><ul><li>在线预约：客户自助预约、智能排期</li><li>工单管理：维修进度实时追踪、客户通知</li><li>技师调度：根据技能、工作量智能分配任务</li><li>配件对接：自动查询配件库存、下单补货</li><li>客户反馈：自动发送满意度调查、投诉处理</li></ul><h2>WorkshopPro核心功能</h2><ul><li>工时标准：内置维修工时参考、技师效率对比</li><li>质量检查：维修后质检流程、问题记录</li><li>技师绩效：工时统计、提成计算、技能评估</li><li>设备管理：维修设备使用记录、维护提醒</li><li>报表分析：服务收入、利润率、客户满意度报表</li></ul><h2>对比分析</h2><table><tr><th>维度</th><th>ServiceTrack</th><th>WorkshopPro</th></tr><tr><td>预约系统</td><td>在线预约+调度</td><td>基础预约</td></tr><tr><td>客户沟通</td><td>自动通知强</td><td>手动通知</td></tr><tr><td>技师管理</td><td>智能调度</td><td>绩效分析强</td></tr><tr><td>移动端</td><td>技师APP</td><td>无专用APP</td></tr></table><h2>定价对比</h2><p>ServiceTrack按技师数收费，$25/技师/月。WorkshopPro按店铺订阅，$499/月/店。大型服务部门建议ServiceTrack，小店选WorkshopPro。</p><h2>实施建议</h2><p>建议先培训技师使用移动端APP，再启用工单管理。与DMS系统集成需预留1周配置。数据迁移需整理历史工单数据。</p>",
-  "seo_keywords": ["售后服务管理", "ServiceTrack评测", "WorkshopPro对比", "服务部门软件", "预约调度系统", "工单管理", "技师绩效追踪", "汽车维修管理"],
+  "seo_keywords": [
+    "售后服务管理",
+    "ServiceTrack评测",
+    "WorkshopPro对比",
+    "服务部门软件",
+    "预约调度系统",
+    "工单管理",
+    "技师绩效追踪",
+    "汽车维修管理"
+  ],
   "slug": "service-department-management-2026",
   "published_at": "2026-05-02",
   "author": "汽车行业专家"

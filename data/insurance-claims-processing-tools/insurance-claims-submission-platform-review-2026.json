@@ -1,8 +1,14 @@
 {
-  "title": "保险理赔申请平台评测：ClaimSubmit vs EasyClaims对比",
+  "title": "保险理赔申请平台评测：ClaimSubmit vs EasyClaims对比｜2026年评测",
   "description": "深度评测保险理赔申请平台，对比在线提交功能、用户体验、系统集成能力，帮助保险公司选择最佳理赔申请解决方案。",
   "content": "<h2>背景介绍</h2><p>保险理赔申请平台是理赔流程的第一道关卡，直接影响客户体验和理赔效率。本文对比评测ClaimSubmit和EasyClaims两大主流平台。</p><h2>功能对比</h2><table><tr><th>功能</th><th>ClaimSubmit</th><th>EasyClaims</th></tr><tr><td>在线申请</td><td>支持多渠道提交</td><td>仅支持Web端</td></tr><tr><td>文件上传</td><td>支持批量上传</td><td>单文件上传</td></tr><tr><td>智能识别</td><td>OCR自动识别</td><td>需人工录入</td></tr><tr><td>API集成</td><td>RESTful API</td><td>SOAP接口</td></tr></table><h2>用户体验</h2><p>ClaimSubmit提供移动端APP，客户可随时随地提交理赔申请。EasyClaims仅支持PC端操作，适合传统理赔场景。</p><h2>推荐选择</h2><p>追求高效理赔流程的保险公司推荐ClaimSubmit，传统理赔场景可选择EasyClaims。</p>",
-  "seo_keywords": ["保险理赔申请", "理赔提交平台", "理赔在线申请", "理赔系统入口", "理赔申请软件"],
+  "seo_keywords": [
+    "保险理赔申请",
+    "理赔提交平台",
+    "理赔在线申请",
+    "理赔系统入口",
+    "理赔申请软件"
+  ],
   "slug": "insurance-claims-submission-platform-review-2026",
   "published_at": "2026-05-02",
   "author": "保险科技专家"

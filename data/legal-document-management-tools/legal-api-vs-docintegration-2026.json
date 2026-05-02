@@ -1,8 +1,14 @@
 {
   "title": "法律文档API集成系统评测：LegalAPI vs DocIntegration 2026对比",
-  "description": "对比评测LegalAPI与DocIntegration法律文档API集成系统，分析API接口、集成能力、集成文档、集成支持功能，为法律文档系统集成提供选购指南。",
+  "description": "对比评测LegalAPI与DocIntegration法律文档API集成系统，分析API接口、集成能力、集成文档、集成支持功能，为法律文档系统集成提供选购指南。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
   "content": "<h2>法律文档API集成系统概述</h2><p>法律文档API集成系统提供API接口、集成其他系统。2026年LegalAPI和DocIntegration是两大专业产品，本文对比评测API集成功能。</p><h2>API接口</h2><table><tr><th>API功能</th><th>LegalAPI</th><th>DocIntegration</th></tr><tr><td>接口数量</td><td>100+API接口</td><td>50+API接口</td></tr><tr><td>接口类型</td><td>RESTful、GraphQL</td><td>RESTful</td></tr><tr><td>接口安全</td><td>OAuth认证、API密钥</td><td>基础API密钥</td></tr><tr><td>接口限流</td><td>智能接口限流</td><td>固定限流</td></tr></table><h2>集成能力</h2><p>LegalAPI集成能力强大，支持CRM集成、ERP集成、OA集成；DocIntegration集成功能基础。需要集成能力的推荐LegalAPI。</p><h2>集成文档</h2><p>DocIntegration集成文档完善，支持详细文档、示例代码、集成指南；LegalAPI文档功能基础。需要集成文档的推荐DocIntegration。</p><h2>集成支持</h2><p>DocIntegration集成支持强大，支持技术支持、集成咨询、集成培训；LegalAPI支持功能基础。需要集成支持的推荐DocIntegration。</p><h2>集成监控</h2><p>LegalAPI集成监控完善，支持API监控、集成监控、监控报告；DocIntegration监控功能基础。需要集成监控的推荐LegalAPI。</p><h2>价格与选购</h2><p>LegalAPI年费12万元；DocIntegration年费10万元。集成能力监控推荐LegalAPI；集成文档支持推荐DocIntegration。</p>",
-  "seo_keywords": ["法律文档API", "系统集成工具", "API接口管理", "文档集成系统", "法律系统集成"],
+  "seo_keywords": [
+    "法律文档API",
+    "系统集成工具",
+    "API接口管理",
+    "文档集成系统",
+    "法律系统集成"
+  ],
   "slug": "legal-api-vs-docintegration-2026",
   "published_at": "2026-05-02",
   "author": "API集成专家"
