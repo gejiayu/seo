@@ -110,22 +110,9 @@ export function getAllPagesList(language: Language = 'en-US'): PageListItem[] {
   }))
 }
 
-export function getPageByCategoryAndSlug(category: string, slug: string, language: Language = 'en-US'): PageData | null {
-  const pages = getAllPages(language)
-  const page = pages.find(
-    (p) => p.category === category && p.slug === slug
-  )
-  return page?.data || null
-}
-
 export function getPageBySlug(slug: string, language: Language = 'en-US'): PageData | null {
   const pages = getAllPages(language)
   return pages.find((p) => p.slug === slug)?.data || null
-}
-
-export function getPagesByCategory(category: string, language: Language = 'en-US'): PageInfo[] {
-  const pages = getAllPages(language)
-  return pages.filter((p) => p.category === category)
 }
 
 export function getAllCategories(language: Language = 'en-US'): string[] {
