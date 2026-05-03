@@ -8,18 +8,18 @@ const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: 'HouseCar - Remote Work Tools & Productivity Guides',
-    description: 'Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.',
+    title: 'HouseCar.life - Business Tools & Software Comparison Guides | Free Your Business',
+    description: 'Comprehensive software comparison guides and business tools reviews for 120+ industries. Find the best solutions for agriculture, automotive, healthcare, construction, and more. Free your business with the right tools.',
     alternates: {
-      canonical: siteUrl, // 首页canonical指向绝对URL
+      canonical: siteUrl,
       languages: {
         'en-US': siteUrl,
         'zh-CN': `${siteUrl}/zh`,
       },
     },
     openGraph: {
-      title: 'HouseCar - Remote Work Tools & Productivity Guides',
-      description: 'Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.',
+      title: 'HouseCar.life - Business Tools & Software Guides',
+      description: 'Comprehensive software comparison guides and business tools reviews for 120+ industries. Free your business with the right tools.',
       url: siteUrl,
       type: 'website',
       siteName: 'HouseCar',
@@ -36,11 +36,13 @@ export default function HomePage() {
     <div className="container mx-auto px-4 py-8">
       <header className="mb-12 text-center">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          HouseCar
-        </h1>
-        <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-          Discover the best remote work tools, productivity guides, and collaboration platforms for modern teams.
-        </p>
+        HouseCar.life - Business Tools & Software Guides
+      </h1>
+      <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+        Comprehensive software comparison guides and business tools reviews for 120+ industries.
+        Find the best solutions for agriculture, automotive, healthcare, construction, and more.
+        Free your business with the right tools.
+      </p>
       </header>
 
       <ArticleList pages={pages} categories={categories} language="en-US" />

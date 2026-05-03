@@ -8,18 +8,18 @@ const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: 'HouseCar - 远程工作工具与生产力指南',
-    description: '发现最佳远程工作工具、生产力指南和协作平台，助力现代团队高效协作。',
+    title: 'HouseCar.life - 商业工具与软件对比指南 | 让业务自由驰骋',
+    description: '覆盖120+行业的软件对比指南和商业工具评测。农业、汽车、医疗、建筑等行业最佳解决方案。选对工具，让业务自由驰骋。',
     alternates: {
-      canonical: siteUrl, // 中文首页canonical指向英文首页（防止重复内容）
+      canonical: siteUrl,
       languages: {
         'en-US': siteUrl,
         'zh-CN': `${siteUrl}/zh`,
       },
     },
     openGraph: {
-      title: 'HouseCar - 远程工作工具与生产力指南',
-      description: '发现最佳远程工作工具、生产力指南和协作平台，助力现代团队高效协作。',
+      title: 'HouseCar.life - 商业工具与软件对比指南',
+      description: '覆盖120+行业的软件对比指南和商业工具评测。选对工具，让业务自由驰骋。',
       url: `${siteUrl}/zh`,
       type: 'website',
       siteName: 'HouseCar',
@@ -36,11 +36,11 @@ export default function ZhHomePage() {
     <div className="container mx-auto px-4 py-8">
       <header className="mb-12 text-center">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          HouseCar
-        </h1>
-        <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-          发现最佳远程工作工具、生产力指南和协作平台，助力现代团队高效协作。
-        </p>
+        HouseCar.life - 商业工具与软件指南
+      </h1>
+      <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+        覆盖120+行业的软件对比指南和商业工具评测。农业、汽车、医疗、建筑等行业最佳解决方案。选对工具，让业务自由驰骋。
+      </p>
       </header>
 
       <ArticleList pages={pages} categories={categories} language="zh-CN" />
