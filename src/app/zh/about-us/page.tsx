@@ -14,9 +14,9 @@ interface PageData {
   author?: string
 }
 
-function getPrivacyPolicyData(): PageData | null {
+function getAboutUsData(): PageData | null {
   try {
-    const filePath = path.join(process.cwd(), 'data/zh/legal/privacy-policy.json')
+    const filePath = path.join(process.cwd(), 'data/zh/legal/about-us.json')
     const content = fs.readFileSync(filePath, 'utf8')
     return JSON.parse(content)
   } catch (error) {
@@ -27,10 +27,10 @@ function getPrivacyPolicyData(): PageData | null {
 const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 
 export async function generateMetadata(): Promise<Metadata> {
-  const data = getPrivacyPolicyData()
+  const data = getAboutUsData()
 
   if (!data) {
-    return { title: '隐私政策' }
+    return { title: '关于我们' }
   }
 
   return {
@@ -38,13 +38,18 @@ export async function generateMetadata(): Promise<Metadata> {
     description: data.description,
     keywords: data.seo_keywords,
     alternates: {
-      canonical: `${siteUrl}/zh/privacy-policy`,
+      canonical: `${siteUrl}/zh/about-us`,
+      languages: {
+        'en-US': `${siteUrl}/about-us`,
+        'zh-CN': `${siteUrl}/zh/about-us`,
+      },
     },
     openGraph: {
       title: data.title,
       description: data.description,
       type: 'article',
-      url: `${siteUrl}/zh/privacy-policy`,
+      url: `${siteUrl}/zh/about-us`,
+      locale: 'zh_CN',
     },
     twitter: {
       card: 'summary_large_image',
@@ -54,15 +59,15 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-export default function PrivacyPolicyPage() {
-  const data = getPrivacyPolicyData()
+export default function AboutUsPage() {
+  const data = getAboutUsData()
   const currentSiteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 
   if (!data) {
     return (
       <div className="container mx-auto px-4 py-8 max-w-4xl">
-        <h1 className="text-3xl font-bold text-gray-900 mb-4">隐私政策</h1>
-        <p className="text-gray-600">隐私政策内容正在更新中。</p>
+        <h1 className="text-3xl font-bold text-gray-900 mb-4">关于我们</h1>
+        <p className="text-gray-600">关于我们内容正在更新中。</p>
       </div>
     )
   }
@@ -72,7 +77,7 @@ export default function PrivacyPolicyPage() {
     '@type': 'Article',
     headline: data.title,
     description: data.description,
-    url: `${currentSiteUrl}/zh/privacy-policy`,
+    url: `${currentSiteUrl}/zh/about-us`,
     datePublished: data.published_at,
     dateModified: data.published_at,
     author: {
@@ -86,14 +91,14 @@ export default function PrivacyPolicyPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `${siteUrl}/zh/privacy-policy`,
+      '@id': `${siteUrl}/zh/about-us`,
     },
   }
 
   return (
     <>
       <Script
-        id="privacy-policy-schema-zh"
+        id="about-us-schema-zh"
         type="application/ld+json"
         strategy="beforeInteractive"
       >
@@ -104,7 +109,7 @@ export default function PrivacyPolicyPage() {
         <header className="mb-8">
           <div className="mb-4">
             <span className="text-sm font-medium text-blue-600 uppercase tracking-wide">
-              法律条款
+              关于
             </span>
           </div>
           <h1 className="text-3xl font-bold text-gray-900 mb-4">
@@ -116,7 +121,7 @@ export default function PrivacyPolicyPage() {
 
           <div className="flex flex-wrap gap-4 text-sm text-gray-500">
             {data.published_at && (
-              <span>生效日期: {data.published_at}</span>
+              <span>发布时间: {data.published_at}</span>
             )}
             {data.author && (
               <span>作者: {data.author}</span>

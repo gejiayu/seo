@@ -39,12 +39,17 @@ export async function generateMetadata(): Promise<Metadata> {
     keywords: data.seo_keywords,
     alternates: {
       canonical: `${siteUrl}/zh/terms-of-service`,
+      languages: {
+        'en-US': `${siteUrl}/terms-of-service`,
+        'zh-CN': `${siteUrl}/zh/terms-of-service`,
+      },
     },
     openGraph: {
       title: data.title,
       description: data.description,
       type: 'article',
       url: `${siteUrl}/zh/terms-of-service`,
+      locale: 'zh_CN',
     },
     twitter: {
       card: 'summary_large_image',
