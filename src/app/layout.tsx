@@ -11,6 +11,10 @@ export const metadata: Metadata = {
     template: '%s | HouseCar',
   },
   description: 'Programmatic SEO content pages generated from structured data',
+  icons: {
+    icon: '/icon.png',
+    apple: '/icon.png',
+  },
 }
 
 const websiteSchema = {
