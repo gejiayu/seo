@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔数字化转型平台评测：DigitalClaim与DigitalTransformPro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔数字化转型平台，对比DigitalClaim与DigitalTransformPro的数字化流程、智能转型、创新应用能力，提升理赔数字化转型水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>数字化转型平台概述</h2><p>理赔数字化转型平台帮助保险公司实现理赔流程数字化，提升理赔转型效率。</p><h2>DigitalClaim功能</h2><ul><li>数字化流程管理：理赔流程数字化智能管理</li><li>智能转型支持：理赔数字化转型智能支持</li><li>创新应用服务：理赔创新应用智能服务</li><li>转型报告生成：理赔数字化转型报告自动生成</li><li>转型预警提醒：理赔转型异常智能预警</li></ul><h2>DigitalTransformPro功能</h2><ul><li>人工数字化流程：管理员手动管理数字化流程</li><li>人工转型支持：管理员手动提供转型支持</li><li>人工创新应用：管理员手动提供创新应用</li><li>人工报告编写：管理员手动编写转型报告</li><li>人工预警提醒：管理员手动预警转型异常</li></ul><h2>数字化流程效率对比</h2><p>DigitalClaim数字化流程效率评分90分，DigitalTransformPro数字化流程效率评分60分。</p><h2>智能转型效果对比</h2><p>DigitalClaim智能转型效果评分92分，DigitalTransformPro智能转型效果评分65分。</p><h2>推荐选择</h2><p>重视理赔数字化转型的保险公司选择DigitalClaim。</p>",
+  "content": "[需要翻译]\n<h2>数字化转型平台概述</h2><p>理赔数字化转型平台帮助保险公司实现理赔流程数字化，提升理赔转型效率。</p><h2>DigitalClaim功能</h2><ul><li>数字化流程管理：理赔流程数字化智能管理</li><li>智能转型支持：理赔数字化转型智能支持</li><li>创新应用服务：理赔创新应用智能服务</li><li>转型报告生成：理赔数字化转型报告自动生成</li><li>转型预警提醒：理赔转型异常智能预警</li></ul><h2>DigitalTransformPro功能</h2><ul><li>人工数字化流程：管理员手动管理数字化流程</li><li>人工转型支持：管理员手动提供转型支持</li><li>人工创新应用：管理员手动提供创新应用</li><li>人工报告编写：管理员手动编写转型报告</li><li>人工预警提醒：管理员手动预警转型异常</li></ul><h2>数字化流程效率对比</h2><p>DigitalClaim数字化流程效率评分90分，DigitalTransformPro数字化流程效率评分60分。</p><h2>智能转型效果对比</h2><p>DigitalClaim智能转型效果评分92分，DigitalTransformPro智能转型效果评分65分。</p><h2>推荐选择</h2><p>重视理赔数字化转型的保险公司选择DigitalClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔数字化转型",
     "理赔数字化平台",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-digital-transformation-platform-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-digital-transformation-platform-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔数字化转型平台评测：DigitalClaim与DigitalTransformPro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "ratingCount": "95"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

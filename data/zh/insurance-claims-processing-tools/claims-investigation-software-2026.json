@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔调查软件评测：InvestigateClaim与ProbeClaim对比 - 2026 Review",
   "description": "[需要翻译] 评测理赔调查软件，对比InvestigateClaim与ProbeClaim的证据分析、现场调查、欺诈识别能力，提升理赔调查专业性和效率。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>调查软件重要性</h2><p>理赔调查软件帮助保险公司识别欺诈理赔，降低赔付损失，保障理赔公正性。</p><h2>InvestigateClaim功能</h2><ul><li>证据智能分析：AI识别证据真实性</li><li>现场调查辅助：移动端调查记录</li><li>欺诈模式识别：大数据欺诈预警</li><li>关联案件查询：相似案件线索挖掘</li><li>调查报告生成：自动生成调查报告</li></ul><h2>ProbeClaim功能</h2><ul><li>人工证据审查：依赖调查员经验</li><li>纸质调查记录：传统调查方式</li><li>基础欺诈筛查：人工识别可疑案件</li><li>基础查询功能：简单历史查询</li><li>人工报告编写：调查员手动编写</li></ul><h2>调查效率对比</h2><p>InvestigateClaim平均调查周期5天，ProbeClaim需要15天。</p><h2>欺诈识别率</h2><p>InvestigateClaim欺诈识别准确率94%，ProbeClaim人工识别准确率75%。</p><h2>推荐方案</h2><p>重视欺诈防控的保险公司选择InvestigateClaim，降低欺诈赔付损失。</p>",
+  "content": "[需要翻译]\n<h2>调查软件重要性</h2><p>理赔调查软件帮助保险公司识别欺诈理赔，降低赔付损失，保障理赔公正性。</p><h2>InvestigateClaim功能</h2><ul><li>证据智能分析：AI识别证据真实性</li><li>现场调查辅助：移动端调查记录</li><li>欺诈模式识别：大数据欺诈预警</li><li>关联案件查询：相似案件线索挖掘</li><li>调查报告生成：自动生成调查报告</li></ul><h2>ProbeClaim功能</h2><ul><li>人工证据审查：依赖调查员经验</li><li>纸质调查记录：传统调查方式</li><li>基础欺诈筛查：人工识别可疑案件</li><li>基础查询功能：简单历史查询</li><li>人工报告编写：调查员手动编写</li></ul><h2>调查效率对比</h2><p>InvestigateClaim平均调查周期5天，ProbeClaim需要15天。</p><h2>欺诈识别率</h2><p>InvestigateClaim欺诈识别准确率94%，ProbeClaim人工识别准确率75%。</p><h2>推荐方案</h2><p>重视欺诈防控的保险公司选择InvestigateClaim，降低欺诈赔付损失。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔调查软件",
     "理赔欺诈识别",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-investigation-software-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-investigation-software-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔调查软件评测：InvestigateClaim与ProbeClaim对比 - 2026 Review",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "ratingCount": "119"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

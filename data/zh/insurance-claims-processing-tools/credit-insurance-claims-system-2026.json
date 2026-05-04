@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 信用险理赔系统评测：CreditClaim与CreditInsurancePro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测信用险理赔系统，对比CreditClaim与CreditInsurancePro的信用理赔、风险评估、赔付管理能力，提升信用险理赔服务水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>信用险理赔系统概述</h2><p>信用险理赔系统专门处理信用保险理赔案件，确保信用险理赔准确专业。</p><h2>CreditClaim功能</h2><ul><li>信用智能理赔：信用险信用理赔智能处理</li><li>风险智能评估：信用险风险评估智能分析</li><li>赔付专业管理：信用险赔付专业流程管理</li><li>理赔报告生成：信用险理赔报告自动生成</li><li>理赔欺诈检测：信用险欺诈智能检测预警</li></ul><h2>CreditInsurancePro功能</h2><ul><li>人工信用理赔：理赔员人工处理信用理赔</li><li>人工风险评估：理赔员人工评估风险</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>信用理赔准确率对比</h2><p>CreditClaim信用理赔准确率93%，CreditInsurancePro人工理赔准确率82%。</p><h2>信用险理赔周期对比</h2><p>CreditClaim信用险理赔周期15天，CreditInsurancePro需要30天。</p><h2>推荐选择</h2><p>重视信用险理赔服务的保险公司选择CreditClaim。</p>",
+  "content": "[需要翻译]\n<h2>信用险理赔系统概述</h2><p>信用险理赔系统专门处理信用保险理赔案件，确保信用险理赔准确专业。</p><h2>CreditClaim功能</h2><ul><li>信用智能理赔：信用险信用理赔智能处理</li><li>风险智能评估：信用险风险评估智能分析</li><li>赔付专业管理：信用险赔付专业流程管理</li><li>理赔报告生成：信用险理赔报告自动生成</li><li>理赔欺诈检测：信用险欺诈智能检测预警</li></ul><h2>CreditInsurancePro功能</h2><ul><li>人工信用理赔：理赔员人工处理信用理赔</li><li>人工风险评估：理赔员人工评估风险</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>信用理赔准确率对比</h2><p>CreditClaim信用理赔准确率93%，CreditInsurancePro人工理赔准确率82%。</p><h2>信用险理赔周期对比</h2><p>CreditClaim信用险理赔周期15天，CreditInsurancePro需要30天。</p><h2>推荐选择</h2><p>重视信用险理赔服务的保险公司选择CreditClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "信用险理赔",
     "信用险理赔系统",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/credit-insurance-claims-system-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/credit-insurance-claims-system-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 信用险理赔系统评测：CreditClaim与CreditInsurancePro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "106"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

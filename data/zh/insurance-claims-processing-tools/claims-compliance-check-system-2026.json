@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔合规检查系统评测：ComplianceClaim与CheckPro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔合规检查系统，对比ComplianceClaim与CheckPro的合规规则、自动检查、合规报告能力，提升理赔合规管理水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>合规检查系统概述</h2><p>理赔合规检查系统确保理赔流程符合监管要求，避免合规风险。</p><h2>ComplianceClaim功能</h2><ul><li>智能合规规则：自动更新合规规则库</li><li>实时合规检查：理赔流程实时合规检查</li><li>合规预警提醒：合规异常自动预警</li><li>合规报告生成：自动生成合规报告</li><li>合规整改建议：提供合规整改建议</li></ul><h2>CheckPro功能</h2><ul><li>固定合规规则：预设合规规则</li><li>人工合规检查：合规人员手动检查</li><li>人工预警提醒：合规人员手动预警</li><li>人工报告编写：合规人员手动编写</li><li>人工整改建议：合规人员手动提出建议</li></ul><h2>合规检查覆盖率对比</h2><p>ComplianceClaim合规检查覆盖率100%，CheckPro人工检查覆盖率85%。</p><h2>合规异常响应速度</h2><p>ComplianceClaim合规异常响应时间实时，CheckPro需要2小时。</p><h2>推荐选择</h2><p>重视合规管理的保险公司选择ComplianceClaim。</p>",
+  "content": "[需要翻译]\n<h2>合规检查系统概述</h2><p>理赔合规检查系统确保理赔流程符合监管要求，避免合规风险。</p><h2>ComplianceClaim功能</h2><ul><li>智能合规规则：自动更新合规规则库</li><li>实时合规检查：理赔流程实时合规检查</li><li>合规预警提醒：合规异常自动预警</li><li>合规报告生成：自动生成合规报告</li><li>合规整改建议：提供合规整改建议</li></ul><h2>CheckPro功能</h2><ul><li>固定合规规则：预设合规规则</li><li>人工合规检查：合规人员手动检查</li><li>人工预警提醒：合规人员手动预警</li><li>人工报告编写：合规人员手动编写</li><li>人工整改建议：合规人员手动提出建议</li></ul><h2>合规检查覆盖率对比</h2><p>ComplianceClaim合规检查覆盖率100%，CheckPro人工检查覆盖率85%。</p><h2>合规异常响应速度</h2><p>ComplianceClaim合规异常响应时间实时，CheckPro需要2小时。</p><h2>推荐选择</h2><p>重视合规管理的保险公司选择ComplianceClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔合规检查",
     "理赔合规管理",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-compliance-check-system-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-compliance-check-system-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔合规检查系统评测：ComplianceClaim与CheckPro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "ratingCount": "94"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

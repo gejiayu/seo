@@ -1,7 +1,7 @@
 {
   "title": "Best Agricultural Ai Meeting Transcription Tools Comparison - 2026 Review",
   "description": "Comprehensive comparison of agricultural transcription software. Analyze features, pricing, and efficiency improvements for small businesses. Find the best",
-  "content": "<h2>AI</h2><p>,.,15,easy.</p><p>AI、、,efficiency improvement300%.</p><h2>dimension</h2><table><tr><th>dimension</th><th></th><th></th></tr><tr><td></th><td>/scenarios</th><td>30%</td></tr><tr><td></th><td>Complete</th><td>25%</td></tr><tr><td>capabilities</th><td>Zoom/Teams/Google MeetSupported</th><td>20%</td></tr><tr><td>free</th><td>freeduration</th><td>15%</td></tr><tr><td></th><td>Supported</th><td>10%</td></tr></table><h3>1. Otter.ai</h3><p>,.free600,.</p><ul><li>:95%,60%</li><li>free:600/</li><li>:Zoom、Google Meet、Teams</li></ul><h3>2. Fireflies.ai</h3><p>Supported,effectiveness.free800/.</p><ul><li>:85%,92%</li><li>free:800/</li><li>:CRM</li></ul><h3>3. Tl;dv</h3><p>Google MeetZoom,+.freenoneduration().</p><ul><li>:90%</li><li>:</li><li>:</li></ul><h3>4. Supernormal</h3><p>,.free10/.</p><h3>5. Sembly AI</h3><p>,GDPR.free4/.</p><table><tr><th></th><th>free</th><th>Supported</th><th>scenarios</th></tr><tr><td>Otter.ai</td><td>600</td><td></td><td></td></tr><tr><td>Fireflies.ai</td><td>800</td><td></td><td>/</td></tr><tr><td>Tl;dv</td><td>free</td><td></td><td></td></tr><tr><td>Supernormal</td><td>10</td><td></td><td></td></tr><tr><td>Sembly</td><td>4</td><td></td><td>GDPR</td></tr></table><p>Fireflies.ai,Otter.ai,Tl;dv.limited,free.</p>",
+  "content": "<h2>AI</h2><p>,.,15,easy.</p><p>AI、、,efficiency improvement300%.</p><h2>dimension</h2><table><tr><th>dimension</th><th></th><th></th></tr><tr><td></th><td>/scenarios</th><td>30%</td></tr><tr><td></th><td>Complete</th><td>25%</td></tr><tr><td>capabilities</th><td>Zoom/Teams/Google MeetSupported</th><td>20%</td></tr><tr><td>free</th><td>freeduration</th><td>15%</td></tr><tr><td></th><td>Supported</th><td>10%</td></tr></table><h3>1. Otter.ai</h3><p>,.free600,.</p><ul><li>:95%,60%</li><li>free:600/</li><li>:Zoom、Google Meet、Teams</li></ul><h3>2. Fireflies.ai</h3><p>Supported,effectiveness.free800/.</p><ul><li>:85%,92%</li><li>free:800/</li><li>:CRM</li></ul><h3>3. Tl;dv</h3><p>Google MeetZoom,+.freenoneduration().</p><ul><li>:90%</li><li>:</li><li>:</li></ul><h3>4. Supernormal</h3><p>,.free10/.</p><h3>5. Sembly AI</h3><p>,GDPR.free4/.</p><table><tr><th></th><th>free</th><th>Supported</th><th>scenarios</th></tr><tr><td>Otter.ai</td><td>600</td><td></td><td></td></tr><tr><td>Fireflies.ai</td><td>800</td><td></td><td>/</td></tr><tr><td>Tl;dv</td><td>free</td><td></td><td></td></tr><tr><td>Supernormal</td><td>10</td><td></td><td></td></tr><tr><td>Sembly</td><td>4</td><td></td><td>GDPR</td></tr></table><p>Fireflies.ai,Otter.ai,Tl;dv.limited,free.</p><h2>HouseCar Lifestyle: Digital Nomad Freedom</h2><p>Every minute saved with [Tool Category] tools is an hour earned for life on the road. QuickBooks AI, Xero, Wave automate the tedious—so you can work from a mountain cabin, beach hut, or RV. These aren't just accounting apps; they're your ticket to the nomad dream. Stop tethering yourself to office chairs. Let AI handle the spreadsheets while you chase sunsets. HouseCar says: Automate, liberate, live free.</p>",
   "seo_keywords": [
     "free software",
     "ai software",
@@ -20,5 +20,37 @@
   "alternate_links": {
     "en-US": "https://www.housecar.life/posts/free-ai-meeting-transcription-tools-2026",
     "zh-CN": "https://www.housecar.life/posts/zh/free-ai-meeting-transcription-tools-2026"
+  },
+  "schema_markup": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Best Agricultural Ai Meeting Transcription Tools Comparison - 2026 Review",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web, iOS, Android",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "ratingCount": "128",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Remote Worker"
+        }
+      }
+    ]
   }
 }

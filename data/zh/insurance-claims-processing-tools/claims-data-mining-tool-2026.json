@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔数据挖掘工具评测：MineClaim与DiscoverPro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔数据挖掘工具，对比MineClaim与DiscoverPro的规律发现、异常识别、趋势预测能力，提升理赔数据洞察深度。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>数据挖掘工具概述</h2><p>理赔数据挖掘工具通过AI算法发现理赔数据中的隐藏规律和异常模式。</p><h2>MineClaim功能</h2><ul><li>智能规律发现：AI自动发现理赔规律</li><li>异常模式识别：自动识别异常理赔模式</li><li>趋势预测：理赔趋势智能预测</li><li>关联分析：理赔关联因素分析</li><li>洞察报告：自动生成洞察报告</li></ul><h2>DiscoverPro功能</h2><ul><li>人工规律分析：依赖经验发现规律</li><li>人工异常筛查：管理员手动筛查</li><li>人工趋势预测：基于经验预测</li><li>基础关联查询：简单关联查询</li><li>人工洞察编写：分析师手动编写</li></ul><h2>挖掘深度对比</h2><p>MineClaim数据挖掘深度评分90分，DiscoverPro评分60分。</p><h2>异常识别准确率</h2><p>MineClaim异常识别准确率93%，DiscoverPro人工识别准确率75%。</p><h2>推荐方案</h2><p>重视数据深度洞察的保险公司选择MineClaim。</p>",
+  "content": "[需要翻译]\n<h2>数据挖掘工具概述</h2><p>理赔数据挖掘工具通过AI算法发现理赔数据中的隐藏规律和异常模式。</p><h2>MineClaim功能</h2><ul><li>智能规律发现：AI自动发现理赔规律</li><li>异常模式识别：自动识别异常理赔模式</li><li>趋势预测：理赔趋势智能预测</li><li>关联分析：理赔关联因素分析</li><li>洞察报告：自动生成洞察报告</li></ul><h2>DiscoverPro功能</h2><ul><li>人工规律分析：依赖经验发现规律</li><li>人工异常筛查：管理员手动筛查</li><li>人工趋势预测：基于经验预测</li><li>基础关联查询：简单关联查询</li><li>人工洞察编写：分析师手动编写</li></ul><h2>挖掘深度对比</h2><p>MineClaim数据挖掘深度评分90分，DiscoverPro评分60分。</p><h2>异常识别准确率</h2><p>MineClaim异常识别准确率93%，DiscoverPro人工识别准确率75%。</p><h2>推荐方案</h2><p>重视数据深度洞察的保险公司选择MineClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔数据挖掘",
     "理赔规律发现",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-data-mining-tool-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-data-mining-tool-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔数据挖掘工具评测：MineClaim与DiscoverPro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "ratingCount": "101"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

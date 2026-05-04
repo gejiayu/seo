@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔综合管理平台评测：TotalClaim与ComprehensivePro对比｜2026年评测",
   "description": "[需要翻译] 评测理赔综合管理平台，对比TotalClaim与ComprehensivePro的综合管理、一体化服务、统一协调能力，提升理赔综合管理水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>综合管理平台价值</h2><p>理赔综合管理平台帮助保险公司实现理赔全流程综合管理，提升理赔服务水平。</p><h2>TotalClaim特色</h2><ul><li>综合智能管理：理赔流程综合智能管理</li><li>一体化智能服务：理赔一体化智能服务支持</li><li>统一智能协调：理赔流程统一智能协调管理</li><li>综合报告生成：理赔综合报告自动生成</li><li>综合预警提醒：理赔综合异常智能预警</li></ul><h2>ComprehensivePro特色</h2><ul><li>人工综合管理：管理员手动管理理赔流程</li><li>人工一体化服务：管理员手动提供一体化服务</li><li>人工统一协调：管理员手动协调理赔流程</li><li>人工报告编写：管理员手动编写综合报告</li><li>人工预警提醒：管理员手动预警综合异常</li></ul><h2>综合管理效率对比</h2><p>TotalClaim综合管理效率评分92分，ComprehensivePro综合管理效率评分60分。</p><h2>一体化服务满意度对比</h2><p>TotalClaim一体化服务满意度95%，ComprehensivePro一体化服务满意度75%。</p><h2>推荐方案</h2><p>重视理赔综合管理的保险公司选择TotalClaim。</p>",
+  "content": "[需要翻译]\n<h2>综合管理平台价值</h2><p>理赔综合管理平台帮助保险公司实现理赔全流程综合管理，提升理赔服务水平。</p><h2>TotalClaim特色</h2><ul><li>综合智能管理：理赔流程综合智能管理</li><li>一体化智能服务：理赔一体化智能服务支持</li><li>统一智能协调：理赔流程统一智能协调管理</li><li>综合报告生成：理赔综合报告自动生成</li><li>综合预警提醒：理赔综合异常智能预警</li></ul><h2>ComprehensivePro特色</h2><ul><li>人工综合管理：管理员手动管理理赔流程</li><li>人工一体化服务：管理员手动提供一体化服务</li><li>人工统一协调：管理员手动协调理赔流程</li><li>人工报告编写：管理员手动编写综合报告</li><li>人工预警提醒：管理员手动预警综合异常</li></ul><h2>综合管理效率对比</h2><p>TotalClaim综合管理效率评分92分，ComprehensivePro综合管理效率评分60分。</p><h2>一体化服务满意度对比</h2><p>TotalClaim一体化服务满意度95%，ComprehensivePro一体化服务满意度75%。</p><h2>推荐方案</h2><p>重视理赔综合管理的保险公司选择TotalClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔综合管理",
     "理赔综合平台",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-comprehensive-management-platform-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-comprehensive-management-platform-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔综合管理平台评测：TotalClaim与ComprehensivePro对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "102"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

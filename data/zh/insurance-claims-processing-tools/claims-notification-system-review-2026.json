@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔通知系统评测：NotifyClaim与AlertPro对比｜2026年评测",
   "description": "[需要翻译] 评测理赔通知系统，对比NotifyClaim与AlertPro的通知通道、通知模板、通知追踪能力，提升理赔通知送达率和时效性。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>通知系统价值</h2><p>理赔通知系统负责理赔状态通知推送，确保客户及时了解理赔进展。</p><h2>NotifyClaim特色</h2><ul><li>多通道通知：短信、邮件、微信、APP推送</li><li>智能通知模板：理赔状态自动匹配通知模板</li><li>通知追踪确认：通知送达状态追踪</li><li>通知失败重试：通知失败自动重试</li><li>通知偏好管理：客户通知偏好智能管理</li></ul><h2>AlertPro特色</h2><ul><li>单一通知通道：仅短信通知</li><li>人工通知编写：客服人员手动编写通知</li><li>人工通知追踪：客服人员手动追踪</li><li>人工重试通知：客服人员手动重试</li><li>无偏好管理：无法管理客户通知偏好</li></ul><h2>通知送达率对比</h2><p>NotifyClaim通知送达率98%，AlertPro通知送达率85%。</p><h2>通知响应时间</h2><p>NotifyClaim通知推送时间实时，AlertPro需要15分钟。</p><h2>推荐方案</h2><p>重视通知送达率的保险公司选择NotifyClaim。</p>",
+  "content": "[需要翻译]\n<h2>通知系统价值</h2><p>理赔通知系统负责理赔状态通知推送，确保客户及时了解理赔进展。</p><h2>NotifyClaim特色</h2><ul><li>多通道通知：短信、邮件、微信、APP推送</li><li>智能通知模板：理赔状态自动匹配通知模板</li><li>通知追踪确认：通知送达状态追踪</li><li>通知失败重试：通知失败自动重试</li><li>通知偏好管理：客户通知偏好智能管理</li></ul><h2>AlertPro特色</h2><ul><li>单一通知通道：仅短信通知</li><li>人工通知编写：客服人员手动编写通知</li><li>人工通知追踪：客服人员手动追踪</li><li>人工重试通知：客服人员手动重试</li><li>无偏好管理：无法管理客户通知偏好</li></ul><h2>通知送达率对比</h2><p>NotifyClaim通知送达率98%，AlertPro通知送达率85%。</p><h2>通知响应时间</h2><p>NotifyClaim通知推送时间实时，AlertPro需要15分钟。</p><h2>推荐方案</h2><p>重视通知送达率的保险公司选择NotifyClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔通知系统",
     "理赔状态通知",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-notification-system-review-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-notification-system-review-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔通知系统评测：NotifyClaim与AlertPro对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "118"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

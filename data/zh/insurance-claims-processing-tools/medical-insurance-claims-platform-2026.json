@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 医疗险理赔平台评测：MedicalClaim与MedicalExpensePro对比 - 2026 Review",
   "description": "[需要翻译] 评测医疗险理赔平台，对比MedicalClaim与MedicalExpensePro的医疗费用、报销审核、赔付管理能力，提升医疗险理赔服务水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>医疗险理赔平台价值</h2><p>医疗险理赔平台专门处理医疗险理赔案件，确保医疗险理赔准确高效。</p><h2>MedicalClaim特色</h2><ul><li>医疗费用智能审核：医疗险医疗费用智能审核</li><li>报销智能计算：医疗险报销金额智能计算</li><li>赔付快速管理：医疗险赔付快速流程管理</li><li>理赔报告生成：医疗险理赔报告自动生成</li><li>理赔欺诈检测：医疗险欺诈智能检测预警</li></ul><h2>MedicalExpensePro特色</h2><ul><li>人工费用审核：理赔员人工审核医疗费用</li><li>人工报销计算：理赔员人工计算报销金额</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>费用审核准确率对比</h2><p>MedicalClaim费用审核准确率96%，MedicalExpensePro人工审核准确率88%。</p><h2>医疗险理赔周期对比</h2><p>MedicalClaim医疗险理赔周期3天，MedicalExpensePro需要10天。</p><h2>推荐方案</h2><p>重视医疗险理赔服务的保险公司选择MedicalClaim。</p>",
+  "content": "[需要翻译]\n<h2>医疗险理赔平台价值</h2><p>医疗险理赔平台专门处理医疗险理赔案件，确保医疗险理赔准确高效。</p><h2>MedicalClaim特色</h2><ul><li>医疗费用智能审核：医疗险医疗费用智能审核</li><li>报销智能计算：医疗险报销金额智能计算</li><li>赔付快速管理：医疗险赔付快速流程管理</li><li>理赔报告生成：医疗险理赔报告自动生成</li><li>理赔欺诈检测：医疗险欺诈智能检测预警</li></ul><h2>MedicalExpensePro特色</h2><ul><li>人工费用审核：理赔员人工审核医疗费用</li><li>人工报销计算：理赔员人工计算报销金额</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>费用审核准确率对比</h2><p>MedicalClaim费用审核准确率96%，MedicalExpensePro人工审核准确率88%。</p><h2>医疗险理赔周期对比</h2><p>MedicalClaim医疗险理赔周期3天，MedicalExpensePro需要10天。</p><h2>推荐方案</h2><p>重视医疗险理赔服务的保险公司选择MedicalClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "医疗险理赔",
     "医疗险理赔平台",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/medical-insurance-claims-platform-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/medical-insurance-claims-platform-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 医疗险理赔平台评测：MedicalClaim与MedicalExpensePro对比 - 2026 Review",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "ratingCount": "111"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

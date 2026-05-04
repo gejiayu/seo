@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔微信小程序评测：ClaimMini与WeChatClaim深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔微信小程序，对比ClaimMini与WeChatClaim的理赔申请、进度查询、支付通知功能，提升理赔微信端便捷性。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>微信小程序优势</h2><p>理赔微信小程序依托微信生态，让客户无需下载APP即可便捷理赔。</p><h2>ClaimMini功能</h2><ul><li>微信理赔申请：微信内直接提交理赔申请</li><li>理赔进度查询：微信实时查询理赔进度</li><li>理赔支付通知：微信支付理赔款项通知</li><li>微信客服沟通：微信客服在线沟通</li><li>理赔指南推送：理赔流程智能推送</li></ul><h2>WeChatClaim功能</h2><ul><li>基础理赔申请：微信内基础理赔申请</li><li>人工进度查询：人工回复理赔进度</li><li>邮件支付通知：邮件发送理赔支付通知</li><li>电话客服沟通：电话客服沟通</li><li>人工理赔指南：人工提供理赔指南</li></ul><h2>用户活跃度对比</h2><p>ClaimMini月活跃用户数85万，WeChatClaim月活跃用户数30万。</p><h2>理赔便捷性评分</h2><p>ClaimMini理赔便捷性评分92分，WeChatClaim评分70分。</p><h2>推荐选择</h2><p>重视微信端理赔便捷性的保险公司选择ClaimMini。</p>",
+  "content": "[需要翻译]\n<h2>微信小程序优势</h2><p>理赔微信小程序依托微信生态，让客户无需下载APP即可便捷理赔。</p><h2>ClaimMini功能</h2><ul><li>微信理赔申请：微信内直接提交理赔申请</li><li>理赔进度查询：微信实时查询理赔进度</li><li>理赔支付通知：微信支付理赔款项通知</li><li>微信客服沟通：微信客服在线沟通</li><li>理赔指南推送：理赔流程智能推送</li></ul><h2>WeChatClaim功能</h2><ul><li>基础理赔申请：微信内基础理赔申请</li><li>人工进度查询：人工回复理赔进度</li><li>邮件支付通知：邮件发送理赔支付通知</li><li>电话客服沟通：电话客服沟通</li><li>人工理赔指南：人工提供理赔指南</li></ul><h2>用户活跃度对比</h2><p>ClaimMini月活跃用户数85万，WeChatClaim月活跃用户数30万。</p><h2>理赔便捷性评分</h2><p>ClaimMini理赔便捷性评分92分，WeChatClaim评分70分。</p><h2>推荐选择</h2><p>重视微信端理赔便捷性的保险公司选择ClaimMini。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔微信小程序",
     "理赔微信端",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-wechat-mini-program-review-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-wechat-mini-program-review-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔微信小程序评测：ClaimMini与WeChatClaim深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "105"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

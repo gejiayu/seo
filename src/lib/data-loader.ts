@@ -121,6 +121,11 @@ export function getAllCategories(language: Language = 'en-US'): string[] {
   return Array.from(categories).sort()
 }
 
+export function getPagesByCategory(category: string, language: Language = 'en-US'): PageInfo[] {
+  const pages = getAllPages(language)
+  return pages.filter((p) => p.category === category)
+}
+
 export function getAllPagePaths(language: Language = 'en-US'): Array<{ category: string; slug: string }> {
   const pages = getAllPages(language)
   return pages.map((p) => ({

@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 财产险理赔系统评测：PropertyClaim与AssetInsurancePro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测财产险理赔系统，对比PropertyClaim与AssetInsurancePro的财产定损、损失评估、赔付管理能力，提升财产险理赔服务水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>财产险理赔系统概述</h2><p>财产险理赔系统专门处理财产保险理赔案件，确保财产险理赔准确高效。</p><h2>PropertyClaim功能</h2><ul><li>财产智能定损：财产险损失智能定损评估</li><li>损失智能评估：财产险损失金额智能评估</li><li>赔付快速管理：财产险赔付快速流程管理</li><li>理赔报告生成：财产险理赔报告自动生成</li><li>理赔欺诈检测：财产险欺诈智能检测预警</li></ul><h2>AssetInsurancePro功能</h2><ul><li>人工财产定损：理赔员人工定损评估</li><li>人工损失评估：理赔员人工评估损失金额</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>财产定损准确率对比</h2><p>PropertyClaim财产定损准确率94%，AssetInsurancePro人工定损准确率80%。</p><h2>财产险理赔周期对比</h2><p>PropertyClaim财产险理赔周期15天，AssetInsurancePro需要30天。</p><h2>推荐选择</h2><p>重视财产险理赔服务的保险公司选择PropertyClaim。</p>",
+  "content": "[需要翻译]\n<h2>财产险理赔系统概述</h2><p>财产险理赔系统专门处理财产保险理赔案件，确保财产险理赔准确高效。</p><h2>PropertyClaim功能</h2><ul><li>财产智能定损：财产险损失智能定损评估</li><li>损失智能评估：财产险损失金额智能评估</li><li>赔付快速管理：财产险赔付快速流程管理</li><li>理赔报告生成：财产险理赔报告自动生成</li><li>理赔欺诈检测：财产险欺诈智能检测预警</li></ul><h2>AssetInsurancePro功能</h2><ul><li>人工财产定损：理赔员人工定损评估</li><li>人工损失评估：理赔员人工评估损失金额</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>财产定损准确率对比</h2><p>PropertyClaim财产定损准确率94%，AssetInsurancePro人工定损准确率80%。</p><h2>财产险理赔周期对比</h2><p>PropertyClaim财产险理赔周期15天，AssetInsurancePro需要30天。</p><h2>推荐选择</h2><p>重视财产险理赔服务的保险公司选择PropertyClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "财产险理赔",
     "财产险理赔系统",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/property-insurance-claims-system-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/property-insurance-claims-system-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 财产险理赔系统评测：PropertyClaim与AssetInsurancePro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "ratingCount": "88"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

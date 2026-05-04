@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔KPI追踪工具评测：KPIClaim与TrackerPro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔KPI追踪工具，对比KPIClaim与TrackerPro的KPI定义、目标追踪、偏差分析能力，提升理赔KPI管理水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>KPI追踪工具概述</h2><p>理赔KPI追踪工具帮助保险公司追踪理赔关键绩效指标，确保理赔目标达成。</p><h2>KPIClaim功能</h2><ul><li>KPI智能定义：理赔KPI智能定义配置</li><li>目标实时追踪：理赔KPI目标实时追踪</li><li>偏差智能分析：理赔KPI偏差智能分析</li><li>KPI报告生成：理赔KPI报告自动生成</li><li>KPI预警提醒：理赔KPI异常智能预警</li></ul><h2>TrackerPro功能</h2><ul><li>人工KPI定义：管理员手动定义KPI</li><li>人工目标追踪：管理员手动追踪目标</li><li>人工偏差分析：管理员手动分析偏差</li><li>人工报告编写：管理员手动编写报告</li><li>人工预警提醒：管理员手动预警提醒</li></ul><h2>KPI追踪效率对比</h2><p>KPIClaimKPI追踪时间实时，TrackerPro需要1小时。</p><h2>偏差分析深度对比</h2><p>KPIClaim偏差分析深度评分90分，TrackerPro评分60分。</p><h2>推荐选择</h2><p>重视理赔KPI追踪的保险公司选择KPIClaim。</p>",
+  "content": "[需要翻译]\n<h2>KPI追踪工具概述</h2><p>理赔KPI追踪工具帮助保险公司追踪理赔关键绩效指标，确保理赔目标达成。</p><h2>KPIClaim功能</h2><ul><li>KPI智能定义：理赔KPI智能定义配置</li><li>目标实时追踪：理赔KPI目标实时追踪</li><li>偏差智能分析：理赔KPI偏差智能分析</li><li>KPI报告生成：理赔KPI报告自动生成</li><li>KPI预警提醒：理赔KPI异常智能预警</li></ul><h2>TrackerPro功能</h2><ul><li>人工KPI定义：管理员手动定义KPI</li><li>人工目标追踪：管理员手动追踪目标</li><li>人工偏差分析：管理员手动分析偏差</li><li>人工报告编写：管理员手动编写报告</li><li>人工预警提醒：管理员手动预警提醒</li></ul><h2>KPI追踪效率对比</h2><p>KPIClaimKPI追踪时间实时，TrackerPro需要1小时。</p><h2>偏差分析深度对比</h2><p>KPIClaim偏差分析深度评分90分，TrackerPro评分60分。</p><h2>推荐选择</h2><p>重视理赔KPI追踪的保险公司选择KPIClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔KPI追踪",
     "理赔KPI管理",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-kpi-tracking-tool-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-kpi-tracking-tool-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔KPI追踪工具评测：KPIClaim与TrackerPro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "94"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

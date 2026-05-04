@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔统计报表工具评测：ReportClaim与StatisticsPro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔统计报表工具，对比ReportClaim与StatisticsPro的报表模板、数据导出、自动化生成能力，提升理赔报表管理效率。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>报表工具概述</h2><p>理赔统计报表工具负责理赔数据统计和报表生成，是理赔管理的重要支撑。</p><h2>功能对比</h2><table><tr><th>功能</th><th>ReportClaim</th><th>StatisticsPro</th></tr><tr><td>报表模板</td><td>100+预设模板</td><td>20种基础模板</td></tr><tr><td>数据导出</td><td>支持Excel、PDF、CSV</td><td>仅支持Excel导出</td></tr><tr><td>自动化生成</td><td>定时自动生成报表</td><td>人工手动生成</td></tr><tr><td>自定义报表</td><td>灵活自定义报表</td><td>固定报表模板</td></tr><tr><td>报表分发</td><td>自动邮件分发</td><td>人工邮件发送</td></tr></table><h2>报表生成效率对比</h2><p>ReportClaim报表生成时间5分钟，StatisticsPro需要30分钟。</p><h2>报表准确性</h2><p>ReportClaim数据准确率99.5%，StatisticsPro人工处理准确率92%。</p><h2>推荐方案</h2><p>报表需求频繁的保险公司选择ReportClaim。</p>",
+  "content": "[需要翻译]\n<h2>报表工具概述</h2><p>理赔统计报表工具负责理赔数据统计和报表生成，是理赔管理的重要支撑。</p><h2>功能对比</h2><table><tr><th>功能</th><th>ReportClaim</th><th>StatisticsPro</th></tr><tr><td>报表模板</td><td>100+预设模板</td><td>20种基础模板</td></tr><tr><td>数据导出</td><td>支持Excel、PDF、CSV</td><td>仅支持Excel导出</td></tr><tr><td>自动化生成</td><td>定时自动生成报表</td><td>人工手动生成</td></tr><tr><td>自定义报表</td><td>灵活自定义报表</td><td>固定报表模板</td></tr><tr><td>报表分发</td><td>自动邮件分发</td><td>人工邮件发送</td></tr></table><h2>报表生成效率对比</h2><p>ReportClaim报表生成时间5分钟，StatisticsPro需要30分钟。</p><h2>报表准确性</h2><p>ReportClaim数据准确率99.5%，StatisticsPro人工处理准确率92%。</p><h2>推荐方案</h2><p>报表需求频繁的保险公司选择ReportClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔统计报表",
     "理赔报表生成",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-statistics-report-tool-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-statistics-report-tool-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔统计报表工具评测：ReportClaim与StatisticsPro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "85"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

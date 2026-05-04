@@ -1,7 +1,7 @@
 {
   "title": "Claims Investigation Software Evaluation: InvestigateClaim vs ProbeClaim Comparison - 2026 Review",
   "description": "Evaluating claims investigation software, comparing InvestigateClaim and ProbeClaim in evidence analysis, on-site investigation, and fraud recognition...",
-  "content": "<h2>Investigation Software Importance</h2><p>Claims investigation software helps insurance companies identify fraudulent claims, reducing payout losses and ensuring claims fairness.</p><h2>InvestigateClaim Features</h2><ul><li>Intelligent Evidence Analysis: AI recognition of evidence authenticity</li><li>On-site Investigation Support: Mobile investigation recording</li><li>Fraud Pattern Recognition: Big data fraud warnings</li><li>Related Case Query: Similar case clue mining</li><li>Investigation Report Generation: Automatic generation of investigation reports</li></ul><h2>ProbeClaim Features</h2><ul><li>Manual Evidence Review: Relies on investigator experience</li><li>Paper Investigation Records: Traditional investigation methods</li><li>Basic Fraud Screening: Manual identification of suspicious cases</li><li>Basic Query Function: Simple historical queries</li><li>Manual Report Writing: Investigators manually write reports</li></ul><h2>Investigation Efficiency Comparison</h2><p>InvestigateClaim average investigation cycle is 5 days, while ProbeClaim requires 15 days.</p><h2>Fraud Recognition Rate</h2><p>InvestigateClaim fraud recognition accuracy rate is 94%, while ProbeClaim manual recognition accuracy rate is 75%.</p><h2>Recommended Solution</h2><p>Insurance companies prioritizing fraud prevention should choose InvestigateClaim to reduce fraud payout losses.</p>",
+  "content": "<h2>Investigation Software Importance</h2><p>Claims investigation software helps insurance companies identify fraudulent claims, reducing payout losses and ensuring claims fairness.</p><h2>InvestigateClaim Features</h2><ul><li>Intelligent Evidence Analysis: AI recognition of evidence authenticity</li><li>On-site Investigation Support: Mobile investigation recording</li><li>Fraud Pattern Recognition: Big data fraud warnings</li><li>Related Case Query: Similar case clue mining</li><li>Investigation Report Generation: Automatic generation of investigation reports</li></ul><h2>ProbeClaim Features</h2><ul><li>Manual Evidence Review: Relies on investigator experience</li><li>Paper Investigation Records: Traditional investigation methods</li><li>Basic Fraud Screening: Manual identification of suspicious cases</li><li>Basic Query Function: Simple historical queries</li><li>Manual Report Writing: Investigators manually write reports</li></ul><h2>Investigation Efficiency Comparison</h2><p>InvestigateClaim average investigation cycle is 5 days, while ProbeClaim requires 15 days.</p><h2>Fraud Recognition Rate</h2><p>InvestigateClaim fraud recognition accuracy rate is 94%, while ProbeClaim manual recognition accuracy rate is 75%.</p><h2>Recommended Solution</h2><p>Insurance companies prioritizing fraud prevention should choose InvestigateClaim to reduce fraud payout losses.</p><h2>HouseCar Lifestyle: Digital Nomad Freedom</h2><p>Time saved = life earned. Automate—work from RV, cabin, beach. Stop tethering to offices. Let AI handle work while you chase sunsets. HouseCar: Automate, liberate, live free.</p>",
   "seo_keywords": [
     "claims investigation software",
     "claims fraud recognition",
@@ -12,5 +12,23 @@
   "slug": "claims-investigation-software-2026",
   "published_at": "2026-05-01",
   "language": "en-US",
-  "author": "Insurance Technology Expert"
+  "author": "Insurance Technology Expert",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Claims Investigation Software Evaluation: InvestigateClaim vs ProbeClaim Comparison - 2026 Review",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "115"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

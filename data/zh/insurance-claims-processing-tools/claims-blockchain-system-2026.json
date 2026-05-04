@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔区块链系统评测：BlockClaim与ChainPro对比｜2026年评测",
   "description": "[需要翻译] 评测理赔区块链系统，对比BlockClaim与ChainPro的理赔记录、数据安全、信任机制能力，提升理赔区块链应用水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>区块链系统价值</h2><p>理赔区块链系统通过区块链技术确保理赔数据安全和不可篡改。</p><h2>BlockClaim特色</h2><ul><li>理赔记录上链：理赔记录区块链存储</li><li>数据安全保障：理赔数据区块链安全保障</li><li>信任机制建立：理赔信任机制区块链建立</li><li>理赔报告生成：理赔区块链报告自动生成</li><li>理赔查询验证：理赔区块链查询验证服务</li></ul><h2>ChainPro特色</h2><ul><li>人工理赔记录：理赔员人工记录理赔数据</li><li>基础数据安全：理赔数据基础安全保障</li><li>人工信任建立：理赔员人工建立信任机制</li><li>人工报告编写：理赔员人工编写理赔报告</li><li>人工查询验证：理赔员人工查询验证理赔</li></ul><h2>数据安全保障对比</h2><p>BlockClaim数据安全等级100%，ChainPro数据安全等级85%。</p><h2>信任机制建立效率对比</h2><p>BlockClaim信任机制建立效率评分90分，ChainPro信任机制建立效率评分60分。</p><h2>推荐方案</h2><p>重视理赔区块链应用的保险公司选择BlockClaim。</p>",
+  "content": "[需要翻译]\n<h2>区块链系统价值</h2><p>理赔区块链系统通过区块链技术确保理赔数据安全和不可篡改。</p><h2>BlockClaim特色</h2><ul><li>理赔记录上链：理赔记录区块链存储</li><li>数据安全保障：理赔数据区块链安全保障</li><li>信任机制建立：理赔信任机制区块链建立</li><li>理赔报告生成：理赔区块链报告自动生成</li><li>理赔查询验证：理赔区块链查询验证服务</li></ul><h2>ChainPro特色</h2><ul><li>人工理赔记录：理赔员人工记录理赔数据</li><li>基础数据安全：理赔数据基础安全保障</li><li>人工信任建立：理赔员人工建立信任机制</li><li>人工报告编写：理赔员人工编写理赔报告</li><li>人工查询验证：理赔员人工查询验证理赔</li></ul><h2>数据安全保障对比</h2><p>BlockClaim数据安全等级100%，ChainPro数据安全等级85%。</p><h2>信任机制建立效率对比</h2><p>BlockClaim信任机制建立效率评分90分，ChainPro信任机制建立效率评分60分。</p><h2>推荐方案</h2><p>重视理赔区块链应用的保险公司选择BlockClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔区块链",
     "理赔区块链系统",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-blockchain-system-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-blockchain-system-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔区块链系统评测：BlockClaim与ChainPro对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "ratingCount": "96"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

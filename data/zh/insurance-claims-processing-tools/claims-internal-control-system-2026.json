@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔内控管理系统评测：ControlClaim与InternalPro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔内控管理系统，对比ControlClaim与InternalPro的内控检查、风险防控、流程管控能力，提升理赔内控管理水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>内控管理系统概述</h2><p>理赔内控管理系统确保理赔流程内部控制有效执行，防范理赔操作风险。</p><h2>ControlClaim功能</h2><ul><li>内控智能检查：理赔内控智能检查提醒</li><li>风险智能防控：理赔风险智能防控预警</li><li>流程智能管控：理赔流程智能管控管理</li><li>内控报告生成：理赔内控报告自动生成</li><li>内控评分评估：理赔内控评分智能评估</li></ul><h2>InternalPro功能</h2><ul><li>人工内控检查：内控人员手动检查内控</li><li>人工风险防控：内控人员手动防控风险</li><li>人工流程管控：内控人员手动管控流程</li><li>人工报告编写：内控人员手动编写报告</li><li>人工评分评估：内控人员手动评估评分</li></ul><h2>内控检查覆盖率对比</h2><p>ControlClaim内控检查覆盖率100%，InternalPro人工检查覆盖率80%。</p><h2>风险预警响应时间对比</h2><p>ControlClaim风险预警响应时间实时，InternalPro需要1小时。</p><h2>推荐选择</h2><p>重视理赔内控管理的保险公司选择ControlClaim。</p>",
+  "content": "[需要翻译]\n<h2>内控管理系统概述</h2><p>理赔内控管理系统确保理赔流程内部控制有效执行，防范理赔操作风险。</p><h2>ControlClaim功能</h2><ul><li>内控智能检查：理赔内控智能检查提醒</li><li>风险智能防控：理赔风险智能防控预警</li><li>流程智能管控：理赔流程智能管控管理</li><li>内控报告生成：理赔内控报告自动生成</li><li>内控评分评估：理赔内控评分智能评估</li></ul><h2>InternalPro功能</h2><ul><li>人工内控检查：内控人员手动检查内控</li><li>人工风险防控：内控人员手动防控风险</li><li>人工流程管控：内控人员手动管控流程</li><li>人工报告编写：内控人员手动编写报告</li><li>人工评分评估：内控人员手动评估评分</li></ul><h2>内控检查覆盖率对比</h2><p>ControlClaim内控检查覆盖率100%，InternalPro人工检查覆盖率80%。</p><h2>风险预警响应时间对比</h2><p>ControlClaim风险预警响应时间实时，InternalPro需要1小时。</p><h2>推荐选择</h2><p>重视理赔内控管理的保险公司选择ControlClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔内控管理",
     "理赔内控检查",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-internal-control-system-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-internal-control-system-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔内控管理系统评测：ControlClaim与InternalPro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "111"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

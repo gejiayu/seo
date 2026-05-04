@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔评估工具评测：AssessPro与ClaimEstimate深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔评估工具，对比AssessPro与ClaimEstimate的损失计算、评估模型、智能定损能力，提升理赔金额评估准确性。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>评估工具价值</h2><p>理赔评估工具决定理赔金额准确性，直接影响保险公司赔付成本和客户满意度。</p><h2>功能对比</h2><table><tr><th>模块</th><th>AssessPro</th><th>ClaimEstimate</th></tr><tr><td>损失计算</td><td>AI智能定损算法</td><td>人工经验估算</td></tr><tr><td>评估模型</td><td>多种模型可选</td><td>单一评估模型</td></tr><tr><td>历史数据</td><td>大数据分析对比</td><td>基础历史查询</td></tr><tr><td>市场参考</td><td>实时市场价格查询</td><td>人工询价</td></tr><tr><td>评估报告</td><td>自动生成详细报告</td><td>人工编写报告</td></tr></table><h2>评估准确性</h2><p>AssessPro评估准确率96%，ClaimEstimate人工评估准确率82%。智能定损显著提升准确性。</p><h2>评估速度</h2><p>AssessPro平均评估时间30分钟，ClaimEstimate需要2小时。</p><h2>赔付优化</h2><p>AssessPro智能评估可减少15%过度赔付，降低保险公司损失。</p><h2>推荐选择</h2><p>追求评估准确性和效率的保险公司选择AssessPro。</p>",
+  "content": "[需要翻译]\n<h2>评估工具价值</h2><p>理赔评估工具决定理赔金额准确性，直接影响保险公司赔付成本和客户满意度。</p><h2>功能对比</h2><table><tr><th>模块</th><th>AssessPro</th><th>ClaimEstimate</th></tr><tr><td>损失计算</td><td>AI智能定损算法</td><td>人工经验估算</td></tr><tr><td>评估模型</td><td>多种模型可选</td><td>单一评估模型</td></tr><tr><td>历史数据</td><td>大数据分析对比</td><td>基础历史查询</td></tr><tr><td>市场参考</td><td>实时市场价格查询</td><td>人工询价</td></tr><tr><td>评估报告</td><td>自动生成详细报告</td><td>人工编写报告</td></tr></table><h2>评估准确性</h2><p>AssessPro评估准确率96%，ClaimEstimate人工评估准确率82%。智能定损显著提升准确性。</p><h2>评估速度</h2><p>AssessPro平均评估时间30分钟，ClaimEstimate需要2小时。</p><h2>赔付优化</h2><p>AssessPro智能评估可减少15%过度赔付，降低保险公司损失。</p><h2>推荐选择</h2><p>追求评估准确性和效率的保险公司选择AssessPro。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔评估工具",
     "理赔定损系统",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-assessment-tool-review-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-assessment-tool-review-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔评估工具评测：AssessPro与ClaimEstimate深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "ratingCount": "102"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

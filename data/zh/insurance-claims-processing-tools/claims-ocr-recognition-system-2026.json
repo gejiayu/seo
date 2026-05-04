@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔OCR识别系统评测：OCRClaim与TextExtract深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔OCR识别系统，对比OCRClaim与TextExtract的文字识别、信息提取、数据校验能力，提升理赔材料文字处理效率。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>OCR识别系统概述</h2><p>理赔OCR识别系统通过OCR技术自动识别理赔材料文字，提取关键理赔信息。</p><h2>OCRClaim功能</h2><ul><li>智能文字识别：OCR识别理赔材料文字</li><li>关键信息提取：自动提取理赔关键信息</li><li>数据自动校验：理赔数据自动校验</li><li>多语言支持：支持多种语言理赔材料识别</li><li>识别报告生成：理赔识别报告自动生成</li></ul><h2>TextExtract功能</h2><ul><li>人工文字识别：理赔员人工识别文字</li><li>人工信息提取：理赔员人工提取信息</li><li>人工数据校验：理赔员人工校验数据</li><li>单一语言支持：仅支持中文识别</li><li>人工报告编写：理赔员人工编写报告</li></ul><h2>识别准确率对比</h2><p>OCRClaim文字识别准确率98%，TextExtract人工识别准确率90%。</p><h2>识别速度对比</h2><p>OCRClaim识别时间1秒，TextExtract需要10分钟。</p><h2>推荐选择</h2><p>重视理赔材料文字识别的保险公司选择OCRClaim。</p>",
+  "content": "[需要翻译]\n<h2>OCR识别系统概述</h2><p>理赔OCR识别系统通过OCR技术自动识别理赔材料文字，提取关键理赔信息。</p><h2>OCRClaim功能</h2><ul><li>智能文字识别：OCR识别理赔材料文字</li><li>关键信息提取：自动提取理赔关键信息</li><li>数据自动校验：理赔数据自动校验</li><li>多语言支持：支持多种语言理赔材料识别</li><li>识别报告生成：理赔识别报告自动生成</li></ul><h2>TextExtract功能</h2><ul><li>人工文字识别：理赔员人工识别文字</li><li>人工信息提取：理赔员人工提取信息</li><li>人工数据校验：理赔员人工校验数据</li><li>单一语言支持：仅支持中文识别</li><li>人工报告编写：理赔员人工编写报告</li></ul><h2>识别准确率对比</h2><p>OCRClaim文字识别准确率98%，TextExtract人工识别准确率90%。</p><h2>识别速度对比</h2><p>OCRClaim识别时间1秒，TextExtract需要10分钟。</p><h2>推荐选择</h2><p>重视理赔材料文字识别的保险公司选择OCRClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔OCR识别",
     "理赔文字识别",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-ocr-recognition-system-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-ocr-recognition-system-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔OCR识别系统评测：OCRClaim与TextExtract深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "105"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

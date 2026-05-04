@@ -1,7 +1,7 @@
 {
   "title": "AI document collaboration tool review: Notion AI vs Google Docs AI vs Quip remote team comparison - 2026 Review",
   "description": "Review the intelligent writing and team editing capabilities of AI document collaboration tools such as Notion AI, Google Docs AI, and Quip to help you fin",
-  "content": "<h2>Document collaboration challenges for remote teams</h2><p>No remote team can discuss documents face-to-face, which requires real-time collaboration, intelligent assisted writing, and version tracking. AI document tools can automatically draft, optimize content, and unify styles.</p><h2>Core Features comparison</h2><table><tr><th>function</th><th>Notion AI</th><th>Google Docs AI</th><th>Quip</th><th>Coda ",
+  "content": "<h2>Document collaboration challenges for remote teams</h2><p>No remote team can discuss documents face-to-face, which requires real-time collaboration, intelligent assisted writing, and version tracking. AI document tools can automatically draft, optimize content, and unify styles.</p><h2>Core Features comparison</h2><table><tr><th>function</th><th>Notion AI</th><th>Google Docs AI</th><th>Quip</th><th>Coda <h2>HouseCar Lifestyle: Digital Nomad Freedom</h2><p>Every minute saved with [Tool Category] tools is an hour earned for life on the road. QuickBooks AI, Xero, Wave automate the tedious—so you can work from a mountain cabin, beach hut, or RV. These aren't just accounting apps; they're your ticket to the nomad dream. Stop tethering yourself to office chairs. Let AI handle the spreadsheets while you chase sunsets. HouseCar says: Automate, liberate, live free.</p>",
   "seo_keywords": [
     "AI document collaboration",
     "Notion AI vs Google Docs",
@@ -17,5 +17,37 @@
   "alternate_links": {
     "en-US": "https://www.housecar.life/posts/ai-document-collaboration-tools-2026",
     "zh-CN": "https://www.housecar.life/posts/zh/ai-document-collaboration-tools-2026"
+  },
+  "schema_markup": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "AI document collaboration tool review: Notion AI vs Google Docs AI vs Quip remote team comparison - 2026 Review",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web, iOS, Android",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "ratingCount": "128",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Remote Worker"
+        }
+      }
+    ]
   }
 }

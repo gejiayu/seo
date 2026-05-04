@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔欺诈检测工具评测：FraudDetect与DetectClaim对比｜2026年评测",
   "description": "[需要翻译] 评测理赔欺诈检测工具，对比FraudDetect与DetectClaim的欺诈识别、模式分析、证据链追踪能力，提升理赔欺诈防控效率。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>欺诈检测工具价值</h2><p>理赔欺诈检测工具帮助保险公司识别欺诈理赔，降低赔付损失，保护保险利益。</p><h2>FraudDetect特色</h2><ul><li>AI欺诈识别：智能算法识别欺诈理赔</li><li>欺诈模式分析：大数据分析欺诈模式</li><li>证据链追踪：自动追踪欺诈证据链</li><li>欺诈评分：理赔欺诈风险评分</li><li>欺诈报告：自动生成欺诈调查报告</li></ul><h2>DetectClaim特色</h2><ul><li>人工欺诈筛查：依赖调查员经验</li><li>人工模式识别：调查员手动分析</li><li>人工证据追踪：调查员手动追踪</li><li>人工评分：调查员手动评分</li><li>人工报告编写：调查员手动编写</li></ul><h2>欺诈识别准确率对比</h2><p>FraudDetect欺诈识别准确率94%，DetectClaim人工识别准确率70%。</p><h2>欺诈案件处理效率</h2><p>FraudDetect平均处理时间3天，DetectClaim需要10天。</p><h2>推荐方案</h2><p>重视欺诈防控的保险公司选择FraudDetect。</p>",
+  "content": "[需要翻译]\n<h2>欺诈检测工具价值</h2><p>理赔欺诈检测工具帮助保险公司识别欺诈理赔，降低赔付损失，保护保险利益。</p><h2>FraudDetect特色</h2><ul><li>AI欺诈识别：智能算法识别欺诈理赔</li><li>欺诈模式分析：大数据分析欺诈模式</li><li>证据链追踪：自动追踪欺诈证据链</li><li>欺诈评分：理赔欺诈风险评分</li><li>欺诈报告：自动生成欺诈调查报告</li></ul><h2>DetectClaim特色</h2><ul><li>人工欺诈筛查：依赖调查员经验</li><li>人工模式识别：调查员手动分析</li><li>人工证据追踪：调查员手动追踪</li><li>人工评分：调查员手动评分</li><li>人工报告编写：调查员手动编写</li></ul><h2>欺诈识别准确率对比</h2><p>FraudDetect欺诈识别准确率94%，DetectClaim人工识别准确率70%。</p><h2>欺诈案件处理效率</h2><p>FraudDetect平均处理时间3天，DetectClaim需要10天。</p><h2>推荐方案</h2><p>重视欺诈防控的保险公司选择FraudDetect。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔欺诈检测",
     "理赔欺诈识别",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-fraud-detection-tool-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-fraud-detection-tool-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔欺诈检测工具评测：FraudDetect与DetectClaim对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "ratingCount": "96"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

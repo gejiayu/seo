@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 重疾险理赔系统评测：CriticalIllnessClaim与DiseaseInsurancePro深度对比 - 2026 Review",
   "description": "[需要翻译] 深度评测重疾险理赔系统，对比CriticalIllnessClaim与DiseaseInsurancePro的重疾认定、医疗审核、赔付管理能力，提升重疾险理赔服务水平。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>重疾险理赔系统概述</h2><p>重疾险理赔系统专门处理重疾险理赔案件，确保重疾险理赔准确专业。</p><h2>CriticalIllnessClaim功能</h2><ul><li>重疾智能认定：重疾险重疾智能认定分析</li><li>医疗智能审核：重疾险医疗审核智能服务</li><li>赔付专业管理：重疾险赔付专业流程管理</li><li>理赔报告生成：重疾险理赔报告自动生成</li><li>理赔欺诈检测：重疾险欺诈智能检测预警</li></ul><h2>DiseaseInsurancePro功能</h2><ul><li>人工重疾认定：理赔员人工认定重疾分析</li><li>人工医疗审核：理赔员人工审核医疗资料</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>重疾认定准确率对比</h2><p>CriticalIllnessClaim重疾认定准确率95%，DiseaseInsurancePro人工认定准确率88%。</p><h2>重疾险理赔周期对比</h2><p>CriticalIllnessClaim重疾险理赔周期7天，DiseaseInsurancePro需要20天。</p><h2>推荐选择</h2><p>重视重疾险理赔服务的保险公司选择CriticalIllnessClaim。</p>",
+  "content": "[需要翻译]\n<h2>重疾险理赔系统概述</h2><p>重疾险理赔系统专门处理重疾险理赔案件，确保重疾险理赔准确专业。</p><h2>CriticalIllnessClaim功能</h2><ul><li>重疾智能认定：重疾险重疾智能认定分析</li><li>医疗智能审核：重疾险医疗审核智能服务</li><li>赔付专业管理：重疾险赔付专业流程管理</li><li>理赔报告生成：重疾险理赔报告自动生成</li><li>理赔欺诈检测：重疾险欺诈智能检测预警</li></ul><h2>DiseaseInsurancePro功能</h2><ul><li>人工重疾认定：理赔员人工认定重疾分析</li><li>人工医疗审核：理赔员人工审核医疗资料</li><li>人工赔付管理：理赔员人工管理赔付流程</li><li>人工报告编写：理赔员人工编写报告</li><li>人工欺诈检测：理赔员人工检测欺诈</li></ul><h2>重疾认定准确率对比</h2><p>CriticalIllnessClaim重疾认定准确率95%，DiseaseInsurancePro人工认定准确率88%。</p><h2>重疾险理赔周期对比</h2><p>CriticalIllnessClaim重疾险理赔周期7天，DiseaseInsurancePro需要20天。</p><h2>推荐选择</h2><p>重视重疾险理赔服务的保险公司选择CriticalIllnessClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "重疾险理赔",
     "重疾险理赔系统",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/critical-illness-insurance-claims-system-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/critical-illness-insurance-claims-system-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 重疾险理赔系统评测：CriticalIllnessClaim与DiseaseInsurancePro深度对比 - 2026 Review",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "92"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }

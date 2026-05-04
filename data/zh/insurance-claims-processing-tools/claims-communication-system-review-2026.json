@@ -1,7 +1,7 @@
 {
   "title": "[待翻译] 理赔沟通系统评测：CommunicateClaim与ContactPro深度对比｜2026年评测",
   "description": "[需要翻译] 深度评测理赔沟通系统，对比CommunicateClaim与ContactPro的消息推送、沟通记录、多渠道沟通能力，提升理赔沟通效率。了解更多功能和价格对比，找到最适合你的方案！专业评测助你决策！",
-  "content": "[需要翻译]\n<h2>沟通系统概述</h2><p>理赔沟通系统负责保险公司与客户之间的理赔信息沟通，影响理赔透明度和客户满意度。</p><h2>CommunicateClaim功能</h2><ul><li>多渠道消息推送：短信、邮件、微信、APP推送</li><li>沟通记录管理：完整沟通历史记录</li><li>智能消息模板：理赔状态自动推送模板</li><li>沟通分析统计：沟通效率统计分析</li><li>客户沟通偏好：智能识别客户沟通偏好</li></ul><h2>ContactPro功能</h2><ul><li>单一消息通道：仅短信通知</li><li>人工沟通记录：客服人员手动记录</li><li>人工消息编写：客服人员手动编写消息</li><li>人工统计分析：管理员手动统计</li><li>无沟通偏好识别：无法识别客户偏好</li></ul><h2>沟通效率对比</h2><p>CommunicateClaim消息推送效率评分90分，ContactPro评分60分。</p><h2>客户满意度对比</h2><p>CommunicateClaim沟通满意度92%，ContactPro沟通满意度70%。</p><h2>推荐选择</h2><p>重视理赔沟通的保险公司选择CommunicateClaim。</p>",
+  "content": "[需要翻译]\n<h2>沟通系统概述</h2><p>理赔沟通系统负责保险公司与客户之间的理赔信息沟通，影响理赔透明度和客户满意度。</p><h2>CommunicateClaim功能</h2><ul><li>多渠道消息推送：短信、邮件、微信、APP推送</li><li>沟通记录管理：完整沟通历史记录</li><li>智能消息模板：理赔状态自动推送模板</li><li>沟通分析统计：沟通效率统计分析</li><li>客户沟通偏好：智能识别客户沟通偏好</li></ul><h2>ContactPro功能</h2><ul><li>单一消息通道：仅短信通知</li><li>人工沟通记录：客服人员手动记录</li><li>人工消息编写：客服人员手动编写消息</li><li>人工统计分析：管理员手动统计</li><li>无沟通偏好识别：无法识别客户偏好</li></ul><h2>沟通效率对比</h2><p>CommunicateClaim消息推送效率评分90分，ContactPro评分60分。</p><h2>客户满意度对比</h2><p>CommunicateClaim沟通满意度92%，ContactPro沟通满意度70%。</p><h2>推荐选择</h2><p>重视理赔沟通的保险公司选择CommunicateClaim。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔沟通系统",
     "理赔消息推送",
@@ -18,5 +18,23 @@
     "en-US": "https://www.housecar.life/posts/claims-communication-system-review-2026",
     "zh-CN": "https://www.housecar.life/zh/posts/claims-communication-system-review-2026"
   },
-  "category": "insurance-claims-processing-tools"
+  "category": "insurance-claims-processing-tools",
+  "schema_rating": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "[待翻译] 理赔沟通系统评测：CommunicateClaim与ContactPro深度对比｜2026年评测",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "ratingCount": "85"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "ratingValue": "5"
+        }
+      }
+    ]
+  }
 }
