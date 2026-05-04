@@ -1,4 +1,3 @@
-import { Header } from '@/components/Header'
 
 // 中文版footer组件
 function ZhFooter() {
@@ -26,7 +25,6 @@ export default function ZhLayout({
 }) {
   return (
     <>
-      <Header />
       <main className="min-h-screen bg-gray-50">
         {children}
       </main>

@@ -27,6 +27,13 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-export default function HomePage() {
-  return <HomePageClient language="en-US" />
+interface HomePageProps {
+  searchParams: Promise<{
+    category?: string
+  }>
+}
+
+export default async function HomePage({ searchParams }: HomePageProps) {
+  const { category } = await searchParams
+  return <HomePageClient language="en-US" initialCategory={category} />
 }

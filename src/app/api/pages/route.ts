@@ -28,6 +28,6 @@ export async function GET(request: NextRequest) {
     page,
     limit,
     hasMore: endIndex < filteredPages.length,
-    categories: category ? undefined : Array.from(new Set(allPages.map(p => p.category))).sort(),
+    categories: Array.from(new Set(allPages.map(p => p.category))).sort(),
   })
 }

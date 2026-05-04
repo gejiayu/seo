@@ -170,7 +170,7 @@ export default async function ZhPostPage({ params }: PageProps) {
           <li>/</li>
           <li>
             <Link
-              href={`/zh/categories/${page.category}`}
+              href={`/zh?category=${page.category}`}
               className="hover:text-blue-600"
             >
               {formatCategoryName(page.category)}
@@ -187,7 +187,7 @@ export default async function ZhPostPage({ params }: PageProps) {
         <header className="mb-8">
           <div className="mb-4">
             <Link
-              href={`/zh/categories/${page.category}`}
+              href={`/zh?category=${page.category}`}
               className="text-sm font-medium text-blue-600 uppercase tracking-wide hover:text-blue-800"
             >
               {formatCategoryName(page.category)}

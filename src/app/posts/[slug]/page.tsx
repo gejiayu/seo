@@ -169,7 +169,7 @@ export default async function PostPage({ params }: PageProps) {
           <li>/</li>
           <li>
             <Link
-              href={`/categories/${page.category}`}
+              href={`/?category=${page.category}`}
               className="hover:text-blue-600 capitalize"
             >
               {formatCategoryName(page.category)}
@@ -186,7 +186,7 @@ export default async function PostPage({ params }: PageProps) {
         <header className="mb-8">
           <div className="mb-4">
             <Link
-              href={`/categories/${page.category}`}
+              href={`/?category=${page.category}`}
               className="text-sm font-medium text-blue-600 uppercase tracking-wide hover:text-blue-800"
             >
               {formatCategoryName(page.category)}

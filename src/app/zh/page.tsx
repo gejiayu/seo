@@ -27,6 +27,13 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-export default function ZhHomePage() {
-  return <HomePageClient language="zh-CN" />
+interface ZhHomePageProps {
+  searchParams: Promise<{
+    category?: string
+  }>
+}
+
+export default async function ZhHomePage({ searchParams }: ZhHomePageProps) {
+  const { category } = await searchParams
+  return <HomePageClient language="zh-CN" initialCategory={category} />
 }

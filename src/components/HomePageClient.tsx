@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
+import { usePathname, useSearchParams } from 'next/navigation'
 import type { PageListItem, Language } from '@/lib/data-loader'
 import { getCategoryName } from '@/lib/category-translations'
 
@@ -43,29 +44,52 @@ function ArticleCard({ page, language }: { page: PageListItem; language: Languag
 
 interface HomePageClientProps {
   language?: Language
+  initialCategory?: string
 }
 
-export default function HomePageClient({ language = 'en-US' }: HomePageClientProps) {
+export default function HomePageClient({ language = 'en-US', initialCategory }: HomePageClientProps) {
+  const pathname = usePathname()
+  const searchParams = useSearchParams()
   const [pages, setPages] = useState<PageListItem[]>([])
   const [categories, setCategories] = useState<string[]>([])
   const [total, setTotal] = useState(0)
   const [isLoading, setIsLoading] = useState(true)
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
-  const [showAllCategories, setShowAllCategories] = useState(false)
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(initialCategory || null)
+  const [showAllCategories, setShowAllCategories] = useState(initialCategory ? true : false)
   const [page, setPage] = useState(1)
 
   // 初始加载
   useEffect(() => {
-    fetch(`/api/pages?limit=50&language=${language}`)
-      .then(res => res.json())
-      .then(data => {
-        setPages(data.pages)
-        setCategories(data.categories || [])
-        setTotal(data.total)
-        setIsLoading(false)
+    const initLoad = async () => {
+      setIsLoading(true)
+      const params = new URLSearchParams({
+        limit: selectedCategory ? '100' : '50',
+        language,
       })
-      .catch(() => setIsLoading(false))
-  }, [language])
+      if (selectedCategory) {
+        params.set('category', selectedCategory)
+      }
+
+      const res = await fetch(`/api/pages?${params}`)
+      const data = await res.json()
+      setPages(data.pages)
+      setCategories(data.categories || [])
+      setTotal(data.total)
+      setIsLoading(false)
+    }
+
+    initLoad()
+  }, [language, selectedCategory])
+
+  // 如果选中的类目不在前20个中，自动展开类目列表
+  useEffect(() => {
+    if (selectedCategory && categories.length > 20) {
+      const isInFirst20 = categories.slice(0, 20).includes(selectedCategory)
+      if (!isInFirst20) {
+        setShowAllCategories(true)
+      }
+    }
+  }, [selectedCategory, categories])
 
   const visibleCategories = showAllCategories ? categories : categories.slice(0, 20)
   const hasMore = pages.length < total
@@ -100,11 +124,19 @@ export default function HomePageClient({ language = 'en-US' }: HomePageClientPro
 
   // 分类筛选
   const handleCategorySelect = async (category: string | null) => {
-    setSelectedCategory(selectedCategory === category ? null : category)
+    const newCategory = selectedCategory === category ? null : category
+    setSelectedCategory(newCategory)
     setIsLoading(true)
     setPage(1)
 
-    if (!category) {
+    // 更新 URL 参数
+    if (newCategory) {
+      window.history.pushState(null, '', `${pathname}?category=${newCategory}`)
+    } else {
+      window.history.pushState(null, '', pathname)
+    }
+
+    if (!newCategory) {
       // 重置为初始数据
       const res = await fetch(`/api/pages?limit=50&language=${language}`)
       const data = await res.json()
@@ -114,7 +146,7 @@ export default function HomePageClient({ language = 'en-US' }: HomePageClientPro
       return
     }
 
-    const res = await fetch(`/api/pages?category=${category}&limit=100&language=${language}`)
+    const res = await fetch(`/api/pages?category=${newCategory}&limit=100&language=${language}`)
     const data = await res.json()
     setPages(data.pages)
     setTotal(data.total)
