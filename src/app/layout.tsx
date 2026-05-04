@@ -12,7 +12,10 @@ export const metadata: Metadata = {
   },
   description: 'Programmatic SEO content pages generated from structured data',
   icons: {
-    icon: '/icon.png',
+    icon: [
+      { url: '/icon.webp', type: 'image/webp' },
+      { url: '/icon.png', type: 'image/png' },
+    ],
     apple: '/icon.png',
   },
 }

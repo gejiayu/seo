@@ -1,13 +1,14 @@
 'use client'
 
-import { useState, useMemo, useEffect } from 'react'
+import { useState, useMemo, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import type { PageListItem, Language } from '@/lib/data-loader'
 import { getCategoryName } from '@/lib/category-translations'
 
 interface ArticleListProps {
-  pages: PageListItem[]
-  categories: string[]
+  initialPages: PageListItem[]
+  initialCategories: string[]
+  initialTotal: number
   language?: Language
 }
 
@@ -47,41 +48,75 @@ function ArticleCard({ page, language }: { page: PageListItem; language: Languag
   )
 }
 
-export function ArticleList({ pages, categories, language = 'en-US' }: ArticleListProps) {
+export function ArticleList({
+  initialPages,
+  initialCategories,
+  initialTotal,
+  language = 'en-US'
+}: ArticleListProps) {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
   const [showAllCategories, setShowAllCategories] = useState(false)
-  const [visibleCount, setVisibleCount] = useState(50) // 首屏显示50篇
+  const [pages, setPages] = useState<PageListItem[]>(initialPages)
+  const [total, setTotal] = useState(initialTotal)
   const [isLoading, setIsLoading] = useState(false)
+  const [page, setPage] = useState(1)
 
   // 默认显示前20个分类
-  const visibleCategories = showAllCategories ? categories : categories.slice(0, 20)
+  const visibleCategories = showAllCategories ? initialCategories : initialCategories.slice(0, 20)
 
-  // 使用 useMemo 优化筛选性能
-  const filteredPages = useMemo(() => {
-    return selectedCategory
-      ? pages.filter((page) => page.category === selectedCategory)
-      : pages
-  }, [pages, selectedCategory])
-
-  // 当前显示的文章
-  const displayedPages = filteredPages.slice(0, visibleCount)
-  const hasMore = visibleCount < filteredPages.length
+  const hasMore = pages.length < total
 
   // 加载更多
-  const loadMore = () => {
+  const loadMore = useCallback(async () => {
     if (isLoading || !hasMore) return
     setIsLoading(true)
-    // 模拟异步加载（实际是同步，但给用户视觉反馈）
-    setTimeout(() => {
-      setVisibleCount(prev => Math.min(prev + 50, filteredPages.length))
-      setIsLoading(false)
-    }, 100)
-  }
 
-  // 重置显示数量当筛选改变
+    try {
+      const nextPage = page + 1
+      const params = new URLSearchParams({
+        page: nextPage.toString(),
+        limit: '50',
+        language,
+      })
+      if (selectedCategory) {
+        params.set('category', selectedCategory)
+      }
+
+      const res = await fetch(`/api/pages?${params}`)
+      const data = await res.json()
+
+      setPages(prev => [...prev, ...data.pages])
+      setPage(nextPage)
+    } catch (error) {
+      console.error('Failed to load more pages:', error)
+    } finally {
+      setIsLoading(false)
+    }
+  }, [isLoading, hasMore, page, language, selectedCategory])
+
+  // 分类筛选改变时重置
   useEffect(() => {
-    setVisibleCount(50)
-  }, [selectedCategory])
+    if (!selectedCategory) {
+      // 重置为初始数据
+      setPages(initialPages)
+      setTotal(initialTotal)
+      setPage(1)
+      return
+    }
+
+    // 加载该分类的数据
+    setIsLoading(true)
+    setPage(1)
+
+    fetch(`/api/pages?category=${selectedCategory}&limit=100&language=${language}`)
+      .then(res => res.json())
+      .then(data => {
+        setPages(data.pages)
+        setTotal(data.total)
+        setIsLoading(false)
+      })
+      .catch(() => setIsLoading(false))
+  }, [selectedCategory, language, initialPages, initialTotal])
 
   // 文本基于语言
   const texts = language === 'zh-CN'
@@ -115,7 +150,7 @@ export function ArticleList({ pages, categories, language = 'en-US' }: ArticleLi
       {/* Categories Filter */}
       <section className="mb-10">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
-          {texts.categories} ({categories.length})
+          {texts.categories} ({initialCategories.length})
         </h2>
         <div className="flex flex-wrap gap-2 mb-4">
           {visibleCategories.map((category) => (
@@ -139,12 +174,12 @@ export function ArticleList({ pages, categories, language = 'en-US' }: ArticleLi
         </div>
 
         {/* Show More/Less Button */}
-        {categories.length > 20 && (
+        {initialCategories.length > 20 && (
           <button
             onClick={() => setShowAllCategories(!showAllCategories)}
             className="px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 transition-all duration-200 cursor-pointer"
           >
-            {showAllCategories ? texts.showLess : `${texts.showAll} (${categories.length - 20} ${texts.more})`}
+            {showAllCategories ? texts.showLess : `${texts.showAll} (${initialCategories.length - 20} ${texts.more})`}
           </button>
         )}
       </section>
@@ -153,14 +188,14 @@ export function ArticleList({ pages, categories, language = 'en-US' }: ArticleLi
       <section>
         <h2 className="text-2xl font-semibold text-gray-800 mb-6">
           {selectedCategory
-            ? `${getCategoryName(selectedCategory, language)} ${texts.articles} (${filteredPages.length})`
-            : `${texts.allArticles} (${pages.length})`}
+            ? `${getCategoryName(selectedCategory, language)} ${texts.articles} (${total})`
+            : `${texts.allArticles} (${total})`}
         </h2>
 
-        {displayedPages.length > 0 ? (
+        {pages.length > 0 ? (
           <>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-              {displayedPages.map((page) => (
+              {pages.map((page) => (
                 <ArticleCard key={page.slug} page={page} language={language} />
               ))}
             </div>
@@ -173,7 +208,7 @@ export function ArticleList({ pages, categories, language = 'en-US' }: ArticleLi
                   disabled={isLoading}
                   className="px-6 py-3 rounded-lg text-sm font-medium bg-blue-600 text-white hover:bg-blue-700 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
                 >
-                  {isLoading ? texts.loading : `${texts.loadMore} (${filteredPages.length - visibleCount} ${texts.remaining})`}
+                  {isLoading ? texts.loading : `${texts.loadMore} (${total - pages.length} ${texts.remaining})`}
                 </button>
               </div>
             )}
