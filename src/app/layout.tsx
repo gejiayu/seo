@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Script from 'next/script'
+import { Header } from '@/components/Header'
 import './globals.css'
 
 const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
@@ -52,6 +53,7 @@ export default function RootLayout({
         <meta name="google-adsense-account" content="ca-pub-9920271435480805" />
       </head>
       <body className="antialiased">
+        <Header />
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9920271435480805"
