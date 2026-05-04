@@ -19,5 +19,97 @@
   "alternate_links": {
     "en-US": "https://www.housecar.life/posts/spirits-wholesale-pos-systems",
     "zh-CN": "https://www.housecar.life/zh/posts/spirits-wholesale-pos-systems"
+  },
+  "faq_schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How do spirits wholesale POS systems handle volume pricing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wholesale volume pricing features: case pricing discounts automatically applied (6-bottle case pricing 15% lower), tiered pricing based on order quantity (1-5 bottles standard price, 6+ bottles wholesale price), customer classification for retail vs wholesale pricing tiers, volume-based margin calculations, split pricing for mixed case orders, and promotional pricing overrides for wholesale customers. Systems should automatically calculate wholesale margins based on volume."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What age verification features do spirits wholesale POS systems require?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wholesale age verification: business customer verification checking buyer license for wholesale purchases, delivery driver age verification for wholesale shipments, staff age verification for employees handling alcohol, pickup customer ID verification at wholesale warehouse, exemption tracking for licensed establishments (bars, restaurants), and age verification logging for compliance audits. Wholesale customers must provide business license and age verification documentation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do spirits wholesale POS systems manage bulk inventory?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bulk inventory management: case tracking separate from individual bottle inventory, pallet tracking for large wholesale orders, partial case handling for mixed orders, warehouse location tracking for bulk storage, inventory allocation for reserved wholesale orders, automated reorder triggers based on case-level thresholds, and bulk receiving workflows for pallet shipments. Systems should track both case and individual bottle levels for wholesale accuracy."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What wholesale customer management features do spirits POS systems offer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wholesale customer features: business license tracking and verification, wholesale account approval workflows, credit limit management for wholesale customers, payment terms tracking (net 30, net 60), wholesale pricing tier assignment by customer type, order history by wholesale account, and delivery scheduling integration for wholesale shipments. Systems should differentiate retail and wholesale customer types with appropriate pricing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do spirits wholesale POS systems handle delivery coordination?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wholesale delivery coordination: delivery scheduling integration with routing software, order staging for wholesale pickup and delivery, delivery confirmation tracking with signature capture, driver assignment and workload balancing, delivery route optimization for multiple wholesale stops, delivery exception handling for failed deliveries, and delivery invoicing upon successful completion. Wholesale orders often require scheduled delivery rather than immediate pickup."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What compliance reporting do spirits wholesale POS systems provide?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wholesale compliance reports: wholesale transaction logs for state audits, tax reporting for wholesale sales volume, customer license verification audit trail, delivery documentation for interstate shipments, age verification compliance logs, inventory reconciliation reports for wholesale stock, and supplier payment tracking for wholesale purchases. Systems must maintain detailed compliance documentation for annual wholesale license renewals."
+        }
+      }
+    ]
+  },
+  "howto_schema": {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How to implement spirits wholesale pos systems",
+    "description": "Step-by-step guide for implementing the best solution from: Spirits Wholesale POS Systems",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Assess Current Needs",
+        "text": "Evaluate your current spirits wholesale pos systems requirements and identify pain points that need addressing. Document your current processes and identify gaps where automation or improvement is needed."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Research Available Solutions",
+        "text": "Research and compare available spirits wholesale pos systems solutions in the market. Consider factors such as features, pricing, integration capabilities, and user reviews to narrow down your options."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Select the Right Solution",
+        "text": "Choose the spirits wholesale pos systems solution that best fits your business requirements, budget, and technical capabilities. Consider scalability and long-term support from the vendor."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Plan Implementation",
+        "text": "Develop a detailed implementation plan including timeline, resource allocation, training requirements, and integration with existing systems. Set clear milestones and success metrics."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Deploy and Train",
+        "text": "Deploy the spirits wholesale pos systems solution and conduct comprehensive staff training. Monitor initial performance, address issues promptly, and gather feedback for optimization."
+      }
+    ]
   }
 }
