@@ -14,10 +14,12 @@ export const metadata: Metadata = {
   description: 'Programmatic SEO content pages generated from structured data',
   icons: {
     icon: [
+      { url: '/favicon-48.png', type: 'image/png', sizes: '48x48' },
+      { url: '/favicon-32.png', type: 'image/png', sizes: '32x32' },
+      { url: '/favicon-16.png', type: 'image/png', sizes: '16x16' },
       { url: '/icon.webp', type: 'image/webp' },
-      { url: '/icon.png', type: 'image/png' },
     ],
-    apple: '/icon.png',
+    apple: [{ url: '/icon.png', type: 'image/png', sizes: '1024x1024' }],
   },
 }
 
