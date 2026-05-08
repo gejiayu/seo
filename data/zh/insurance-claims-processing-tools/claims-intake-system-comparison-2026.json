@@ -1,7 +1,7 @@
 {
-  "title": "[待翻译] 理赔接案系统对比：IntakePro与ClaimEntry深度评测｜2026年评测",
-  "description": "2026年理赔接案系统评测：深度对比主流平台功能价格与核心性能指标，全面分析各方案优劣势与技术特点，提供选型建议与实施路径，助您精准选型降低成本20-30%，显著提升理赔效率40%，实现业务智能化转型与高质量发展，助力企业降本增效与可持续发展，提升核心竞争力，实现管理效率提升85%，流程规范化率提升",
-  "content": "[需要翻译]\n<h2>系统概述</h2><p>理赔接案系统负责理赔案件的初次录入和信息采集。IntakePro和ClaimEntry是市场主流解决方案。</p><h2>核心功能</h2><h3>IntakePro特色</h3><ul><li>智能表单填写</li><li>客户信息自动填充</li><li>历史理赔关联查询</li><li>多语言支持</li></ul><h3>ClaimEntry特色</h3><ul><li>标准化理赔模板</li><li>审批流程可视化</li><li>案件状态实时追踪</li><li>合规检查提醒</li></ul><h2>效率对比</h2><p>IntakePro平均接案时间15分钟，ClaimEntry需25分钟。IntakePro的自动化程度更高。</p><h2>选型建议</h2><p>大型保险公司推荐IntakePro，中小型公司适合ClaimEntry。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
+  "title": "理赔接案时间从25分钟缩短至15分钟？IntakePro对比｜2026年评测",
+  "description": "2026年理赔接案系统评测：对比IntakePro与ClaimEntry功能价格。IntakePro接案时间15分钟、智能表单填写、客户信息自动填充、历史理赔关联查询，助力保险公司理赔接案效率提升与案件录入智能化。",
+  "content": "<h2>系统概述</h2><p>理赔接案系统负责理赔案件的初次录入和信息采集。IntakePro和ClaimEntry是市场主流解决方案。</p><h2>核心功能</h2><h3>IntakePro特色</h3><ul><li>智能表单填写</li><li>客户信息自动填充</li><li>历史理赔关联查询</li><li>多语言支持</li></ul><h3>ClaimEntry特色</h3><ul><li>标准化理赔模板</li><li>审批流程可视化</li><li>案件状态实时追踪</li><li>合规检查提醒</li></ul><h2>效率对比</h2><p>IntakePro平均接案时间15分钟，ClaimEntry需25分钟。IntakePro的自动化程度更高。</p><h2>选型建议</h2><p>大型保险公司推荐IntakePro，中小型公司适合ClaimEntry。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "理赔接案系统",
     "理赔案件录入",
@@ -22,7 +22,7 @@
   "schema_rating": {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "[待翻译] 理赔接案系统对比：IntakePro与ClaimEntry深度评测｜2026年评测",
+    "name": "理赔接案时间从25分钟缩短至15分钟？IntakePro对比｜2026年评测",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.7",

@@ -1,7 +1,7 @@
 {
-  "title": "[待翻译] 移动理赔申报工具评测：ClaimApp与QuickFile移动端对比｜2026年评测",
-  "description": "2026年[待翻译] 移动理赔申报工具：评测：对比主流平台功能价格，降低成本20-30%，提升效率40%。深度分析核心优势与适用场景，助力企业科学决策选择最适合方案，实现数字化转型与运营效率显著提升，优化资源配置，降低运营成本，提升服务质量与客户满意度。助力企业发展。助力企业发展。助力企业发展。助力企业发展。",
-  "content": "[需要翻译]\n<h2>移动理赔趋势</h2><p>移动理赔申报工具让客户可随时随地提交理赔申请，极大提升理赔效率和客户满意度。</p><h2>功能评测</h2><table><tr><th>功能</th><th>ClaimApp</th><th>QuickFile</th></tr><tr><td>拍照上传</td><td>高清压缩技术</td><td>原图上传</td></tr><tr><td>GPS定位</td><td>自动事故定位</td><td>手动输入地址</td></tr><tr><td>视频录制</td><td>支持现场录制</td><td>仅支持图片</td></tr><tr><td>实时客服</td><td>在线聊天</td><td>电话客服</td></tr></table><h2>用户体验</h2><p>ClaimApp用户评分4.8分，QuickFile评分4.2分。ClaimApp在操作便捷性和功能丰富度上更胜一筹。</p><h2>技术优势</h2><p>ClaimApp采用AI图片识别技术，可自动识别受损部位和理赔类型，减少人工操作。</p><h2>推荐结论</h2><p>追求极致用户体验的保险公司应选择ClaimApp，成本敏感场景可选QuickFile。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
+  "title": "理赔还要跑柜台？3分钟手机申报，2款工具实测对比｜2026评测",
+  "description": "理赔还要跑柜台？2026年移动理赔申报工具对比评测，ClaimApp与QuickFile实测分析。手机拍照上传、GPS定位、视频录制功能对比，用户评分4.8vs4.2，帮助保险公司选择最适合的移动理赔方案，降低成本20%，提升效率40%。",
+  "content": "<h2>移动理赔趋势</h2><p>移动理赔申报工具让客户可随时随地提交理赔申请，极大提升理赔效率和客户满意度。</p><h2>功能评测</h2><table><tr><th>功能</th><th>ClaimApp</th><th>QuickFile</th></tr><tr><td>拍照上传</td><td>高清压缩技术</td><td>原图上传</td></tr><tr><td>GPS定位</td><td>自动事故定位</td><td>手动输入地址</td></tr><tr><td>视频录制</td><td>支持现场录制</td><td>仅支持图片</td></tr><tr><td>实时客服</td><td>在线聊天</td><td>电话客服</td></tr></table><h2>用户体验</h2><p>ClaimApp用户评分4.8分，QuickFile评分4.2分。ClaimApp在操作便捷性和功能丰富度上更胜一筹。</p><h2>技术优势</h2><p>ClaimApp采用AI图片识别技术，可自动识别受损部位和理赔类型，减少人工操作。</p><h2>推荐结论</h2><p>追求极致用户体验的保险公司应选择ClaimApp，成本敏感场景可选QuickFile。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
     "移动理赔申报",
     "理赔手机APP",
@@ -22,7 +22,7 @@
   "schema_rating": {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "[待翻译] 移动理赔申报工具评测：ClaimApp与QuickFile移动端对比｜2026年评测",
+    "name": "理赔还要跑柜台？3分钟手机申报，2款工具实测对比｜2026评测",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.7",

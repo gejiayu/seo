@@ -73,50 +73,50 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "What are the main features of Candidate Screening Software Review 2026?",
+        "name": "What screening platform pricing ranges from $99-999/month?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Candidate Screening Software Review 2026 systems provide tracking, software, and Screening capabilities, enabling businesses to optimize operations and make data-driven decisions."
+          "text": "Vervoe offers skills-based screening with custom assessments, AI grading, and branded experience at $99-999/month for role-specific skills testing. The platform provides job simulations enabling candidates to demonstrate capabilities directly rather than relying on resume credentials, reducing bias from focusing on demonstrated abilities."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I choose the right Candidate Screening Software Review 2026 platform?",
+        "name": "How does Pymetrics cognitive assessment pricing compare?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "When selecting a Candidate Screening Software Review 2026 platform, consider integration capabilities, user-friendliness, data security, and cost-effectiveness. Start with a needs assessment, then compare demos and trial versions from multiple providers."
+          "text": "Pymetrics offers enterprise custom pricing for AI cognitive and behavioral assessment using game-based assessments, AI matching, and bias reduction features optimized for large-scale hiring. HackerRank costs $5-25K/year for technical coding assessments with live coding, automated scoring, and question library for software developer hiring."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the implementation timeline for Candidate Screening Software Review 2026 systems?",
+        "name": "What processing speed advantage does screening software provide?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Candidate Screening Software Review 2026 system implementation typically takes 2-6 months, depending on business size, existing system complexity, and customization requirements. Small businesses can deploy in 1-2 months, while large enterprises may need 6+ months."
+          "text": "Screening software processes candidates 10-100x faster than manual review - seconds to minutes per candidate versus 5-15 minutes per resume manually. AI resume analysis platforms like CVViZ ($50-300/month) extract structured data, score candidates against job criteria, and rank applicants through automated processing eliminating manual screening burden."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the cost range for Candidate Screening Software Review 2026 solutions?",
+        "name": "Which platforms integrate with Greenhouse, Lever, and Workday?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Candidate Screening Software Review 2026 solution costs vary by vendor and features, with basic versions ranging $5,000-$15,000 annually, and advanced versions reaching $50,000-$100,000. Choose the version that matches your actual requirements."
+          "text": "Major screening platforms offer pre-built integrations with Greenhouse, Lever, and Workday ATS systems for seamless workflow automation. HireVue, Vervoe, and CVViZ integrate with leading ATS platforms enabling automatic screening triggering when candidates apply, results posting to profiles, ranking within ATS, and workflow progression based on screening outcomes."
         }
       },
       {
         "@type": "Question",
-        "name": "How does Candidate Screening Software Review 2026 integrate with other enterprise systems?",
+        "name": "How does Paradox conversational AI handle high-volume screening?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Candidate Screening Software Review 2026 systems integrate with ERP, CRM, and financial systems via API interfaces, data import/export features, and standard protocols. Modern platforms support real-time data synchronization and automated workflow orchestration."
+          "text": "Paradox conversational AI screening through chat-based assistants like Olivia handles high-volume initial screening with 24/7 availability, conducting screening through natural dialogue, answering candidate questions, collecting qualification information, and scheduling next steps without human intervention. Custom pricing scales for enterprise high-volume hiring where manual initial screening is impractical."
         }
       },
       {
         "@type": "Question",
-        "name": "What technical requirements are needed for Candidate Screening Software Review 2026?",
+        "name": "What bias reduction features do screening platforms offer?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Candidate Screening Software Review 2026 systems typically require stable network infrastructure, compatible operating systems, and sufficient storage. Most modern platforms support cloud deployment, reducing local hardware requirements. Professional IT staff recommended for maintenance."
+          "text": "Blind screening removes demographic identifiers from resumes, standardized criteria applied consistently, objective assessment replaces subjective judgment, and bias auditing analyzes results by demographic groups. Pymetrics emphasizes bias reduction through game-based assessments. However, AI algorithms may encode bias from training data, requiring regular outcome auditing and vendor bias mitigation collaboration."
         }
       }
     ]

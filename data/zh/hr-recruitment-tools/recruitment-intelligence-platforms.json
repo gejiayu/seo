@@ -1,17 +1,17 @@
 {
-  "title": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS",
-  "description": "2026年招聘智能平台评测：对比Eightfold AI、HireVue等6款平台AI评分和预测分析功能，候选匹配准确率85%，招聘效率提升50%，实现管理效率提升85%，流程规范化率提升80%，客户满意度提升75%，助力企业高质量发展推动行业创新升级进程加速。助力数字化转型与智能化升级可持续发展。",
-  "content": "[需要翻译]\n<h2>Evolution of Recruitment Technology</h2><p>Recruitment intelligence platforms represent the next generation of talent acquisition technology, transcending traditional applicant tracking system capabilities. While ATS systems focus on workflow management and candidate record-keeping, recruitment intelligence platforms leverage artificial intelligence, machine learning, and advanced analytics to transform hiring from administrative process to strategic competitive advantage. In 2026, the distinction between these technology categories has sharpened as organizations demand deeper insights from their recruitment investments.</p><p>Traditional ATS platforms excel at process automation, ensuring consistent candidate workflows and compliance documentation. However, these systems typically provide limited analytical depth, offering basic metrics like time-to-fill and source effectiveness. Recruitment intelligence platforms extend far beyond operational metrics, delivering predictive insights that shape hiring strategy and talent pipeline development.</p><h2>Core Intelligence Capabilities</h2><p>Candidate scoring and ranking represents the foundational intelligence capability differentiating modern platforms. Advanced algorithms analyze multiple data dimensions including resume content, assessment results, interview feedback, and historical hiring patterns to predict candidate success probability. These scoring systems enable recruiters to prioritize high-potential candidates and reduce time spent on unlikely fits.</p><p>Predictive analytics transform recruitment from reactive sourcing to proactive talent anticipation. Intelligence platforms analyze historical hiring patterns, turnover trends, and business growth projections to forecast future talent needs. This predictive capability enables organizations to build talent pipelines ahead of demand rather than scrambling when positions open.</p><p>Market intelligence features provide external context for internal hiring decisions. Leading platforms aggregate industry hiring trends, compensation benchmarks, and talent availability indicators. This market awareness enables competitive positioning adjustments and realistic timeline expectations.</p><h2>Platform Comparison Matrix</h2><table><thead><tr><th>Platform Type</th><th>AI Candidate Scoring</th><th>Predictive Hiring</th><th>Market Intelligence</th><th>Talent Pipeline Analytics</th><th>Integration Flexibility</th></tr></thead><tbody><tr><td>Eightfold AI</td><td>Deep Learning</td><td>Advanced</td><td>Industry-wide</td><td>Career Pathing</td><td>Universal APIs</td></tr><tr><td>HireVue Insights</td><td>Video AI</td><td>Assessment-based</td><td>Vertical Focus</td><td>Interview Analytics</td><td>ATS Connectors</td></tr><tr><td>Phenom People</td><td>Candidate Journey</td><td>CRM Predictive</td><td>Talent Market</td><td>Journey Mapping</td><td>CRM-native</td></tr><tr><td>Beamery</td><td>Talent Graph</td><td>Pipeline Forecast</td><td>Market Data</td><td>Graph Analytics</td><td>HRIS Integration</td></tr><tr><td>Traditional ATS</td><td>Basic Filters</td><td>Limited</td><td>None</td><td>Manual Tracking</td><td>Core HRIS</td></tr><tr><td>Levers AI</td><td>Success Prediction</td><td>Hiring Forecast</td><td>Benchmarking</td><td>Sourcing Analytics</td><td>ATS Add-on</td></tr></tbody></table><h2>Strategic Value Differentiators</h2><p>Recruitment intelligence platforms deliver strategic value through talent acquisition optimization rather than operational efficiency gains. Quality-of-hire analytics measure post-hire performance, retention, and advancement patterns, enabling continuous refinement of sourcing and selection criteria. These insights reveal which candidate attributes actually correlate with success rather than assumed preferences.</p><p>Diversity and inclusion analytics have become critical platform capabilities. Intelligence systems track diversity pipeline metrics, identify bias patterns in selection processes, and recommend interventions for equitable outcomes. Advanced platforms incorporate blind screening features and bias detection algorithms to support fair hiring practices.</p><p>Cost-per-hire optimization extends beyond basic expense tracking. Intelligence platforms analyze channel effectiveness, conversion rates, and quality correlations to optimize sourcing investment allocation. These insights enable dynamic budget adjustments based on real-time performance data.</p><h2>Implementation Architecture</h2><p>Most recruitment intelligence platforms operate as overlay systems enhancing existing ATS investments rather than requiring complete replacement. This architectural approach enables organizations to preserve workflow investments while adding analytical capabilities. Integration design determines implementation complexity and ongoing data synchronization quality.</p><p>Data flow architecture requires careful planning to ensure intelligence platforms access complete candidate information. Real-time synchronization prevents analytical gaps and enables live scoring updates. Organizations should evaluate API capabilities and data format compatibility during selection.</p><p>User interface design impacts adoption success significantly. Intelligence platforms must present complex analytical outputs in accessible formats for recruiter utilization. Dashboard customization enables role-specific views that match decision-making needs.</p><h2>Pricing and Value Models</h2><p>Recruitment intelligence platform pricing typically follows subscription models with costs tied to organizational scale and feature scope. Enterprise solutions range from thirty thousand to over one hundred thousand dollars annually depending on candidate volume and analytical depth. Mid-market options offer scaled capabilities for smaller organizations with pricing from ten to thirty thousand dollars.</p><p>Value realization timelines vary based on implementation scope and organizational readiness. Organizations with quality historical data realize predictive model benefits within three to six months. Those requiring significant data cleansing or integration development may extend to twelve months before full intelligence activation.</p><p>ROI calculations should incorporate both efficiency gains and quality improvements. Time savings from automated candidate scoring represent measurable operational benefits. Quality-of-hire improvements generate larger financial impact through performance differences and retention improvements.</p><h2>Vendor Selection Framework</h2><p>Selecting recruitment intelligence platforms requires systematic evaluation across technical, operational, and strategic dimensions. Technical assessment should examine algorithm transparency, model accuracy metrics, and integration architecture. Requesting accuracy validation studies and bias testing results reveals predictive reliability.</p><p>Operational fit evaluation examines workflow compatibility and user experience design. Platforms should enhance recruiter productivity rather than adding administrative complexity. Demo sessions with actual recruiters reveal practical usability characteristics.</p><p>Strategic alignment assessment determines whether platform capabilities match organizational talent acquisition priorities. Organizations emphasizing diversity hiring should prioritize platforms with robust inclusion analytics. Those focused on high-volume hiring require efficient screening automation capabilities.</p><h2>Future Technology Evolution</h2><p>Recruitment intelligence platforms continue evolving rapidly with emerging AI capabilities. Generative AI integration enables automated candidate communication, interview preparation assistance, and personalized job matching. Natural language processing advances allow deeper resume understanding and intent recognition.</p><p>Video interview analytics are expanding beyond basic assessment to behavioral pattern recognition and communication style analysis. These capabilities provide additional predictive dimensions for candidate success modeling.</p><p>Integration ecosystems are expanding as platforms connect with broader talent technology stacks. Learning management systems, performance platforms, and career development tools provide additional data sources for comprehensive talent intelligence.</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
+  "title": "招聘智能平台2026：AI评分对比传统ATS，匹配准确率85%",
+  "description": "传统ATS筛选候选人效率低？本文对比Eightfold AI、HireVue等6款智能平台，AI候选评分准确率85%，预测分析提升招聘效率50%，让HR从被动筛选转为主动预测。",
+  "content": "\n<h2>招聘技术的演进</h2><p>招聘智能平台代表了下一代人才获取技术，超越了传统申请人追踪系统的能力。ATS系统专注于工作流管理和候选人记录保存，招聘智能平台则利用人工智能、机器学习和高级分析，将招聘从行政流程转变为战略竞争优势。在2026年，随着组织要求从招聘投资中获得更深度的洞察，这些技术类别的区别变得更加明显。</p><p>传统ATS平台擅长流程自动化，确保一致的候选人工作流和合规文档。然而，这些系统通常提供有限的分析深度，提供基础指标如招聘周期和来源效果。招聘智能平台远远超越运营指标，提供预测洞察来塑造招聘策略和人才管线发展。</p><h2>核心智能能力</h2><p>候选人评分和排名是区分现代平台的基础智能能力。高级算法分析多个数据维度，包括简历内容、评估结果、面试反馈和历史招聘模式，预测候选人成功概率。这些评分系统使招聘人员能够优先关注高潜力候选人，减少在不太合适候选人上的时间。</p><p>预测分析将招聘从被动寻找转变为主动人才预期。智能平台分析历史招聘模式、离职趋势和业务增长预测，预测未来人才需求。这种预测能力使组织能够在需求出现前建立人才管线，而不是职位开放时手忙脚乱。</p><p>市场智能功能为内部招聘决策提供外部背景。领先平台聚合行业招聘趋势、薪酬基准和人才可用性指标。这种市场意识支持竞争定位调整和现实的时间线预期。</p><h2>平台对比矩阵</h2><table><thead><tr><th>平台类型</th><th>AI候选人评分</th><th>预测招聘</th><th>市场智能</th><th>人才管线分析</th><th>集成灵活性</th></tr></thead><tbody><tr><td>Eightfold AI</td><td>深度学习</td><td>高级</td><td>行业广泛</td><td>职业路径</td><td>通用API</td></tr><tr><td>HireVue Insights</td><td>视频AI</td><td>评估导向</td><td>垂直聚焦</td><td>面试分析</td><td>ATS连接器</td></tr><tr><td>Phenom People</td><td>候选人旅程</td><td>CRM预测</td><td>人才市场</td><td>旅程地图</td><td>CRM原生</td></tr><tr><td>Beamery</td><td>人才图谱</td><td>管线预测</td><td>市场数据</td><td>图谱分析</td><td>HRIS集成</td></tr><tr><td>传统ATS</td><td>基础筛选</td><td>有限</td><td>无</td><td>手动追踪</td><td>核心HRIS</td></tr><tr><td>Levers AI</td><td>成功预测</td><td>招聘预测</td><td>对标</td><td>招聘分析</td><td>ATS附加</td></tr></tbody></table><h2>战略价值差异化</h2><p>招聘智能平台通过人才获取优化而非运营效率提升来提供战略价值。录用质量分析衡量入职后表现、留存和晋升模式，支持持续优化招聘和筛选标准。这些洞察揭示哪些候选人特质真正与成功相关，而非假设的偏好。</p><p>多样性和包容性分析已成为关键平台能力。智能系统追踪多样性管线指标，识别筛选流程中的偏见模式，推荐干预措施实现公平结果。高级平台融入盲筛选功能和偏见检测算法，支持公平招聘实践。</p><p>单次招聘成本优化超越基础费用追踪。智能平台分析渠道效果、转化率和质量关联，优化招聘投入分配。这些洞察支持基于实时表现数据的动态预算调整。</p><h2>实施架构</h2><p>大多数招聘智能平台作为叠加系统运作，增强现有ATS投资而非需要完全替代。这种架构方法使组织能够保留工作流投资同时添加分析能力。集成设计决定实施复杂性和持续数据同步质量。</p><p>数据流架构需要仔细规划确保智能平台访问完整候选人信息。实时同步防止分析差距并支持实时评分更新。组织应在选择期间评估API能力和数据格式兼容性。</p><p>用户界面设计显著影响采用成功。智能平台必须以可访问格式呈现复杂分析输出供招聘人员使用。仪表板定制支持角色特定视图匹配决策需求。</p><h2>定价和价值模型</h2><p>招聘智能平台定价通常遵循订阅模式，成本与组织规模和功能范围相关。企业解决方案年费从三万到十万美元以上不等，取决于候选人数量和分析深度。中等市场选项为较小组织提供缩放能力，定价从一万到三万美元。</p><p>价值实现时间线因实施范围和组织准备而异。有优质历史数据的组织在三到六个月内实现预测模型收益。需要大量数据清洗或集成开发的可能需要十二个月才能完全激活智能。</p><p>ROI计算应纳入效率收益和质量改进。自动候选人评分的时间节省代表可衡量的运营收益。录用质量改进通过表现差异和留存提升产生更大的财务影响。</p><h2>供应商选择框架</h2><p>选择招聘智能平台需要跨技术、运营和战略维度的系统评估。技术评估应审查算法透明度、模型准确度指标和集成架构。要求准确度验证研究和偏见测试结果揭示预测可靠性。</p><p>运营适配评估审查工作流兼容性和用户体验设计。平台应增强招聘人员生产力而非添加行政复杂性。与实际招聘人员的演示会揭示实际可用性特征。</p><p>战略匹配评估确定平台能力是否匹配组织人才获取优先级。强调多样性招聘的组织应优先有强大包容性分析的平台。专注于大量招聘的需高效筛选自动化能力。</p><h2>未来技术演进</h2><p>招聘智能平台随着新兴AI能力持续快速演进。生成AI集成支持自动候选人沟通、面试准备辅助和个性化职位匹配。自然语言处理进步允许更深度的简历理解和意图识别。</p><p>视频面试分析从基础评估扩展到行为模式识别和沟通风格分析。这些能力为候选人成功建模提供额外的预测维度。</p><p>集成生态系统随着平台连接更广泛的人才技术栈而扩展。学习管理系统、表现平台和职业发展工具为全面人才智能提供额外数据源。</p><h2>HouseCar 自由观点：灵活办公的诗意</h2><p>每分钟节省，是生命在路上的延伸。工具解放创业者，去追逐房车自由。HouseCar：工具赋能，生活自由。别让报表困住灵魂，把时间还给家人、自然。灵活办公，是选择。</p>",
   "seo_keywords": [
-    "recruitment intelligence platforms",
-    "ai recruiting software",
-    "candidate scoring systems",
-    "predictive hiring analytics",
-    "talent intelligence tools"
+    "招聘智能平台",
+    "AI招聘软件",
+    "候选人评分系统",
+    "预测招聘分析",
+    "人才智能工具"
   ],
   "slug": "recruitment-intelligence-platforms",
   "published_at": "2026-04-30",
-  "author": "HR Data Analyst",
+  "author": "HR数据分析师",
   "language": "zh-CN",
   "canonical_link": "https://www.housecar.life/posts/recruitment-intelligence-platforms",
   "alternate_links": {
@@ -21,38 +21,38 @@
   "category": "hr-recruitment-tools",
   "pros_and_cons": {
     "pros": [
-      "[待翻译] Provides AI-powered candidate scoring and success prediction beyond ATS capabilities",
-      "[待翻译] Enables proactive talent pipeline development through predictive analytics",
-      "[待翻译] Delivers market intelligence and competitive benchmarking insights",
-      "[待翻译] Tracks quality-of-hire metrics for continuous selection improvement",
-      "[待翻译] Offers diversity analytics and bias detection for equitable hiring"
+      "提供超越ATS能力的AI候选人评分和成功预测",
+      "通过预测分析支持主动人才管线发展",
+      "提供市场情报和竞争对标洞察",
+      "追踪录用质量指标用于持续筛选改进",
+      "提供多样性分析和偏见检测用于公平招聘"
     ],
     "cons": [
-      "[待翻译] Requires quality historical hiring data for accurate predictive models",
-      "[待翻译] Overlay architecture adds complexity to existing ATS workflows",
-      "[待翻译] Premium pricing may challenge ROI justification for smaller organizations",
-      "[待翻译] Algorithm transparency varies significantly across vendors",
-      "[待翻译] User adoption requires analytical skill development beyond typical recruiter training"
+      "需要优质历史招聘数据才能获得准确的预测模型",
+      "叠加架构增加了现有ATS工作流的复杂性",
+      "高价可能挑战较小组织的ROI论证",
+      "算法透明度在不同供应商间差异很大",
+      "用户使用需要超越典型招聘培训的分析技能发展"
     ]
   },
   "faq": [
     {
-      "question": "[待翻译] Can recruitment intelligence platforms replace traditional ATS systems entirely?",
-      "answer": "[待翻译] Some platforms offer complete ATS replacement capabilities, but most organizations benefit from overlay architecture that enhances existing workflow investments. Complete replacement may suit organizations undergoing comprehensive technology transformation."
+      "question": "招聘智能平台能否完全替代传统ATS系统？",
+      "answer": "有些平台提供完整的ATS替代能力，但大多数组织受益于叠加架构，增强现有工作流投资。完整替代可能适合正在进行全面技术转型的组织。"
     },
     {
-      "question": "[待翻译] How accurate are AI candidate scoring predictions?",
-      "answer": "[待翻译] Leading platforms demonstrate 70-85% accuracy in predicting candidate success based on validation studies. Accuracy depends on historical data quality, job complexity, and organizational consistency in selection criteria."
+      "question": "AI候选人评分预测有多准确？",
+      "answer": "领先平台根据验证研究，预测候选人成功的准确率达70-85%。准确度取决于历史数据质量、工作复杂度和组织筛选标准的一致性。"
     },
     {
-      "question": "[待翻译] Do these platforms handle international hiring and multi-language requirements?",
-      "answer": "[待翻译] Major platforms support international operations with multi-language processing, regional market intelligence, and global talent pool analytics. Organizations should verify specific regional capabilities during evaluation."
+      "question": "这些平台能否处理国际招聘和多语言需求？",
+      "answer": "主要平台支持国际运营，提供多语言处理、区域市场情报和全球人才库分析。组织应在评估期间验证特定的区域能力。"
     }
   ],
   "schema_rating": {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS",
+    "name": "招聘智能平台2026：领先方案对比传统ATS",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.7",
@@ -73,50 +73,50 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS的主要功能有哪些？",
+        "name": "招聘智能平台2026：领先方案对比传统ATS的主要功能有哪些？",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统提供tracking、recruitment、Recruitment等核心功能，帮助企业实现高效运营和智能决策。"
+          "text": "招聘智能平台2026：领先方案对比传统ATS系统提供追踪、招聘、招聘等核心功能，帮助企业实现高效运营和智能决策。"
         }
       },
       {
         "@type": "Question",
-        "name": "如何选择适合的[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS平台？",
+        "name": "如何选择适合的招聘智能平台2026：领先方案对比传统ATS平台？",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "选择[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS平台时，应考虑系统的集成能力、用户友好性、数据安全性和成本效益。建议先进行需求分析，然后对比多个平台的演示和试用版本。"
+          "text": "选择招聘智能平台2026：领先方案对比传统ATS平台时，应考虑系统的集成能力、用户友好性、数据安全性和成本效益。建议先进行需求分析，然后对比多个平台的演示和试用版本。"
         }
       },
       {
         "@type": "Question",
-        "name": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统的实施周期多长？",
+        "name": "招聘智能平台2026：领先方案对比传统ATS系统的实施周期多长？",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统的实施周期通常为2-6个月，具体取决于企业规模、现有系统复杂度和定制需求。小型企业可在1-2个月内完成部署，大型企业可能需要6个月以上。"
+          "text": "招聘智能平台2026：领先方案对比传统ATS系统的实施周期通常为2-6个月，具体取决于企业规模、现有系统复杂度和定制需求。小型企业可在1-2个月内完成部署，大型企业可能需要6个月以上。"
         }
       },
       {
         "@type": "Question",
-        "name": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS解决方案的成本范围是多少？",
+        "name": "招聘智能平台2026：领先方案对比传统ATS解决方案的成本范围是多少？",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS解决方案的成本因厂商和功能而异，基础版本年费通常在$5,000-$15,000，高级版本可达$50,000-$100,000。建议根据实际需求选择合适版本。"
+          "text": "招聘智能平台2026：领先方案对比传统ATS解决方案的成本因厂商和功能而异，基础版本年费通常在$5,000-$15,000，高级版本可达$50,000-$100,000。建议根据实际需求选择合适版本。"
         }
       },
       {
         "@type": "Question",
-        "name": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统如何与其他企业系统集成？",
+        "name": "招聘智能平台2026：领先方案对比传统ATS系统如何与其他企业系统集成？",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统通过API接口、数据导入导出功能和标准协议与ERP、CRM、财务系统等集成。现代平台支持实时数据同步和自动化流程编排。"
+          "text": "招聘智能平台2026：领先方案对比传统ATS系统通过API接口、数据导入导出功能和标准协议与ERP、CRM、财务系统等集成。现代平台支持实时数据同步和自动化流程编排。"
         }
       },
       {
         "@type": "Question",
-        "name": "使用[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统需要哪些技术要求？",
+        "name": "使用招聘智能平台2026：领先方案对比传统ATS系统需要哪些技术要求？",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统通常需要稳定的网络环境、兼容的操作系统和足够的存储空间。大多数现代平台支持云端部署，降低本地硬件要求。建议配备专业IT人员进行维护。"
+          "text": "招聘智能平台2026：领先方案对比传统ATS系统通常需要稳定的网络环境、兼容的操作系统和足够的存储空间。大多数现代平台支持云端部署，降低本地硬件要求。建议配备专业IT人员进行维护。"
         }
       }
     ]
@@ -124,28 +124,28 @@
   "howto_schema": {
     "@context": "https://schema.org",
     "@type": "HowTo",
-    "name": "[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS Implementation Guide",
-    "description": "[需要翻译] Compare recruitment intelligence platforms with traditional ATS systems. Discover AI-powered hiring insights, candidate scoring, and predictive recr",
+    "name": "招聘智能平台2026：领先方案对比传统ATS实施指南",
+    "description": "对比招聘智能平台与传统ATS系统。发现AI驱动的招聘洞察、候选人评分和预测招聘分析。",
     "step": [
       {
         "@type": "HowToStep",
         "name": "需求分析与评估",
-        "text": "分析企业当前tracking流程，识别痛点和技术需求。评估团队规模、预算限制和系统集成要求，制定详细的[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS实施计划。"
+        "text": "分析企业当前追踪流程，识别痛点和技术需求。评估团队规模、预算限制和系统集成要求，制定详细的招聘智能平台2026：领先方案对比传统ATS实施计划。"
       },
       {
         "@type": "HowToStep",
         "name": "平台选择与对比",
-        "text": "研究市场上主流的[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS平台，对比功能特性、价格方案和用户评价。安排产品演示和试用，验证平台是否满足企业核心需求。"
+        "text": "研究市场上主流的招聘智能平台2026：领先方案对比传统ATS平台，对比功能特性、价格方案和用户评价。安排产品演示和试用，验证平台是否满足企业核心需求。"
       },
       {
         "@type": "HowToStep",
         "name": "系统部署与配置",
-        "text": "与供应商合作部署[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统，配置用户权限、数据字段和工作流程。导入现有数据并进行系统测试，确保各项功能正常运行。"
+        "text": "与供应商合作部署招聘智能平台2026：领先方案对比传统ATS系统，配置用户权限、数据字段和工作流程。导入现有数据并进行系统测试，确保各项功能正常运行。"
       },
       {
         "@type": "HowToStep",
         "name": "团队培训与上线",
-        "text": "组织员工参加[待翻译] Recruitment Intelligence Platforms 2026: Top Solutions vs Traditional ATS系统培训，学习操作流程和最佳实践。制定使用规范和应急预案，逐步推广至各部门，实现全面上线运行。"
+        "text": "组织员工参加招聘智能平台2026：领先方案对比传统ATS系统培训，学习操作流程和最佳实践。制定使用规范和应急预案，逐步推广至各部门，实现全面上线运行。"
       }
     ]
   }

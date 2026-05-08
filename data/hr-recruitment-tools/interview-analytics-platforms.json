@@ -73,50 +73,50 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "What are the main features of Interview Analytics Platforms 2026?",
+        "name": "What are the main features of interview analytics platforms?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Interview Analytics Platforms 2026 systems provide Analytics, Interview, and analytics capabilities, enabling businesses to optimize operations and make data-driven decisions."
+          "text": "Core features include time metrics (time-to-interview, interview duration, scheduling delay), conversion metrics (interview-to-offer rate, stage progression), interviewer metrics (participation rate, score calibration, bias indicators), and quality metrics (score distributions, evaluation consistency). Platforms like GoodTime Analytics ($15-30/user/month) and HireVue Insights offer AI-powered sentiment analysis and interviewer performance tracking."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I choose the right Interview Analytics Platforms 2026 platform?",
+        "name": "How does Greenhouse Analytics compare to HireVue Insights for interview metrics?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "When selecting a Interview Analytics Platforms 2026 platform, consider integration capabilities, user-friendliness, data security, and cost-effectiveness. Start with a needs assessment, then compare demos and trial versions from multiple providers."
+          "text": "Greenhouse Analytics provides native integration within Greenhouse ATS, tracking full hiring funnel metrics including stage conversion, time-to-hire, interviewer load, and diversity composition. HireVue Insights specializes in interview performance with score distributions, interviewer calibration analysis, and bias detection for organizations using HireVue video interviewing. MyInterview Analytics ($60-180/month) adds AI insights and communication pattern analysis for video interviews."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the implementation timeline for Interview Analytics Platforms 2026 systems?",
+        "name": "What pricing do interview analytics platforms charge?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Interview Analytics Platforms 2026 system implementation typically takes 2-6 months, depending on business size, existing system complexity, and customization requirements. Small businesses can deploy in 1-2 months, while large enterprises may need 6+ months."
+          "text": "GoodTime Analytics ranges $15-30 per user monthly for interview operations focus. MyInterview Analytics charges $60-180 monthly for video intelligence with AI insights. Clovers AI offers custom pricing for bias detection through language analysis. Greenhouse Analytics comes included with Greenhouse ATS subscription. Enterprise platforms like HireVue Insights require custom enterprise pricing negotiations."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the cost range for Interview Analytics Platforms 2026 solutions?",
+        "name": "How do analytics platforms detect bias in interview processes?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Interview Analytics Platforms 2026 solution costs vary by vendor and features, with basic versions ranging $5,000-$15,000 annually, and advanced versions reaching $50,000-$100,000. Choose the version that matches your actual requirements."
+          "text": "Platforms like Clovers AI use language pattern analysis identifying biased interview questions, demographic outcome analysis comparing scores across groups, interviewer bias indicators showing evaluators who consistently score certain groups differently, scoring outlier detection flagging unusual ratings, and blind comparison tools enabling anonymized evaluation. Bias analytics help organizations comply with EEO requirements and improve diversity outcomes."
         }
       },
       {
         "@type": "Question",
-        "name": "How does Interview Analytics Platforms 2026 integrate with other enterprise systems?",
+        "name": "What integration requirements do interview analytics platforms need?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Interview Analytics Platforms 2026 systems integrate with ERP, CRM, and financial systems via API interfaces, data import/export features, and standard protocols. Modern platforms support real-time data synchronization and automated workflow orchestration."
+          "text": "Analytics require data connections to ATS systems like Workday, Greenhouse, Lever for candidate progression data, calendar platforms for scheduling metrics, video interview tools for content analysis, and evaluation systems for scoring data. Native analytics within comprehensive platforms like Greenhouse provide deepest integration, while specialized platforms like GoodTime use API connections aggregating data from multiple sources."
         }
       },
       {
         "@type": "Question",
-        "name": "What technical requirements are needed for Interview Analytics Platforms 2026?",
+        "name": "What AI-powered interview insights do analytics platforms provide?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Interview Analytics Platforms 2026 systems typically require stable network infrastructure, compatible operating systems, and sufficient storage. Most modern platforms support cloud deployment, reducing local hardware requirements. Professional IT staff recommended for maintenance."
+          "text": "AI capabilities include sentiment analysis interpreting candidate and interviewer communication tone, language pattern analysis identifying question quality and response depth, predictive scoring estimating outcome likelihood, video content analysis evaluating non-verbal communication in recorded interviews, and automated feedback generation providing interviewer improvement suggestions. MyInterview Analytics and HireVue Insights lead in AI-powered video interview analysis."
         }
       }
     ]
