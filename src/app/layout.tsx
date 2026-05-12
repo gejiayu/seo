@@ -56,12 +56,26 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         <Header />
+        {/* Google AdSense */}
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9920271435480805"
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
+
+        {/* 百度统计 */}
+        <Script id="baidu-analytics" strategy="afterInteractive">
+          {`
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?4193c918286513f395709d49d19df88d";
+              var s = document.getElementsByTagName("script")[0];
+              s.parentNode.insertBefore(hm, s);
+            })();
+          `}
+        </Script>
         <Script id="website-schema" type="application/ld+json" strategy="beforeInteractive">
           {JSON.stringify(websiteSchema)}
         </Script>
