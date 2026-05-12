@@ -1,7 +1,6 @@
 import { Metadata } from 'next'
 import HomePageClient from '@/components/HomePageClient'
-
-export const runtime = 'edge'
+import { getAllPagesList, getAllCategories } from '@/lib/data-loader'
 
 const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 
@@ -27,13 +26,17 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-interface HomePageProps {
-  searchParams: Promise<{
-    category?: string
-  }>
-}
+export default function HomePage() {
+  const pages = getAllPagesList('en-US')
+  const categories = getAllCategories('en-US')
+  const total = pages.length
 
-export default async function HomePage({ searchParams }: HomePageProps) {
-  const { category } = await searchParams
-  return <HomePageClient language="en-US" initialCategory={category} />
+  return (
+    <HomePageClient
+      language="en-US"
+      initialPages={pages}
+      initialCategories={categories}
+      initialTotal={total}
+    />
+  )
 }

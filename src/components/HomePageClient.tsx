@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { usePathname, useSearchParams } from 'next/navigation'
 import type { PageListItem, Language } from '@/lib/data-loader'
 import { getCategoryName } from '@/lib/category-translations'
 
@@ -44,114 +43,31 @@ function ArticleCard({ page, language }: { page: PageListItem; language: Languag
 
 interface HomePageClientProps {
   language?: Language
-  initialCategory?: string
+  initialPages: PageListItem[]
+  initialCategories: string[]
+  initialTotal: number
 }
 
-export default function HomePageClient({ language = 'en-US', initialCategory }: HomePageClientProps) {
-  const pathname = usePathname()
-  const searchParams = useSearchParams()
-  const [pages, setPages] = useState<PageListItem[]>([])
-  const [categories, setCategories] = useState<string[]>([])
-  const [total, setTotal] = useState(0)
-  const [isLoading, setIsLoading] = useState(true)
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(initialCategory || null)
-  const [showAllCategories, setShowAllCategories] = useState(initialCategory ? true : false)
-  const [page, setPage] = useState(1)
+export default function HomePageClient({
+  language = 'en-US',
+  initialPages,
+  initialCategories,
+  initialTotal
+}: HomePageClientProps) {
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+  const [showAllCategories, setShowAllCategories] = useState(false)
+  const [visibleCount, setVisibleCount] = useState(50)
 
-  // 初始加载
-  useEffect(() => {
-    const initLoad = async () => {
-      setIsLoading(true)
-      const params = new URLSearchParams({
-        limit: selectedCategory ? '100' : '50',
-        language,
-      })
-      if (selectedCategory) {
-        params.set('category', selectedCategory)
-      }
+  // Client-side filtering
+  const filteredPages = selectedCategory
+    ? initialPages.filter(p => p.category === selectedCategory)
+    : initialPages
 
-      const res = await fetch(`/api/pages?${params}`)
-      const data = await res.json()
-      setPages(data.pages)
-      setCategories(data.categories || [])
-      setTotal(data.total)
-      setIsLoading(false)
-    }
+  const visiblePages = filteredPages.slice(0, visibleCount)
+  const hasMore = visibleCount < filteredPages.length
+  const filteredTotal = filteredPages.length
 
-    initLoad()
-  }, [language, selectedCategory])
-
-  // 如果选中的类目不在前20个中，自动展开类目列表
-  useEffect(() => {
-    if (selectedCategory && categories.length > 20) {
-      const isInFirst20 = categories.slice(0, 20).includes(selectedCategory)
-      if (!isInFirst20) {
-        setShowAllCategories(true)
-      }
-    }
-  }, [selectedCategory, categories])
-
-  const visibleCategories = showAllCategories ? categories : categories.slice(0, 20)
-  const hasMore = pages.length < total
-
-  // 加载更多
-  const loadMore = async () => {
-    if (isLoading || !hasMore) return
-    setIsLoading(true)
-
-    try {
-      const nextPage = page + 1
-      const params = new URLSearchParams({
-        page: nextPage.toString(),
-        limit: '50',
-        language,
-      })
-      if (selectedCategory) {
-        params.set('category', selectedCategory)
-      }
-
-      const res = await fetch(`/api/pages?${params}`)
-      const data = await res.json()
-
-      setPages(prev => [...prev, ...data.pages])
-      setPage(nextPage)
-    } catch (error) {
-      console.error('Failed to load more pages:', error)
-    } finally {
-      setIsLoading(false)
-    }
-  }
-
-  // 分类筛选
-  const handleCategorySelect = async (category: string | null) => {
-    const newCategory = selectedCategory === category ? null : category
-    setSelectedCategory(newCategory)
-    setIsLoading(true)
-    setPage(1)
-
-    // 更新 URL 参数
-    if (newCategory) {
-      window.history.pushState(null, '', `${pathname}?category=${newCategory}`)
-    } else {
-      window.history.pushState(null, '', pathname)
-    }
-
-    if (!newCategory) {
-      // 重置为初始数据
-      const res = await fetch(`/api/pages?limit=50&language=${language}`)
-      const data = await res.json()
-      setPages(data.pages)
-      setTotal(data.total)
-      setIsLoading(false)
-      return
-    }
-
-    const res = await fetch(`/api/pages?category=${newCategory}&limit=100&language=${language}`)
-    const data = await res.json()
-    setPages(data.pages)
-    setTotal(data.total)
-    setIsLoading(false)
-  }
+  const visibleCategories = showAllCategories ? initialCategories : initialCategories.slice(0, 20)
 
   // 文本基于语言
   const texts = language === 'zh-CN'
@@ -164,7 +80,6 @@ export default function HomePageClient({ language = 'en-US', initialCategory }: 
         more: '更多',
         loadMore: '加载更多',
         remaining: '剩余',
-        loading: '加载中...',
         noArticles: '该分类暂无文章',
         subtitle: '🚀 用对工具，自由工作，自由生活',
       }
@@ -177,20 +92,18 @@ export default function HomePageClient({ language = 'en-US', initialCategory }: 
         more: 'more',
         loadMore: 'Load More',
         remaining: 'remaining',
-        loading: 'Loading...',
         noArticles: 'No articles found in this category',
         subtitle: '🚀 Free Your Business with the Right Tools — Work Anywhere, Live Freely',
       }
 
-  if (isLoading && pages.length === 0) {
-    return (
-      <div className="container mx-auto px-4 py-8">
-        <div className="text-center py-20">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-          <p className="text-gray-500">{texts.loading}</p>
-        </div>
-      </div>
-    )
+  const handleCategorySelect = (category: string | null) => {
+    const newCategory = selectedCategory === category ? null : category
+    setSelectedCategory(newCategory)
+    setVisibleCount(50) // Reset visible count when changing category
+  }
+
+  const loadMore = () => {
+    setVisibleCount(prev => prev + 50)
   }
 
   return (
@@ -210,7 +123,7 @@ export default function HomePageClient({ language = 'en-US', initialCategory }: 
       {/* Categories Filter */}
       <section className="mb-10">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
-          {texts.categories} ({categories.length})
+          {texts.categories} ({initialCategories.length})
         </h2>
         <div className="flex flex-wrap gap-2 mb-4">
           {visibleCategories.map((category) => (
@@ -231,12 +144,12 @@ export default function HomePageClient({ language = 'en-US', initialCategory }: 
           ))}
         </div>
 
-        {categories.length > 20 && (
+        {initialCategories.length > 20 && (
           <button
             onClick={() => setShowAllCategories(!showAllCategories)}
             className="px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 transition-all duration-200 cursor-pointer"
           >
-            {showAllCategories ? texts.showLess : `${texts.showAll} (${categories.length - 20} ${texts.more})`}
+            {showAllCategories ? texts.showLess : `${texts.showAll} (${initialCategories.length - 20} ${texts.more})`}
           </button>
         )}
       </section>
@@ -245,14 +158,14 @@ export default function HomePageClient({ language = 'en-US', initialCategory }: 
       <section>
         <h2 className="text-2xl font-semibold text-gray-800 mb-6">
           {selectedCategory
-            ? `${getCategoryName(selectedCategory, language)} ${texts.articles} (${total})`
-            : `${texts.allArticles} (${total})`}
+            ? `${getCategoryName(selectedCategory, language)} ${texts.articles} (${filteredTotal})`
+            : `${texts.allArticles} (${initialTotal})`}
         </h2>
 
-        {pages.length > 0 ? (
+        {visiblePages.length > 0 ? (
           <>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-              {pages.map((pageItem) => (
+              {visiblePages.map((pageItem) => (
                 <ArticleCard key={pageItem.slug} page={pageItem} language={language} />
               ))}
             </div>
@@ -261,10 +174,9 @@ export default function HomePageClient({ language = 'en-US', initialCategory }: 
               <div className="mt-8 text-center">
                 <button
                   onClick={loadMore}
-                  disabled={isLoading}
-                  className="px-6 py-3 rounded-lg text-sm font-medium bg-blue-600 text-white hover:bg-blue-700 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
+                  className="px-6 py-3 rounded-lg text-sm font-medium bg-blue-600 text-white hover:bg-blue-700 transition-all duration-200 cursor-pointer"
                 >
-                  {isLoading ? texts.loading : `${texts.loadMore} (${total - pages.length} ${texts.remaining})`}
+                  {texts.loadMore} ({filteredTotal - visibleCount} {texts.remaining})
                 </button>
               </div>
             )}
