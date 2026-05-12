@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 import HomePageClient from '@/components/HomePageClient'
 
-export const runtime = 'nodejs'
+export const runtime = 'edge'
 
 const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
 

@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation'
 import { getAllPages, getAllPagePaths, getPageBySlug, getPagesByCategory, type Language } from '@/lib/data-loader'
 import { truncateDescription, generateOgImage, formatCategoryName } from '@/lib/seo-helpers'
 
-export const runtime = 'nodejs'
+export const runtime = 'edge'
 export const dynamic = 'force-dynamic'
 export const dynamicParams = true
 
