@@ -18,13 +18,12 @@ export function truncateDescription(description: string, maxLength = 155): strin
 }
 
 /**
- * Generates OG image URL
+ * Generates OG image URL (static for export compatibility)
  */
 export function generateOgImage(title: string, category?: string): string {
   const siteUrl = process.env.SITE_URL || 'https://www.housecar.life'
-  const params = new URLSearchParams({ title: title.slice(0, 60) })
-  if (category) params.append('category', category)
-  return `${siteUrl}/api/og?${params.toString()}`
+  // Use static OG image for static export
+  return `${siteUrl}/og-image.png`
 }
 
 /**
